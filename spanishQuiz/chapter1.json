@@ -1,0 +1,598 @@
+{
+  "hello": [
+    "hola"
+  ],
+  "hola": [
+    "hello"
+  ],
+  "muchacho": [
+    "boy"
+  ],
+  "boy": [
+    "muchacho"
+  ],
+  "muchacha": [
+    "girl"
+  ],
+  "girl": [
+    "muchacha"
+  ],
+  "joven": [
+    "young person",
+    "youth",
+    "young"
+  ],
+  "young person": [
+    "joven"
+  ],
+  "youth": [
+    "joven"
+  ],
+  "amigo": [
+    "friend"
+  ],
+  "friend": [
+    "amigo",
+    "amiga"
+  ],
+  "amiga": [
+    "friend"
+  ],
+  "alumno": [
+    "student"
+  ],
+  "student": [
+    "alumno"
+  ],
+  "escuela": [
+    "school"
+  ],
+  "school": [
+    "escuela"
+  ],
+  "clase": [
+    "class"
+  ],
+  "class": [
+    "clase"
+  ],
+  "curso": [
+    "course"
+  ],
+  "course": [
+    "curso"
+  ],
+  "profesor": [
+    "teacher"
+  ],
+  "teacher": [
+    "profesor"
+  ],
+  "guapo": [
+    "handsome",
+    "attractive"
+  ],
+  "handsome": [
+    "guapo"
+  ],
+  "attractive": [
+    "guapo"
+  ],
+  "bonito": [
+    "good-looking",
+    "pretty"
+  ],
+  "good-looking": [
+    "bonito",
+    "bonita"
+  ],
+  "bonita": [
+    "pretty",
+    "good-looking"
+  ],
+  "pretty": [
+    "bonita",
+    "bonito"
+  ],
+  "good looking": [
+    "bonita",
+    "bonito"
+  ],
+  "feo": [
+    "unattractive",
+    "ugly"
+  ],
+  "unattractive": [
+    "feo"
+  ],
+  "ugly": [
+    "feo"
+  ],
+  "moreno": [
+    "dark-haired",
+    "brunette"
+  ],
+  "dark-haired": [
+    "moreno"
+  ],
+  "dark haired": [
+    "moreno"
+  ],
+  "brunette": [
+    "moreno"
+  ],
+  "rubio": [
+    "blond"
+  ],
+  "blond": [
+    "rubio"
+  ],
+  "rubia": [
+    "blonde"
+  ],
+  "blonde": [
+    "rubia"
+  ],
+  "pelirrojo": [
+    "redhead",
+    "redheaded"
+  ],
+  "redhead": [
+    "pelirrojo"
+  ],
+  "redheaded": [
+    "pelirrojo"
+  ],
+  "alto": [
+    "tall"
+  ],
+  "tall": [
+    "alto"
+  ],
+  "bajo": [
+    "short"
+  ],
+  "short": [
+    "bajo"
+  ],
+  "bueno": [
+    "good"
+  ],
+  "good": [
+    "bueno"
+  ],
+  "malo": [
+    "bad"
+  ],
+  "bad": [
+    "malo"
+  ],
+  "comico": [
+    "funny",
+    "comical"
+  ],
+  "funny": [
+    "comico",
+    "gracioso"
+  ],
+  "comical": [
+    "comico"
+  ],
+  "gracioso": [
+    "funny"
+  ],
+  "ambicioso": [
+    "hard-working"
+  ],
+  "hard-working": [
+    "ambicioso"
+  ],
+  "hard working": [
+    "ambicioso"
+  ],
+  "perezoso": [
+    "lazy"
+  ],
+  "lazy": [
+    "perezoso"
+  ],
+  "simpatico": [
+    "nice"
+  ],
+  "nice": [
+    "simpatico"
+  ],
+  "antipatico": [
+    "not nice",
+    "unpleasant"
+  ],
+  "not nice": [
+    "antipatico"
+  ],
+  "unpleasant": [
+    "antipatico"
+  ],
+  "inteligente": [
+    "intelligent"
+  ],
+  "intelligent": [
+    "inteligente"
+  ],
+  "young": [
+    "joven"
+  ],
+  "quien": [
+    "who"
+  ],
+  "who": [
+    "quien"
+  ],
+  "quienes": [
+    "whom"
+  ],
+  "whom": [
+    "quienes"
+  ],
+  "como": [
+    "how"
+  ],
+  "how": [
+    "como"
+  ],
+  "de donde": [
+    "from where"
+  ],
+  "from where": [
+    "de donde"
+  ],
+  "de que nacionalidad": [
+    "what nationality"
+  ],
+  "what nationality": [
+    "de que nacionalidad"
+  ],
+  "of what natiponality": [
+    "de que nacionalidad"
+  ],
+  "argentino": [
+    "argentinian"
+  ],
+  "argentinian": [
+    "argentino"
+  ],
+  "chileno": [
+    "chilean"
+  ],
+  "chilean": [
+    "chileno"
+  ],
+  "colombiano": [
+    "colombian"
+  ],
+  "colombian": [
+    "colombiano"
+  ],
+  "ecuatoriano": [
+    "ecuadorian"
+  ],
+  "ecuadorian": [
+    "ecuatoriano"
+  ],
+  "dominicano": [
+    "dominican"
+  ],
+  "dominican": [
+    "dominicano"
+  ],
+  "cubano": [
+    "cuban"
+  ],
+  "cuban": [
+    "cubano"
+  ],
+  "guatemalteco": [
+    "guatemalan"
+  ],
+  "guatemalan": [
+    "guatemalteco"
+  ],
+  "mexicano": [
+    "mexican"
+  ],
+  "mexican": [
+    "mexicano"
+  ],
+  "estadounidense": [
+    "american"
+  ],
+  "american": [
+    "estadounidense"
+  ],
+  "peruano": [
+    "peruvian"
+  ],
+  "peruvian": [
+    "peruano"
+  ],
+  "puertorriqueno": [
+    "puerto rican"
+  ],
+  "puerto rican": [
+    "puertorriqueno"
+  ],
+  "venezolano": [
+    "venezuelan"
+  ],
+  "venezuelan": [
+    "venezolano"
+  ],
+  "grande": [
+    "big",
+    "large"
+  ],
+  "big": [
+    "grande"
+  ],
+  "large": [
+    "grande"
+  ],
+  "pequeno": [
+    "small",
+    "little"
+  ],
+  "small": [
+    "pequeno"
+  ],
+  "little": [
+    "pequeno"
+  ],
+  "interesante": [
+    "interesting"
+  ],
+  "interesting": [
+    "interesante"
+  ],
+  "aburrido": [
+    "boring"
+  ],
+  "boring": [
+    "aburrido"
+  ],
+  "dificil": [
+    "difficult",
+    "hard"
+  ],
+  "difficult": [
+    "dificil",
+    "duro"
+  ],
+  "hard": [
+    "dificil",
+    "duro"
+  ],
+  "duro": [
+    "hard",
+    "difficult"
+  ],
+  "facil": [
+    "easy"
+  ],
+  "easy": [
+    "facil"
+  ],
+  "espanol": [
+    "spanish"
+  ],
+  "spanish": [
+    "espanol"
+  ],
+  "frances": [
+    "french"
+  ],
+  "french": [
+    "frances"
+  ],
+  "ingles": [
+    "english"
+  ],
+  "english": [
+    "ingles"
+  ],
+  "ciencia": [
+    "science"
+  ],
+  "science": [
+    "ciencia"
+  ],
+  "estudios sociales": [
+    "social studies"
+  ],
+  "social studies": [
+    "estudios sociales"
+  ],
+  "historia": [
+    "history"
+  ],
+  "history": [
+    "historia"
+  ],
+  "matematicas": [
+    "mathematics"
+  ],
+  "mathematics": [
+    "matematicas"
+  ],
+  "math": [
+    "matematicas"
+  ],
+  "arte": [
+    "art"
+  ],
+  "art": [
+    "arte"
+  ],
+  "educacion fisica": [
+    "physical educastion"
+  ],
+  "physical educastion": [
+    "educacion fisica"
+  ],
+  "secundario": [
+    "secondary"
+  ],
+  "secondary": [
+    "secundario"
+  ],
+  "escuela secundario": [
+    "high school",
+    "secondary school"
+  ],
+  "high school": [
+    "escuela secundario"
+  ],
+  "secondary school": [
+    "escuela secundario"
+  ],
+  "nuevo": [
+    "new"
+  ],
+  "new": [
+    "nuevo"
+  ],
+  "mismo": [
+    "same"
+  ],
+  "same": [
+    "mismo"
+  ],
+  "tambien": [
+    "also",
+    "too"
+  ],
+  "also": [
+    "tambien"
+  ],
+  "too": [
+    "tambien"
+  ],
+  "bastante": [
+    "rather",
+    "quite"
+  ],
+  "rather": [
+    "bastante"
+  ],
+  "quite": [
+    "bastante"
+  ],
+  "muy": [
+    "very"
+  ],
+  "very": [
+    "muy"
+  ],
+  "pero": [
+    "but"
+  ],
+  "but": [
+    "pero"
+  ],
+  "oye": [
+    "listen"
+  ],
+  "listen": [
+    "oye"
+  ],
+  "oye!": [
+    "listen!"
+  ],
+  "listen!": [
+    "oye!"
+  ],
+  "negro": [
+    "black"
+  ],
+  "black": [
+    "negro"
+  ],
+  "marron": [
+    "brown"
+  ],
+  "brown": [
+    "marron"
+  ],
+  "cafe": [
+    "marron"
+  ],
+  "gris": [
+    "grey"
+  ],
+  "grey": [
+    "gris"
+  ],
+  "gray": [
+    "gris"
+  ],
+  "amarillo": [
+    "yellow"
+  ],
+  "yellow": [
+    "amarillo"
+  ],
+  "anaranjado": [
+    "orange"
+  ],
+  "orange": [
+    "anaranjado",
+    "naranjo"
+  ],
+  "naranjo": [
+    "orange"
+  ],
+  "rojo": [
+    "red"
+  ],
+  "red": [
+    "rojo"
+  ],
+  "rosado": [
+    "pink"
+  ],
+  "pink": [
+    "rosado"
+  ],
+  "morado": [
+    "purple"
+  ],
+  "purple": [
+    "morado",
+    "purpura"
+  ],
+  "purpura": [
+    "purple"
+  ],
+  "azul": [
+    "blue"
+  ],
+  "blue": [
+    "azul"
+  ],
+  "green": [
+    "verde"
+  ],
+  "verde": [
+    "green"
+  ],
+  "blanco": [
+    "white"
+  ],
+  "white": [
+    "blanco"
+  ],
+  "ser": [
+    "to be"
+  ],
+  "to be": [
+    "ser"
+  ]
+}
