@@ -1,0 +1,13 @@
+chapter 1: https://raw.githubusercontent.com/ChryslerChris/jsons/main/spanishQuiz/chapter1.json
+
+chapter 2: https://raw.githubusercontent.com/ChryslerChris/jsons/main/spanishQuiz/chapter2.json
+
+chapter 3: https://raw.githubusercontent.com/ChryslerChris/jsons/main/spanishQuiz/chapter3.json
+
+chapter 4: https://raw.githubusercontent.com/ChryslerChris/jsons/main/spanishQuiz/chapter4.json
+
+chapter 5: https://raw.githubusercontent.com/ChryslerChris/jsons/main/spanishQuiz/chapter5.json
+
+chapter 6: https://raw.githubusercontent.com/ChryslerChris/jsons/main/spanishQuiz/chapter6.json
+
+chapter 7: https://raw.githubusercontent.com/ChryslerChris/jsons/main/spanishQuiz/chapter7.json
