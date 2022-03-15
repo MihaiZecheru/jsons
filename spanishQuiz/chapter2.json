@@ -1,0 +1,604 @@
+{
+  "familia": [
+    "family"
+  ],
+  "family": [
+    "familia"
+  ],
+  "miembro": [
+    "member"
+  ],
+  "member": [
+    "miembro"
+  ],
+  "parientes": [
+    "relatives"
+  ],
+  "relatives": [
+    "parientes"
+  ],
+  "padre": [
+    "father"
+  ],
+  "father": [
+    "padre"
+  ],
+  "madre": [
+    "mother"
+  ],
+  "mother": [
+    "madre"
+  ],
+  "padres": [
+    "parents"
+  ],
+  "parents": [
+    "padres"
+  ],
+  "esposo": [
+    "husband"
+  ],
+  "husband": [
+    "esposo",
+    "marido"
+  ],
+  "esposa": [
+    "wife"
+  ],
+  "wife": [
+    "esposa",
+    "mujer"
+  ],
+  "marido": [
+    "husband"
+  ],
+  "mujer": [
+    "wife"
+  ],
+  "padrastro": [
+    "stepfather"
+  ],
+  "stepfather": [
+    "padrastro"
+  ],
+  "madrastra": [
+    "stepmother"
+  ],
+  "stepmother": [
+    "madrastra"
+  ],
+  "hermano": [
+    "brother"
+  ],
+  "brother": [
+    "hermano"
+  ],
+  "hermana": [
+    "sister"
+  ],
+  "sister": [
+    "hermana"
+  ],
+  "hermanastro": [
+    "stepbrother"
+  ],
+  "stepbrother": [
+    "hermanastro"
+  ],
+  "hermanastra": [
+    "stepsister"
+  ],
+  "stepsister": [
+    "hermanastra"
+  ],
+  "tio": [
+    "uncle"
+  ],
+  "uncle": [
+    "tio"
+  ],
+  "tia": [
+    "aunt"
+  ],
+  "aunt": [
+    "tia"
+  ],
+  "primo": [
+    "cousin"
+  ],
+  "cousin": [
+    "primo"
+  ],
+  "abuelo": [
+    "grandfather"
+  ],
+  "grandfather": [
+    "abuelo"
+  ],
+  "abuela": [
+    "grandmother"
+  ],
+  "grandmother": [
+    "abuela"
+  ],
+  "nieto": [
+    "grandson"
+  ],
+  "grandson": [
+    "nieto"
+  ],
+  "nieta": [
+    "granddaughter"
+  ],
+  "granddaughter": [
+    "nieta"
+  ],
+  "hijo": [
+    "son"
+  ],
+  "son": [
+    "hijo"
+  ],
+  "hija": [
+    "daughter"
+  ],
+  "daughter": [
+    "hija"
+  ],
+  "unico": [
+    "unique",
+    "only"
+  ],
+  "unique": [
+    "unico"
+  ],
+  "only": [
+    "unico"
+  ],
+  "hijo unico": [
+    "only son"
+  ],
+  "only son": [
+    "hijo unico"
+  ],
+  "hija unica": [
+    "only daughter"
+  ],
+  "only daughter": [
+    "hija unica"
+  ],
+  "sobrino": [
+    "nephew"
+  ],
+  "nephew": [
+    "sobrino"
+  ],
+  "sobrina": [
+    "niece"
+  ],
+  "niece": [
+    "sobrina"
+  ],
+  "gemelo": [
+    "twin"
+  ],
+  "twin": [
+    "gemelo"
+  ],
+  "nombre": [
+    "name"
+  ],
+  "name": [
+    "nombre"
+  ],
+  "mascota": [
+    "pet"
+  ],
+  "pet": [
+    "mascota"
+  ],
+  "perro": [
+    "dog"
+  ],
+  "dog": [
+    "perro",
+    "perrito"
+  ],
+  "perrito": [
+    "dog"
+  ],
+  "gato": [
+    "cat"
+  ],
+  "cat": [
+    "gato",
+    "gatito"
+  ],
+  "gatito": [
+    "cat"
+  ],
+  "menor": [
+    "younger"
+  ],
+  "younger": [
+    "menor"
+  ],
+  "mayor": [
+    "older"
+  ],
+  "older": [
+    "mayor"
+  ],
+  "older brother": [
+    "hermano mayor"
+  ],
+  "hermano mayor": [
+    "older brother"
+  ],
+  "older sister": [
+    "hermana mayor"
+  ],
+  "hermana mayor": [
+    "older sister"
+  ],
+  "younger brother": [
+    "hermano menor"
+  ],
+  "hermano menor": [
+    "younger brother"
+  ],
+  "younger sister": [
+    "hermana menor"
+  ],
+  "hermana menor": [
+    "younger sister"
+  ],
+  "carinoso": [
+    "adorable",
+    "affectionate"
+  ],
+  "adorable": [
+    "carinoso"
+  ],
+  "affectionate": [
+    "carinoso"
+  ],
+  "pelo castano": [
+    "brown hair"
+  ],
+  "brown hair": [
+    "pelo castano"
+  ],
+  "castano": [
+    "hazel-nut brown"
+  ],
+  "hazel-nut brown": [
+    "castano"
+  ],
+  "hazel nut brown": [
+    "castano"
+  ],
+  "brown": [
+    "castano"
+  ],
+  "pelo rubio": [
+    "blond hair"
+  ],
+  "blond hair": [
+    "pelo rubio"
+  ],
+  "blonde hair": [
+    "pelo rubio"
+  ],
+  "pelo negro": [
+    "black hair"
+  ],
+  "black hair": [
+    "pelo negro"
+  ],
+  "pelo": [
+    "hair"
+  ],
+  "hair": [
+    "pelo"
+  ],
+  "ojos": [
+    "eyes"
+  ],
+  "eyes": [
+    "ojos"
+  ],
+  "ojos castanos": [
+    "brown eyes"
+  ],
+  "brown eyes": [
+    "ojos castanos"
+  ],
+  "ojos azules": [
+    "blue eyes"
+  ],
+  "blue eyes": [
+    "ojos azules"
+  ],
+  "ojos verdes": [
+    "green eyes"
+  ],
+  "green eyes": [
+    "ojos verdes"
+  ],
+  "casa": [
+    "house"
+  ],
+  "house": [
+    "casa"
+  ],
+  "cuartos": [
+    "rooms"
+  ],
+  "rooms": [
+    "cuartos"
+  ],
+  "sala": [
+    "living room"
+  ],
+  "living room": [
+    "sala"
+  ],
+  "comedor": [
+    "dining room"
+  ],
+  "dining room": [
+    "comedor"
+  ],
+  "cocina": [
+    "kitchen"
+  ],
+  "kitchen": [
+    "cocina"
+  ],
+  "cuarto de dormir": [
+    "bedroom"
+  ],
+  "bedroom": [
+    "cuarto de dormir",
+    "recamara"
+  ],
+  "recamara": [
+    "bedroom"
+  ],
+  "cuarto de bano": [
+    "bathroom"
+  ],
+  "bathroom": [
+    "cuarto de bano",
+    "bano"
+  ],
+  "bano": [
+    "bathroom"
+  ],
+  "jardin": [
+    "garden"
+  ],
+  "garden": [
+    "jardin"
+  ],
+  "flor": [
+    "flower"
+  ],
+  "flower": [
+    "flor"
+  ],
+  "arbol": [
+    "tree"
+  ],
+  "tree": [
+    "arbol"
+  ],
+  "adificio": [
+    "building"
+  ],
+  "building": [
+    "adificio"
+  ],
+  "cassa de apartamentos": [
+    "apartment building"
+  ],
+  "apartment building": [
+    "cassa de apartamentos"
+  ],
+  "apartamento": [
+    "apartment"
+  ],
+  "apartment": [
+    "apartamento",
+    "piso"
+  ],
+  "piso": [
+    "floor",
+    "apartment"
+  ],
+  "floor": [
+    "piso"
+  ],
+  "muebles": [
+    "furniture"
+  ],
+  "furniture": [
+    "muebles"
+  ],
+  "sofa": [
+    "sofa"
+  ],
+  "silla": [
+    "cair"
+  ],
+  "cair": [
+    "silla"
+  ],
+  "mesa": [
+    "table"
+  ],
+  "table": [
+    "mesa",
+    "mesita"
+  ],
+  "mesita": [
+    "table"
+  ],
+  "lampara": [
+    "lamp"
+  ],
+  "lamp": [
+    "lampara"
+  ],
+  "cama": [
+    "bed"
+  ],
+  "bed": [
+    "cama"
+  ],
+  "garaje": [
+    "garage"
+  ],
+  "garage": [
+    "garaje"
+  ],
+  "carro": [
+    "car"
+  ],
+  "car": [
+    "carro"
+  ],
+  "privado": [
+    "private"
+  ],
+  "private": [
+    "privado"
+  ],
+  "viejo": [
+    "old"
+  ],
+  "old": [
+    "viejo"
+  ],
+  "ciudad": [
+    "city"
+  ],
+  "city": [
+    "ciudad"
+  ],
+  "afueras": [
+    "outskirts"
+  ],
+  "outskirts": [
+    "afueras"
+  ],
+  "suburbios": [
+    "suburbs"
+  ],
+  "suburbs": [
+    "suburbios"
+  ],
+  "bicicleta": [
+    "bicycle"
+  ],
+  "bicycle": [
+    "bicicleta"
+  ],
+  "hay": [
+    "there is",
+    "there are"
+  ],
+  "there is": [
+    "hay"
+  ],
+  "there are": [
+    "hay"
+  ],
+  "cada": [
+    "each",
+    "every"
+  ],
+  "each": [
+    "cada"
+  ],
+  "every": [
+    "cada"
+  ],
+  "otro": [
+    "other",
+    "another"
+  ],
+  "other": [
+    "otro"
+  ],
+  "another": [
+    "otro"
+  ],
+  "al lado de": [
+    "beside",
+    "next to"
+  ],
+  "beside": [
+    "al lado de"
+  ],
+  "next to": [
+    "al lado de"
+  ],
+  "delante de": [
+    "in front of"
+  ],
+  "in front of": [
+    "delante de"
+  ],
+  "detras de": [
+    "in back of",
+    "behind"
+  ],
+  "in back of": [
+    "detras de"
+  ],
+  "behind": [
+    "detras de"
+  ],
+  "alrededor de": [
+    "around"
+  ],
+  "around": [
+    "alrededor de"
+  ],
+  "tener": [
+    "to have"
+  ],
+  "to have": [
+    "tener"
+  ],
+  "me": [
+    "mine"
+  ],
+  "mine": [
+    "me"
+  ],
+  "te": [
+    "yours"
+  ],
+  "yours": [
+    "te"
+  ],
+  "su": [
+    "his",
+    "hers"
+  ],
+  "his": [
+    "su",
+    "sus"
+  ],
+  "hers": [
+    "su",
+    "sus"
+  ],
+  "sus": [
+    "his",
+    "hers"
+  ]
+}
