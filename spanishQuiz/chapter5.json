@@ -1,0 +1,604 @@
+{
+  "deportes": [
+    "sports"
+  ],
+  "sports": [
+    "deportes"
+  ],
+  "futbol": [
+    "soccer"
+  ],
+  "soccer": [
+    "futbol"
+  ],
+  "beisbol": [
+    "baseball"
+  ],
+  "baseball": [
+    "beisbol"
+  ],
+  "basquetbol": [
+    "basketball"
+  ],
+  "basketball": [
+    "basquetbol",
+    "baloncesto"
+  ],
+  "baloncesto": [
+    "basketball"
+  ],
+  "tenis": [
+    "tennis"
+  ],
+  "tennis": [
+    "tenis"
+  ],
+  "partido": [
+    "game"
+  ],
+  "game": [
+    "partido",
+    "juego"
+  ],
+  "juego": [
+    "game"
+  ],
+  "equipo": [
+    "team"
+  ],
+  "team": [
+    "equipo"
+  ],
+  "jugador": [
+    "player"
+  ],
+  "player": [
+    "jugador"
+  ],
+  "aficionado": [
+    "fan"
+  ],
+  "fan": [
+    "aficionado"
+  ],
+  "espectador": [
+    "spectador"
+  ],
+  "spectador": [
+    "espectador"
+  ],
+  "tanto": [
+    "score",
+    "point"
+  ],
+  "score": [
+    "tanto"
+  ],
+  "point": [
+    "tanto"
+  ],
+  "jugar": [
+    "to play"
+  ],
+  "to play": [
+    "jugar"
+  ],
+  "empezar": [
+    "to begin"
+  ],
+  "to begin": [
+    "empezar",
+    "comenzar"
+  ],
+  "comenzar": [
+    "to begin"
+  ],
+  "volver": [
+    "to return"
+  ],
+  "to return": [
+    "volver",
+    "devolver"
+  ],
+  "poder": [
+    "to be able to"
+  ],
+  "to be able to": [
+    "poder"
+  ],
+  "to be able": [
+    "poder"
+  ],
+  "marcar": [
+    "to score"
+  ],
+  "to score": [
+    "marcar",
+    "meter"
+  ],
+  "marcar un tanto": [
+    "to score a point"
+  ],
+  "to score a point": [
+    "marcar un tanto"
+  ],
+  "querer": [
+    "to want",
+    "to wish"
+  ],
+  "to want": [
+    "querer"
+  ],
+  "to wish": [
+    "querer"
+  ],
+  "perder": [
+    "to lose"
+  ],
+  "to lose": [
+    "perder"
+  ],
+  "ganar": [
+    "to win"
+  ],
+  "to win": [
+    "ganar"
+  ],
+  "aplaudir": [
+    "to applaud",
+    "to clap"
+  ],
+  "to applaud": [
+    "aplaudir"
+  ],
+  "to clap": [
+    "aplaudir"
+  ],
+  "campo de futbol": [
+    "soccer field"
+  ],
+  "soccer field": [
+    "campo de futbol"
+  ],
+  "tiempo": [
+    "half-time"
+  ],
+  "half-time": [
+    "tiempo"
+  ],
+  "half time": [
+    "tiempo"
+  ],
+  "balon": [
+    "ball"
+  ],
+  "ball": [
+    "balon",
+    "pelota"
+  ],
+  "portero": [
+    "goalie"
+  ],
+  "goalie": [
+    "portero"
+  ],
+  "porteria": [
+    "goal"
+  ],
+  "goal": [
+    "porteria",
+    "gol"
+  ],
+  "gol": [
+    "goal"
+  ],
+  "lanzar": [
+    "to kick",
+    "to throw"
+  ],
+  "to kick": [
+    "lanzar"
+  ],
+  "to throw": [
+    "lanzar",
+    "tirar"
+  ],
+  "tocar": [
+    "to touch"
+  ],
+  "to touch": [
+    "tocar"
+  ],
+  "guardar": [
+    "to guard"
+  ],
+  "to guard": [
+    "guardar"
+  ],
+  "entrar": [
+    "to enter",
+    "to go into"
+  ],
+  "to enter": [
+    "entrar"
+  ],
+  "to go into": [
+    "entrar"
+  ],
+  "bloquear": [
+    "to block"
+  ],
+  "to block": [
+    "bloquear"
+  ],
+  "meter": [
+    "to score"
+  ],
+  "meter un gol": [
+    "to score a goal"
+  ],
+  "to score a goal": [
+    "meter un gol"
+  ],
+  "campo de beisbol": [
+    "baseball field"
+  ],
+  "baseball field": [
+    "campo de beisbol"
+  ],
+  "beisbolista": [
+    "baseball player"
+  ],
+  "baseball player": [
+    "beisbolista"
+  ],
+  "bateador": [
+    "batter"
+  ],
+  "batter": [
+    "bateador"
+  ],
+  "lanzador": [
+    "pitcher"
+  ],
+  "pitcher": [
+    "lanzador",
+    "picher"
+  ],
+  "picher": [
+    "pitcher"
+  ],
+  "catcher": [
+    "catcher",
+    "receptor"
+  ],
+  "receptor": [
+    "catcher"
+  ],
+  "jardinero": [
+    "outfielder"
+  ],
+  "outfielder": [
+    "jardinero"
+  ],
+  "gustar": [
+    "to like",
+    "to be pleasing"
+  ],
+  "to like": [
+    "gustar"
+  ],
+  "to be pleasing": [
+    "gustar"
+  ],
+  "interesar": [
+    "to interest"
+  ],
+  "to interest": [
+    "interesar"
+  ],
+  "pensar": [
+    "to think"
+  ],
+  "to think": [
+    "pensar"
+  ],
+  "dormir": [
+    "to sleep"
+  ],
+  "to sleep": [
+    "dormir"
+  ],
+  "preferir": [
+    "to prefer"
+  ],
+  "to prefer": [
+    "preferir"
+  ],
+  "propio": [
+    "own"
+  ],
+  "own": [
+    "propio"
+  ],
+  "que pena!": [
+    "what a shame!"
+  ],
+  "what a shame!": [
+    "que pena!"
+  ],
+  "que pena": [
+    "what a shame!"
+  ],
+  "lo siento": [
+    "i'm sorry"
+  ],
+  "i'm sorry": [
+    "lo siento"
+  ],
+  "lo siento mucho": [
+    "i'm very sorry"
+  ],
+  "i'm very sorry": [
+    "lo siento mucho"
+  ],
+  "im sorry": [
+    "lo siento"
+  ],
+  "im very sorry": [
+    "lo siento mucho"
+  ],
+  "que piensas de": [
+    "what do you think about"
+  ],
+  "what do you think about": [
+    "que piensas de"
+  ],
+  "que piensas de?": [
+    "what do you think about?"
+  ],
+  "what do you think about?": [
+    "que piensas de?"
+  ],
+  "barbaro!": [
+    "great!",
+    "awesome!"
+  ],
+  "great!": [
+    "barbaro!"
+  ],
+  "awesome!": [
+    "barbaro!"
+  ],
+  "great": [
+    "barbaro"
+  ],
+  "barbaro": [
+    "great",
+    "awesome"
+  ],
+  "awesome": [
+    "barbaro"
+  ],
+  "bate": [
+    "bat"
+  ],
+  "bat": [
+    "bate"
+  ],
+  "guante": [
+    "glove"
+  ],
+  "glove": [
+    "guante"
+  ],
+  "plato": [
+    "home plate",
+    "plate"
+  ],
+  "home plate": [
+    "plato"
+  ],
+  "plate": [
+    "plato"
+  ],
+  "base": [
+    "base"
+  ],
+  "jonron": [
+    "home run"
+  ],
+  "home run": [
+    "jonron"
+  ],
+  "batear": [
+    "to hit",
+    "to bat"
+  ],
+  "to hit": [
+    "batear",
+    "golpear"
+  ],
+  "to bat": [
+    "batear"
+  ],
+  "correr": [
+    "to run"
+  ],
+  "to run": [
+    "correr"
+  ],
+  "atrapar": [
+    "to catch"
+  ],
+  "to catch": [
+    "atrapar"
+  ],
+  "cancha": [
+    "court"
+  ],
+  "court": [
+    "cancha"
+  ],
+  "cesto": [
+    "basket"
+  ],
+  "basket": [
+    "cesto",
+    "canasta"
+  ],
+  "canasta": [
+    "basket"
+  ],
+  "tirar": [
+    "to throw"
+  ],
+  "driblar": [
+    "to dribble"
+  ],
+  "to dribble": [
+    "driblar"
+  ],
+  "encestar": [
+    "to make a basket"
+  ],
+  "to make a basket": [
+    "encestar"
+  ],
+  "raqueta": [
+    "tennis racket"
+  ],
+  "tennis racket": [
+    "raqueta"
+  ],
+  "pelota": [
+    "ball"
+  ],
+  "la red": [
+    "net"
+  ],
+  "net": [
+    "la red",
+    "red"
+  ],
+  "individuales": [
+    "singels"
+  ],
+  "singels": [
+    "individuales"
+  ],
+  "dobles": [
+    "doubles"
+  ],
+  "doubles": [
+    "dobles"
+  ],
+  "golpear": [
+    "to hit"
+  ],
+  "devolver": [
+    "to return"
+  ],
+  "por encima de": [
+    "above",
+    "over"
+  ],
+  "above": [
+    "por encima de"
+  ],
+  "over": [
+    "por encima de"
+  ],
+  "camiseta": [
+    "t-shirt"
+  ],
+  "t-shirt": [
+    "camiseta"
+  ],
+  "t shirt": [
+    "camiseta"
+  ],
+  "pantalon corto": [
+    "shorts"
+  ],
+  "shorts": [
+    "pantalon corto"
+  ],
+  "calcetines largos": [
+    "long socks"
+  ],
+  "long socks": [
+    "calcetines largos"
+  ],
+  "calcetines": [
+    "socks"
+  ],
+  "socks": [
+    "calcetines"
+  ],
+  "largo": [
+    "large"
+  ],
+  "large": [
+    "largo"
+  ],
+  "zapatillas": [
+    "shoes",
+    "sneakers"
+  ],
+  "shoes": [
+    "zapatillas"
+  ],
+  "sneakers": [
+    "zapatillas"
+  ],
+  "de que color es?": [
+    "what color is it?"
+  ],
+  "what color is it?": [
+    "de que color es?"
+  ],
+  "what color is it": [
+    "de que color es?"
+  ],
+  "de que color es": [
+    "what color is it?"
+  ],
+  "color": [
+    "color"
+  ],
+  "me gusta": [
+    "i like"
+  ],
+  "i like": [
+    "me gusta"
+  ],
+  "te gusta": [
+    "you like"
+  ],
+  "you like": [
+    "te gusta"
+  ],
+  "le gusta": [
+    "he likes",
+    "she likes"
+  ],
+  "he likes": [
+    "le gusta"
+  ],
+  "she likes": [
+    "le gusta"
+  ],
+  "nos gusta": [
+    "we like"
+  ],
+  "we like": [
+    "nos gusta"
+  ],
+  "les gusta": [
+    "they like"
+  ],
+  "they like": [
+    "les gusta"
+  ]
+}
