@@ -1,1 +1,720 @@
-
+{
+  "verano": [
+    "summer"
+  ],
+  "summer": [
+    "verano"
+  ],
+  "invierno": [
+    "winter"
+  ],
+  "winter": [
+    "invierno"
+  ],
+  "temperatura": [
+    "temperature"
+  ],
+  "temperature": [
+    "temperatura"
+  ],
+  "nieve": [
+    "snow"
+  ],
+  "snow": [
+    "nieve"
+  ],
+  "nube": [
+    "cloud"
+  ],
+  "cloud": [
+    "nube"
+  ],
+  "llueve": [
+    "it's raining"
+  ],
+  "it's raining": [
+    "llueve"
+  ],
+  "its raining": [
+    "llueve"
+  ],
+  "lluvia": [
+    "rain"
+  ],
+  "rain": [
+    "lluvia"
+  ],
+  "nieva": [
+    "it's snowing",
+    "its snowing"
+  ],
+  "it's snowing": [
+    "nieva"
+  ],
+  "its snowing": [
+    "nieva"
+  ],
+  "hace buen tiempo": [
+    "the weather is nice"
+  ],
+  "the weather is nice": [
+    "hace buen tiempo"
+  ],
+  "hace mal tiempo": [
+    "the weather is bad"
+  ],
+  "the weather is bad": [
+    "hace mal tiempo"
+  ],
+  "hace calor": [
+    "it's hot"
+  ],
+  "it's hot": [
+    "hace calor"
+  ],
+  "its hot": [
+    "hace calor"
+  ],
+  "hace frio": [
+    "it's cold"
+  ],
+  "it's cold": [
+    "hace frio"
+  ],
+  "its cold": [
+    "hace frio"
+  ],
+  "hace sol": [
+    "it's sunny"
+  ],
+  "it's sunny": [
+    "hace sol",
+    "hace hay sol"
+  ],
+  "its sunny": [
+    "hace sol",
+    "hace hay sol"
+  ],
+  "hace hay sol": [
+    "there is sun",
+    "it's sunny"
+  ],
+  "there is sun": [
+    "hace hay sol"
+  ],
+  "sol": [
+    "sun"
+  ],
+  "sun": [
+    "sol"
+  ],
+  "hacer": [
+    "to do",
+    "to make"
+  ],
+  "to do": [
+    "hacer"
+  ],
+  "to make": [
+    "hacer"
+  ],
+  "nublado": [
+    "cloudy"
+  ],
+  "cloudy": [
+    "nublado"
+  ],
+  "balneario": [
+    "beach resort"
+  ],
+  "beach resort": [
+    "balneario"
+  ],
+  "seaside resort": [
+    "balneario"
+  ],
+  "playa": [
+    "beach"
+  ],
+  "beach": [
+    "playa"
+  ],
+  "arena": [
+    "sand"
+  ],
+  "sand": [
+    "arena"
+  ],
+  "mar": [
+    "sea",
+    "ocean"
+  ],
+  "sea": [
+    "mar"
+  ],
+  "ocean": [
+    "mar"
+  ],
+  "ola": [
+    "wave"
+  ],
+  "wave": [
+    "ola"
+  ],
+  "piscina": [
+    "pool"
+  ],
+  "pool": [
+    "piscina",
+    "alberca"
+  ],
+  "alberca": [
+    "pool"
+  ],
+  "swimming pool": [
+    "piscina",
+    "alberca"
+  ],
+  "surfing": [
+    "surfing"
+  ],
+  "plancha de vela": [
+    "windsurfing",
+    "windsurfboard"
+  ],
+  "windsurfing": [
+    "plancha de vela"
+  ],
+  "windsurfboard": [
+    "plancha de vela"
+  ],
+  "tabla hawaiana": [
+    "surfboard"
+  ],
+  "surfboard": [
+    "tabla hawaiana"
+  ],
+  "buceo": [
+    "snorkeling"
+  ],
+  "snorkeling": [
+    "buceo"
+  ],
+  "esqui acuatico": [
+    "waterskiing"
+  ],
+  "waterskiing": [
+    "esqui acuatico",
+    "esqui nautico"
+  ],
+  "water skiing": [
+    "esqui acuatico",
+    "esqui nautico"
+  ],
+  "esqui nautico": [
+    "waterskiing"
+  ],
+  "barquito": [
+    "boat",
+    "small boat"
+  ],
+  "boat": [
+    "barquito",
+    "barco",
+    "bote"
+  ],
+  "small boat": [
+    "barquito"
+  ],
+  "barco": [
+    "boat"
+  ],
+  "bote": [
+    "boat"
+  ],
+  "voleibol": [
+    "volleyball"
+  ],
+  "volleyball": [
+    "voleibol"
+  ],
+  "practicar": [
+    "to practice"
+  ],
+  "to practice": [
+    "practicar"
+  ],
+  "alquilar": [
+    "to rent"
+  ],
+  "to rent": [
+    "alquilar",
+    "rentar"
+  ],
+  "rentar": [
+    "to rent"
+  ],
+  "pasar": [
+    "to spend time"
+  ],
+  "to spend time": [
+    "pasar"
+  ],
+  "nadar": [
+    "to swim"
+  ],
+  "to swim": [
+    "nadar"
+  ],
+  "bucear": [
+    "to go snorkeling"
+  ],
+  "to go snorkeling": [
+    "bucear"
+  ],
+  "to snorkel": [
+    "bucear"
+  ],
+  "toalla": [
+    "towel"
+  ],
+  "towel": [
+    "toalla"
+  ],
+  "traje": [
+    "suit"
+  ],
+  "suit": [
+    "traje"
+  ],
+  "traje de bano": [
+    "bathing suit"
+  ],
+  "bathing suit": [
+    "traje de bano",
+    "banador"
+  ],
+  "swimming suit": [
+    "traje de bano",
+    "banador"
+  ],
+  "swimsuit": [
+    "traje de bano",
+    "banador"
+  ],
+  "banador": [
+    "bathing suit"
+  ],
+  "anteojos de sol": [
+    "sunglasses"
+  ],
+  "sunglasses": [
+    "anteojos de sol",
+    "gafas para el sol"
+  ],
+  "gafas para el sol": [
+    "sunglasses"
+  ],
+  "gafas para sol": [
+    "sunglasses"
+  ],
+  "gafas": [
+    "glasses"
+  ],
+  "glasses": [
+    "gafas"
+  ],
+  "crema solar": [
+    "sunscreen"
+  ],
+  "sunscreen": [
+    "crema solar",
+    "locion solar",
+    "locion",
+    "bronceadora"
+  ],
+  "suntan lotion": [
+    "crema solar",
+    "locion solar",
+    "locion",
+    "bronceadora"
+  ],
+  "sunblock": [
+    "crema solar",
+    "locion solar",
+    "locion",
+    "bronceadora"
+  ],
+  "locion solar": [
+    "sunscreen"
+  ],
+  "locion": [
+    "sunscreen"
+  ],
+  "bronceadora": [
+    "sunscreen"
+  ],
+  "broncear": [
+    "to tan"
+  ],
+  "to tan": [
+    "broncear"
+  ],
+  "to get a tan": [
+    "broncear"
+  ],
+  "camara": [
+    "camera"
+  ],
+  "camera": [
+    "camara"
+  ],
+  "camara digital": [
+    "digital camera"
+  ],
+  "digital camera": [
+    "camara digital"
+  ],
+  "estacion de esqui": [
+    "ski resort"
+  ],
+  "ski resort": [
+    "estacion de esqui"
+  ],
+  "montana": [
+    "mountain"
+  ],
+  "mountain": [
+    "montana"
+  ],
+  "pico": [
+    "mountain top"
+  ],
+  "mountain top": [
+    "pico"
+  ],
+  "mountain peak": [
+    "pico"
+  ],
+  "pista": [
+    "ski slope"
+  ],
+  "ski slope": [
+    "pista"
+  ],
+  "telesqui": [
+    "ski lift",
+    "chairlift"
+  ],
+  "ski lift": [
+    "telesqui",
+    "telesilla"
+  ],
+  "chairlift": [
+    "telesqui",
+    "telesilla"
+  ],
+  "telesilla": [
+    "ski lift",
+    "chairlift"
+  ],
+  "esquiador": [
+    "skier"
+  ],
+  "skier": [
+    "esquiador"
+  ],
+  "snowboarder": [
+    "snowboarder"
+  ],
+  "ventanilla": [
+    "ticket window"
+  ],
+  "ticket window": [
+    "ventanilla",
+    "boleteria"
+  ],
+  "boleteria": [
+    "ticket window"
+  ],
+  "boleto": [
+    "ticket"
+  ],
+  "ticket": [
+    "boleto"
+  ],
+  "hielo": [
+    "ice"
+  ],
+  "ice": [
+    "hielo"
+  ],
+  "patinaje sobre el hielo": [
+    "ice skating"
+  ],
+  "ice skating": [
+    "patinaje sobre el hielo",
+    "patinaje sobre hielo"
+  ],
+  "pista de patinaje": [
+    "ice-skating rink"
+  ],
+  "ice-skating rink": [
+    "pista de patinaje"
+  ],
+  "ice skating rink": [
+    "pista de patinaje"
+  ],
+  "ice skating ring": [
+    "pista de patinaje"
+  ],
+  "ice-skating ring": [
+    "pistas de patinaje"
+  ],
+  "patinador": [
+    "ice-skater"
+  ],
+  "ice-skater": [
+    "patinador"
+  ],
+  "ice skater": [
+    "patinador"
+  ],
+  "experto": [
+    "expert"
+  ],
+  "expert": [
+    "experto"
+  ],
+  "principiante": [
+    "beginner"
+  ],
+  "beginner": [
+    "principiante"
+  ],
+  "esquiar": [
+    "to ski"
+  ],
+  "to ski": [
+    "esquiar"
+  ],
+  "subir": [
+    "to go up"
+  ],
+  "to go up": [
+    "subir"
+  ],
+  "bajar": [
+    "to go down"
+  ],
+  "to go down": [
+    "bajar"
+  ],
+  "patinar": [
+    "to skate"
+  ],
+  "to skate": [
+    "patinar"
+  ],
+  "esqui": [
+    "ski",
+    "skiing"
+  ],
+  "ski": [
+    "esqui"
+  ],
+  "skiing": [
+    "esqui"
+  ],
+  "baston": [
+    "ski pole"
+  ],
+  "ski pole": [
+    "baston"
+  ],
+  "gorro": [
+    "ski hat",
+    "hat",
+    "cap"
+  ],
+  "ski hat": [
+    "gorro"
+  ],
+  "hat": [
+    "gorro"
+  ],
+  "cap": [
+    "gorro"
+  ],
+  "botas": [
+    "boots"
+  ],
+  "boots": [
+    "botas"
+  ],
+  "guantes": [
+    "gloves"
+  ],
+  "gloves": [
+    "guantes"
+  ],
+  "casco": [
+    "helmet"
+  ],
+  "helmet": [
+    "casco"
+  ],
+  "chaqueta de esqui": [
+    "ski jacket"
+  ],
+  "ski jacket": [
+    "chaqueta de esqui",
+    "anorak"
+  ],
+  "anorak": [
+    "snow jacket"
+  ],
+  "snow jacket": [
+    "anorak"
+  ],
+  "chaqueta": [
+    "jacket"
+  ],
+  "jacket": [
+    "chaqueta"
+  ],
+  "snowboard": [
+    "snowboard"
+  ],
+  "patin": [
+    "ice skate"
+  ],
+  "ice skate": [
+    "patin"
+  ],
+  "ayer": [
+    "yesterday"
+  ],
+  "yesterday": [
+    "ayer"
+  ],
+  "esta noche": [
+    "tonight"
+  ],
+  "tonight": [
+    "esta noche"
+  ],
+  "anoche": [
+    "last night"
+  ],
+  "last night": [
+    "anoche"
+  ],
+  "esta tarde": [
+    "this afternoon"
+  ],
+  "this afternoon": [
+    "esta tarde"
+  ],
+  "ayer por la tarde": [
+    "yesterday afternoon"
+  ],
+  "yesterday afternoon": [
+    "ayer por la tarde"
+  ],
+  "este ano": [
+    "this year"
+  ],
+  "this year": [
+    "este ano"
+  ],
+  "ano pasado": [
+    "last year"
+  ],
+  "last year": [
+    "ano pasado"
+  ],
+  "esta semana": [
+    "this week"
+  ],
+  "this week": [
+    "esta semana"
+  ],
+  "semana pasada": [
+    "last week"
+  ],
+  "last week": [
+    "semana pasada"
+  ],
+  "this past week": [
+    "semana pasada"
+  ],
+  "fin de semana": [
+    "weekend"
+  ],
+  "weekend": [
+    "fin de semana"
+  ],
+  "fin": [
+    "end"
+  ],
+  "end": [
+    "fin"
+  ],
+  "tener miedo": [
+    "to be afraid"
+  ],
+  "to be afraid": [
+    "tener miedo"
+  ],
+  "miedo": [
+    "fear"
+  ],
+  "fear": [
+    "miedo"
+  ],
+  "to have fear": [
+    "tener miedo"
+  ],
+  "no vale": [
+    "it's not worth it"
+  ],
+  "it's not worth it": [
+    "no vale"
+  ],
+  "its not worth it": [
+    "no vale"
+  ],
+  "quizas!": [
+    "maybe!",
+    "perhaps!"
+  ],
+  "maybe!": [
+    "quizas!",
+    "tal vez!"
+  ],
+  "perhaps!": [
+    "quizas!",
+    "tal vez!"
+  ],
+  "tal vez!": [
+    "maybe!",
+    "perhaps!"
+  ],
+  "quizas": [
+    "maybe",
+    "perhaps"
+  ],
+  "maybe": [
+    "quizas",
+    "tal vez"
+  ],
+  "perhaps": [
+    "quizas",
+    "tal vez"
+  ],
+  "tal vez": [
+    "maybe",
+    "perhaps"
+  ]
+}
