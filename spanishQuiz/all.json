@@ -1,4195 +1,4164 @@
 {
-  "hello": [
-    "hola"
-  ],
-  "hola": [
-    "hello"
-  ],
-  "muchacho": [
-    "boy"
-  ],
-  "boy": [
-    "muchacho"
-  ],
-  "muchacha": [
-    "girl"
-  ],
-  "girl": [
-    "muchacha"
-  ],
-  "joven": [
-    "young person",
-    "youth",
-    "young"
-  ],
-  "young person": [
-    "joven"
-  ],
-  "youth": [
-    "joven"
-  ],
-  "amigo": [
-    "friend"
-  ],
-  "friend": [
-    "amigo",
-    "amiga"
-  ],
-  "amiga": [
-    "friend"
-  ],
-  "alumno": [
-    "student"
-  ],
-  "student": [
-    "alumno"
-  ],
-  "escuela": [
-    "school"
-  ],
-  "school": [
-    "escuela"
-  ],
-  "clase": [
-    "class"
-  ],
-  "class": [
-    "clase"
-  ],
-  "curso": [
-    "course"
-  ],
-  "course": [
-    "curso"
-  ],
-  "profesor": [
-    "teacher"
-  ],
-  "teacher": [
-    "profesor"
-  ],
-  "guapo": [
-    "handsome",
-    "attractive"
-  ],
-  "handsome": [
-    "guapo"
-  ],
-  "attractive": [
-    "guapo"
-  ],
-  "bonito": [
-    "good-looking",
-    "pretty"
-  ],
-  "good-looking": [
-    "bonito",
-    "bonita"
-  ],
-  "bonita": [
-    "pretty",
-    "good-looking"
-  ],
-  "pretty": [
-    "bonita",
-    "bonito"
-  ],
-  "good looking": [
-    "bonita",
-    "bonito"
-  ],
-  "feo": [
-    "unattractive",
-    "ugly"
-  ],
-  "unattractive": [
-    "feo"
-  ],
-  "ugly": [
-    "feo"
-  ],
-  "moreno": [
-    "dark-haired",
-    "brunette"
-  ],
-  "dark-haired": [
-    "moreno"
-  ],
-  "dark haired": [
-    "moreno"
-  ],
-  "brunette": [
-    "moreno"
-  ],
-  "rubio": [
-    "blond"
-  ],
-  "blond": [
-    "rubio"
-  ],
-  "rubia": [
-    "blonde"
-  ],
-  "blonde": [
-    "rubia"
-  ],
-  "pelirrojo": [
-    "redhead",
-    "redheaded"
-  ],
-  "redhead": [
-    "pelirrojo"
-  ],
-  "redheaded": [
-    "pelirrojo"
-  ],
-  "alto": [
-    "tall"
-  ],
-  "tall": [
-    "alto"
-  ],
-  "bajo": [
-    "short"
-  ],
-  "short": [
-    "bajo"
-  ],
-  "bueno": [
-    "good"
-  ],
-  "good": [
-    "bueno"
-  ],
-  "malo": [
-    "bad"
-  ],
-  "bad": [
-    "malo"
-  ],
-  "comico": [
-    "funny",
-    "comical"
-  ],
-  "funny": [
-    "comico",
-    "gracioso"
-  ],
-  "comical": [
-    "comico"
-  ],
-  "gracioso": [
-    "funny"
-  ],
-  "ambicioso": [
-    "hard-working"
-  ],
-  "hard-working": [
-    "ambicioso"
-  ],
-  "hard working": [
-    "ambicioso"
-  ],
-  "perezoso": [
-    "lazy"
-  ],
-  "lazy": [
-    "perezoso"
-  ],
-  "simpatico": [
-    "nice"
-  ],
-  "nice": [
-    "simpatico"
-  ],
-  "antipatico": [
-    "not nice",
-    "unpleasant"
-  ],
-  "not nice": [
-    "antipatico"
-  ],
-  "unpleasant": [
-    "antipatico"
-  ],
-  "inteligente": [
-    "intelligent"
-  ],
-  "intelligent": [
-    "inteligente"
-  ],
-  "young": [
-    "joven"
-  ],
-  "quien": [
-    "who"
-  ],
-  "who": [
-    "quien"
-  ],
-  "quienes": [
-    "whom"
-  ],
-  "whom": [
-    "quienes"
-  ],
-  "como": [
-    "how"
-  ],
-  "how": [
-    "como"
-  ],
-  "de donde": [
-    "from where"
-  ],
-  "from where": [
-    "de donde"
-  ],
-  "de que nacionalidad": [
-    "what nationality"
-  ],
-  "what nationality": [
-    "de que nacionalidad"
-  ],
-  "of what natiponality": [
-    "de que nacionalidad"
-  ],
-  "argentino": [
-    "argentinian"
-  ],
-  "argentinian": [
-    "argentino"
-  ],
-  "chileno": [
-    "chilean"
-  ],
-  "chilean": [
-    "chileno"
-  ],
-  "colombiano": [
-    "colombian"
-  ],
-  "colombian": [
-    "colombiano"
-  ],
-  "ecuatoriano": [
-    "ecuadorian"
-  ],
-  "ecuadorian": [
-    "ecuatoriano"
-  ],
-  "dominicano": [
-    "dominican"
-  ],
-  "dominican": [
-    "dominicano"
-  ],
-  "cubano": [
-    "cuban"
-  ],
-  "cuban": [
-    "cubano"
-  ],
-  "guatemalteco": [
-    "guatemalan"
-  ],
-  "guatemalan": [
-    "guatemalteco"
-  ],
-  "mexicano": [
-    "mexican"
-  ],
-  "mexican": [
-    "mexicano"
-  ],
-  "estadounidense": [
-    "american"
-  ],
-  "american": [
-    "estadounidense"
-  ],
-  "peruano": [
-    "peruvian"
-  ],
-  "peruvian": [
-    "peruano"
-  ],
-  "puertorriqueno": [
-    "puerto rican"
-  ],
-  "puerto rican": [
-    "puertorriqueno"
-  ],
-  "venezolano": [
-    "venezuelan"
-  ],
-  "venezuelan": [
-    "venezolano"
-  ],
-  "grande": [
-    "big",
-    "large"
-  ],
-  "big": [
-    "grande"
-  ],
-  "large": [
-    "grande"
-  ],
-  "pequeno": [
-    "small",
-    "little"
-  ],
-  "small": [
-    "pequeno"
-  ],
-  "little": [
-    "pequeno"
-  ],
-  "interesante": [
-    "interesting"
-  ],
-  "interesting": [
-    "interesante"
-  ],
-  "aburrido": [
-    "boring"
-  ],
-  "boring": [
-    "aburrido"
-  ],
-  "dificil": [
-    "difficult",
-    "hard"
-  ],
-  "difficult": [
-    "dificil",
-    "duro"
-  ],
-  "hard": [
-    "dificil",
-    "duro"
-  ],
-  "duro": [
-    "hard",
-    "difficult"
-  ],
-  "facil": [
-    "easy"
-  ],
-  "easy": [
-    "facil"
-  ],
-  "espanol": [
-    "spanish"
-  ],
-  "spanish": [
-    "espanol"
-  ],
-  "frances": [
-    "french"
-  ],
-  "french": [
-    "frances"
-  ],
-  "ingles": [
-    "english"
-  ],
-  "english": [
-    "ingles"
-  ],
-  "ciencia": [
-    "science"
-  ],
-  "science": [
-    "ciencia"
-  ],
-  "estudios sociales": [
-    "social studies"
-  ],
-  "social studies": [
-    "estudios sociales"
-  ],
-  "historia": [
-    "history"
-  ],
-  "history": [
-    "historia"
-  ],
-  "matematicas": [
-    "mathematics"
-  ],
-  "mathematics": [
-    "matematicas"
-  ],
-  "math": [
-    "matematicas"
-  ],
-  "arte": [
-    "art"
-  ],
-  "art": [
-    "arte"
-  ],
-  "educacion fisica": [
-    "physical educastion"
-  ],
-  "physical educastion": [
-    "educacion fisica"
-  ],
-  "secundario": [
-    "secondary"
-  ],
-  "secondary": [
-    "secundario"
-  ],
-  "escuela secundario": [
-    "high school",
-    "secondary school"
-  ],
-  "high school": [
-    "escuela secundario"
-  ],
-  "secondary school": [
-    "escuela secundario"
-  ],
-  "nuevo": [
-    "new"
-  ],
-  "new": [
-    "nuevo"
-  ],
-  "mismo": [
-    "same"
-  ],
-  "same": [
-    "mismo"
-  ],
-  "tambien": [
-    "also",
-    "too"
-  ],
-  "also": [
-    "tambien"
-  ],
-  "too": [
-    "tambien"
-  ],
-  "bastante": [
-    "rather",
-    "quite"
-  ],
-  "rather": [
-    "bastante"
-  ],
-  "quite": [
-    "bastante"
-  ],
-  "muy": [
-    "very"
-  ],
-  "very": [
-    "muy"
-  ],
-  "pero": [
-    "but"
-  ],
-  "but": [
-    "pero"
-  ],
-  "oye": [
-    "listen"
-  ],
-  "listen": [
-    "oye"
-  ],
-  "oye!": [
-    "listen!"
-  ],
-  "listen!": [
-    "oye!"
-  ],
-  "negro": [
-    "black"
-  ],
-  "black": [
-    "negro"
-  ],
-  "marron": [
-    "brown"
-  ],
-  "brown": [
-    "marron"
-  ],
-  "cafe": [
-    "marron"
-  ],
-  "gris": [
-    "grey"
-  ],
-  "grey": [
-    "gris"
-  ],
-  "gray": [
-    "gris"
-  ],
-  "amarillo": [
-    "yellow"
-  ],
-  "yellow": [
-    "amarillo"
-  ],
-  "anaranjado": [
-    "orange"
-  ],
-  "orange": [
-    "anaranjado",
-    "naranjo"
-  ],
-  "naranjo": [
-    "orange"
-  ],
-  "rojo": [
-    "red"
-  ],
-  "red": [
-    "rojo"
-  ],
-  "rosado": [
-    "pink"
-  ],
-  "pink": [
-    "rosado"
-  ],
-  "morado": [
-    "purple"
-  ],
-  "purple": [
-    "morado",
-    "purpura"
-  ],
-  "purpura": [
-    "purple"
-  ],
-  "azul": [
-    "blue"
-  ],
-  "blue": [
-    "azul"
-  ],
-  "green": [
-    "verde"
-  ],
-  "verde": [
-    "green"
-  ],
-  "blanco": [
-    "white"
-  ],
-  "white": [
-    "blanco"
-  ],
-  "ser": [
-    "to be"
-  ],
-  "to be": [
-    "ser"
-  ],
-  "familia": [
-    "family"
-  ],
-  "family": [
-    "familia"
-  ],
-  "miembro": [
-    "member"
-  ],
-  "member": [
-    "miembro"
-  ],
-  "parientes": [
-    "relatives"
-  ],
-  "relatives": [
-    "parientes"
-  ],
-  "padre": [
-    "father"
-  ],
-  "father": [
-    "padre"
-  ],
-  "madre": [
-    "mother"
-  ],
-  "mother": [
-    "madre"
-  ],
-  "padres": [
-    "parents"
-  ],
-  "parents": [
-    "padres"
-  ],
-  "esposo": [
-    "husband"
-  ],
-  "husband": [
-    "esposo",
-    "marido"
-  ],
-  "esposa": [
-    "wife"
-  ],
-  "wife": [
-    "esposa",
-    "mujer"
-  ],
-  "marido": [
-    "husband"
-  ],
-  "mujer": [
-    "wife"
-  ],
-  "padrastro": [
-    "stepfather"
-  ],
-  "stepfather": [
-    "padrastro"
-  ],
-  "madrastra": [
-    "stepmother"
-  ],
-  "stepmother": [
-    "madrastra"
-  ],
-  "hermano": [
-    "brother"
-  ],
-  "brother": [
-    "hermano"
-  ],
-  "hermana": [
-    "sister"
-  ],
-  "sister": [
-    "hermana"
-  ],
-  "hermanastro": [
-    "stepbrother"
-  ],
-  "stepbrother": [
-    "hermanastro"
-  ],
-  "hermanastra": [
-    "stepsister"
-  ],
-  "stepsister": [
-    "hermanastra"
-  ],
-  "tio": [
-    "uncle"
-  ],
-  "uncle": [
-    "tio"
-  ],
-  "tia": [
-    "aunt"
-  ],
-  "aunt": [
-    "tia"
-  ],
-  "primo": [
-    "cousin"
-  ],
-  "cousin": [
-    "primo"
-  ],
-  "abuelo": [
-    "grandfather"
-  ],
-  "grandfather": [
-    "abuelo"
-  ],
-  "abuela": [
-    "grandmother"
-  ],
-  "grandmother": [
-    "abuela"
-  ],
-  "nieto": [
-    "grandson"
-  ],
-  "grandson": [
-    "nieto"
-  ],
-  "nieta": [
-    "granddaughter"
-  ],
-  "granddaughter": [
-    "nieta"
-  ],
-  "hijo": [
-    "son"
-  ],
-  "son": [
-    "hijo"
-  ],
-  "hija": [
-    "daughter"
-  ],
-  "daughter": [
-    "hija"
-  ],
-  "unico": [
-    "unique",
-    "only"
-  ],
-  "unique": [
-    "unico"
-  ],
-  "only": [
-    "unico"
-  ],
-  "hijo unico": [
-    "only son"
-  ],
-  "only son": [
-    "hijo unico"
-  ],
-  "hija unica": [
-    "only daughter"
-  ],
-  "only daughter": [
-    "hija unica"
-  ],
-  "sobrino": [
-    "nephew"
-  ],
-  "nephew": [
-    "sobrino"
-  ],
-  "sobrina": [
-    "niece"
-  ],
-  "niece": [
-    "sobrina"
-  ],
-  "gemelo": [
-    "twin"
-  ],
-  "twin": [
-    "gemelo"
-  ],
-  "nombre": [
-    "name"
-  ],
-  "name": [
-    "nombre"
-  ],
-  "mascota": [
-    "pet"
-  ],
-  "pet": [
-    "mascota"
-  ],
-  "perro": [
-    "dog"
-  ],
-  "dog": [
-    "perro",
-    "perrito"
-  ],
-  "perrito": [
-    "dog"
-  ],
-  "gato": [
-    "cat"
-  ],
-  "cat": [
-    "gato",
-    "gatito"
-  ],
-  "gatito": [
-    "cat"
-  ],
-  "menor": [
-    "younger"
-  ],
-  "younger": [
-    "menor"
-  ],
-  "mayor": [
-    "older"
-  ],
-  "older": [
-    "mayor"
-  ],
-  "older brother": [
-    "hermano mayor"
-  ],
-  "hermano mayor": [
-    "older brother"
-  ],
-  "older sister": [
-    "hermana mayor"
-  ],
-  "hermana mayor": [
-    "older sister"
-  ],
-  "younger brother": [
-    "hermano menor"
-  ],
-  "hermano menor": [
-    "younger brother"
-  ],
-  "younger sister": [
-    "hermana menor"
-  ],
-  "hermana menor": [
-    "younger sister"
-  ],
-  "carinoso": [
-    "adorable",
-    "affectionate"
-  ],
-  "adorable": [
-    "carinoso"
-  ],
-  "affectionate": [
-    "carinoso"
-  ],
-  "pelo castano": [
-    "brown hair"
-  ],
-  "brown hair": [
-    "pelo castano"
-  ],
-  "castano": [
-    "hazel-nut brown"
-  ],
-  "hazel-nut brown": [
-    "castano"
-  ],
-  "hazel nut brown": [
-    "castano"
-  ],
-  "brown": [
-    "castano"
-  ],
-  "pelo rubio": [
-    "blond hair"
-  ],
-  "blond hair": [
-    "pelo rubio"
-  ],
-  "blonde hair": [
-    "pelo rubio"
-  ],
-  "pelo negro": [
-    "black hair"
-  ],
-  "black hair": [
-    "pelo negro"
-  ],
-  "pelo": [
-    "hair"
-  ],
-  "hair": [
-    "pelo"
-  ],
-  "ojos": [
-    "eyes"
-  ],
-  "eyes": [
-    "ojos"
-  ],
-  "ojos castanos": [
-    "brown eyes"
-  ],
-  "brown eyes": [
-    "ojos castanos"
-  ],
-  "ojos azules": [
-    "blue eyes"
-  ],
-  "blue eyes": [
-    "ojos azules"
-  ],
-  "ojos verdes": [
-    "green eyes"
-  ],
-  "green eyes": [
-    "ojos verdes"
-  ],
-  "casa": [
-    "house"
-  ],
-  "house": [
-    "casa"
-  ],
-  "cuartos": [
-    "rooms"
-  ],
-  "rooms": [
-    "cuartos"
-  ],
-  "sala": [
-    "living room"
-  ],
-  "living room": [
-    "sala"
-  ],
-  "comedor": [
-    "dining room"
-  ],
-  "dining room": [
-    "comedor"
-  ],
-  "cocina": [
-    "kitchen"
-  ],
-  "kitchen": [
-    "cocina"
-  ],
-  "cuarto de dormir": [
-    "bedroom"
-  ],
-  "bedroom": [
-    "cuarto de dormir",
-    "recamara"
-  ],
-  "recamara": [
-    "bedroom"
-  ],
-  "cuarto de bano": [
-    "bathroom"
-  ],
-  "bathroom": [
-    "cuarto de bano",
-    "bano"
-  ],
-  "bano": [
-    "bathroom"
-  ],
-  "jardin": [
-    "garden"
-  ],
-  "garden": [
-    "jardin"
-  ],
-  "flor": [
-    "flower"
-  ],
-  "flower": [
-    "flor"
-  ],
-  "arbol": [
-    "tree"
-  ],
-  "tree": [
-    "arbol"
-  ],
-  "adificio": [
-    "building"
-  ],
-  "building": [
-    "adificio"
-  ],
-  "cassa de apartamentos": [
-    "apartment building"
-  ],
-  "apartment building": [
-    "cassa de apartamentos"
-  ],
-  "apartamento": [
-    "apartment"
-  ],
-  "apartment": [
-    "apartamento",
-    "piso"
-  ],
-  "piso": [
-    "floor",
-    "apartment"
-  ],
-  "floor": [
-    "piso"
-  ],
-  "muebles": [
-    "furniture"
-  ],
-  "furniture": [
-    "muebles"
-  ],
-  "sofa": [
-    "sofa"
-  ],
-  "silla": [
-    "cair"
-  ],
-  "cair": [
-    "silla"
-  ],
-  "mesa": [
-    "table"
-  ],
-  "table": [
-    "mesa",
-    "mesita"
-  ],
-  "mesita": [
-    "table"
-  ],
-  "lampara": [
-    "lamp"
-  ],
-  "lamp": [
-    "lampara"
-  ],
-  "cama": [
-    "bed"
-  ],
-  "bed": [
-    "cama"
-  ],
-  "garaje": [
-    "garage"
-  ],
-  "garage": [
-    "garaje"
-  ],
-  "carro": [
-    "car"
-  ],
-  "car": [
-    "carro"
-  ],
-  "privado": [
-    "private"
-  ],
-  "private": [
-    "privado"
-  ],
-  "viejo": [
-    "old"
-  ],
-  "old": [
-    "viejo"
-  ],
-  "ciudad": [
-    "city"
-  ],
-  "city": [
-    "ciudad"
-  ],
-  "afueras": [
-    "outskirts"
-  ],
-  "outskirts": [
-    "afueras"
-  ],
-  "suburbios": [
-    "suburbs"
-  ],
-  "suburbs": [
-    "suburbios"
-  ],
-  "bicicleta": [
-    "bicycle"
-  ],
-  "bicycle": [
-    "bicicleta"
-  ],
-  "hay": [
-    "there is",
-    "there are"
-  ],
-  "there is": [
-    "hay"
-  ],
-  "there are": [
-    "hay"
-  ],
-  "cada": [
-    "each",
-    "every"
-  ],
-  "each": [
-    "cada"
-  ],
-  "every": [
-    "cada"
-  ],
-  "otro": [
-    "other",
-    "another"
-  ],
-  "other": [
-    "otro"
-  ],
-  "another": [
-    "otro"
-  ],
-  "al lado de": [
-    "beside",
-    "next to"
-  ],
-  "beside": [
-    "al lado de"
-  ],
-  "next to": [
-    "al lado de"
-  ],
-  "delante de": [
-    "in front of"
-  ],
-  "in front of": [
-    "delante de"
-  ],
-  "detras de": [
-    "in back of",
-    "behind"
-  ],
-  "in back of": [
-    "detras de"
-  ],
-  "behind": [
-    "detras de"
-  ],
-  "alrededor de": [
-    "around"
-  ],
-  "around": [
-    "alrededor de"
-  ],
-  "tener": [
-    "to have"
-  ],
-  "to have": [
-    "tener"
-  ],
-  "me": [
-    "mine"
-  ],
-  "mine": [
-    "me"
-  ],
-  "te": [
-    "yours"
-  ],
-  "yours": [
-    "te"
-  ],
-  "su": [
-    "his",
-    "hers"
-  ],
-  "his": [
-    "su",
-    "sus"
-  ],
-  "hers": [
-    "su",
-    "sus"
-  ],
-  "sus": [
-    "his",
-    "hers"
-  ],
-  "sala de clase": [
-    "classroom"
-  ],
-  "classroom": [
-    "sala de clase"
-  ],
-  "pupitre": [
-    "desk"
-  ],
-  "desk": [
-    "pupitre"
-  ],
-  "pregunta": [
-    "question"
-  ],
-  "question": [
-    "pregunta"
-  ],
-  "ensenar": [
-    "to teach"
-  ],
-  "to teach": [
-    "ensenar"
-  ],
-  "hablar": [
-    "to talk"
-  ],
-  "to talk": [
-    "hablar"
-  ],
-  "estudiar": [
-    "to study"
-  ],
-  "to study": [
-    "estudiar"
-  ],
-  "escuchar": [
-    "to listen"
-  ],
-  "to listen": [
-    "escuchar"
-  ],
-  "mirar": [
-    "to look at",
-    "to look"
-  ],
-  "to look at": [
-    "mirar"
-  ],
-  "to look": [
-    "mirar"
-  ],
-  "prestar atencion": [
-    "to pay attention"
-  ],
-  "to pay attention": [
-    "prestar atencion"
-  ],
-  "levantar la mano": [
-    "to raise one's hand"
-  ],
-  "to raise one's hand": [
-    "levantar la mano"
-  ],
-  "to raise ones hand": [
-    "levantar la mano"
-  ],
-  "to raise your hand": [
-    "levantar la mano"
-  ],
-  "raise your hand": [
-    "levantar la mano"
-  ],
-  "raise my hand": [
-    "levantar la mano"
-  ],
-  "contestar": [
-    "to answer"
-  ],
-  "to answer": [
-    "contestar"
-  ],
-  "dar un examen": [
-    "to give a test"
-  ],
-  "to give a test": [
-    "dar un examen",
-    "dar una prueba"
-  ],
-  "dar una prueba": [
-    "to give a test"
-  ],
-  "examen": [
-    "test",
-    "exam"
-  ],
-  "test": [
-    "examen",
-    "prueba"
-  ],
-  "prueba": [
-    "test",
-    "exam"
-  ],
-  "exam": [
-    "examen",
-    "prueba"
-  ],
-  "tomar un examen": [
-    "to take a test"
-  ],
-  "to take a test": [
-    "tomar un examen"
-  ],
-  "sacar una nota": [
-    "to get a grade"
-  ],
-  "to get a grade": [
-    "sacar una nota"
-  ],
-  "sacar una nota buena": [
-    "to get a good grade"
-  ],
-  "to get a good grade": [
-    "sacar una nota buena"
-  ],
-  "sacar una nota mala": [
-    "to get a bad grade"
-  ],
-  "to get a bad grade": [
-    "sacar una nota mala"
-  ],
-  "nota buena": [
-    "good grade"
-  ],
-  "good grade": [
-    "nota buena"
-  ],
-  "nota mala": [
-    "bad grade"
-  ],
-  "bad grade": [
-    "nota mala"
-  ],
-  "ir": [
-    "to go"
-  ],
-  "to go": [
-    "ir"
-  ],
-  "dar": [
-    "to give"
-  ],
-  "to give": [
-    "dar"
-  ],
-  "estar": [
-    "to be"
-  ],
-  "to be": [
-    "estar"
-  ],
-  "una mochila": [
-    "backpack"
-  ],
-  "backpack": [
-    "una mochila"
-  ],
-  "mochila": [
-    "knapsack"
-  ],
-  "knapsack": [
-    "mochila"
-  ],
-  "materiales": [
-    "materials"
-  ],
-  "materials": [
-    "materiales"
-  ],
-  "materiales escolares": [
-    "school supplies"
-  ],
-  "school supplies": [
-    "materiales escolares"
-  ],
-  "libro": [
-    "book"
-  ],
-  "book": [
-    "libro"
-  ],
-  "boligrafo": [
-    "pen"
-  ],
-  "pen": [
-    "boligrafo"
-  ],
-  "hoja de papel": [
-    "sheet of paper"
-  ],
-  "sheet of paper": [
-    "hoja de papel"
-  ],
-  "cuaderno": [
-    "notebook"
-  ],
-  "notebook": [
-    "cuaderno"
-  ],
-  "lapiz": [
-    "pencil"
-  ],
-  "pencil": [
-    "lapiz"
-  ],
-  "lapices": [
-    "pencils"
-  ],
-  "pencils": [
-    "lapices"
-  ],
-  "calculadora": [
-    "calculator"
-  ],
-  "calculator": [
-    "calculadora"
-  ],
-  "carpeta": [
-    "folder"
-  ],
-  "folder": [
-    "carpeta"
-  ],
-  "uniforme": [
-    "uniform"
-  ],
-  "uniform": [
-    "uniforme"
-  ],
-  "pantalon": [
-    "pants"
-  ],
-  "pants": [
-    "pantalon"
-  ],
-  "camisa": [
-    "shirt"
-  ],
-  "shirt": [
-    "camisa",
-    "falda"
-  ],
-  "falda": [
-    "shirt"
-  ],
-  "blusa": [
-    "blouse"
-  ],
-  "blouse": [
-    "blusa"
-  ],
-  "llevar": [
-    "to wear"
-  ],
-  "to wear": [
-    "llevar"
-  ],
-  "movil": [
-    "cell phone"
-  ],
-  "cell phone": [
-    "movil"
-  ],
-  "mp3": [
-    "mp3"
-  ],
-  "musica": [
-    "music"
-  ],
-  "music": [
-    "musica"
-  ],
-  "dvd": [
-    "dvd"
-  ],
-  "computadora": [
-    "computer"
-  ],
-  "computer": [
-    "computadora",
-    "ordenador"
-  ],
-  "ordenador": [
-    "computer"
-  ],
-  "regresar": [
-    "to go back",
-    "to return"
-  ],
-  "to go back": [
-    "regresar"
-  ],
-  "to return": [
-    "regresar"
-  ],
-  "ir a pie": [
-    "to go on foot"
-  ],
-  "to go on foot": [
-    "ir a pie"
-  ],
-  "ir en el bus escolar": [
-    "to go by school bus"
-  ],
-  "to go by school bus": [
-    "ir en el bus escolar"
-  ],
-  "bus": [
-    "bus"
-  ],
-  "bus escolar": [
-    "school bus"
-  ],
-  "school bus": [
-    "bus escolar"
-  ],
-  "navegar": [
-    "to navigate"
-  ],
-  "to navigate": [
-    "navegar"
-  ],
-  "navegar la red": [
-    "to surf the net"
-  ],
-  "to surf the net": [
-    "navegar la red"
-  ],
-  "to surf the internet": [
-    "navegar la red"
-  ],
-  "to surf the web": [
-    "navegar la red"
-  ],
-  "enviar un correo": [
-    "to send an e-mail"
-  ],
-  "to send an e-mail": [
-    "enviar un correo",
-    "envair un electronico"
-  ],
-  "to send an email": [
-    "enviar un correo",
-    "enviar un electronico"
-  ],
-  "enviar": [
-    "to send"
-  ],
-  "to send": [
-    "enviar"
-  ],
-  "envair un electronico": [
-    "to send an e-mail"
-  ],
-  "enviar un electronico": [
-    "to send an email"
-  ],
-  "tienda": [
-    "store"
-  ],
-  "store": [
-    "tienda"
-  ],
-  "empleado": [
-    "employee",
-    "salesperson"
-  ],
-  "employee": [
-    "empleado"
-  ],
-  "salesperson": [
-    "empleado"
-  ],
-  "dinero": [
-    "money"
-  ],
-  "money": [
-    "dinero"
-  ],
-  "caja": [
-    "cash register"
-  ],
-  "cash register": [
-    "caja"
-  ],
-  "trabajar": [
-    "to work"
-  ],
-  "to work": [
-    "trabajar"
-  ],
-  "necesitar": [
-    "to need"
-  ],
-  "to need": [
-    "necesitar"
-  ],
-  "necesito": [
-    "neccesary"
-  ],
-  "neccesary": [
-    "necesito"
-  ],
-  "buscar": [
-    "to look for"
-  ],
-  "to look for": [
-    "buscar"
-  ],
-  "comprar": [
-    "to buy"
-  ],
-  "to buy": [
-    "comprar"
-  ],
-  "pagar": [
-    "to pay"
-  ],
-  "to pay": [
-    "pagar"
-  ],
-  "antes de": [
-    "before"
-  ],
-  "before": [
-    "antes de"
-  ],
-  "durante": [
-    "during"
-  ],
-  "during": [
-    "durante"
-  ],
-  "despues de": [
-    "after"
-  ],
-  "after": [
-    "despues de"
-  ],
-  "cerca de": [
-    "near"
-  ],
-  "near": [
-    "cerca de"
-  ],
-  "lejos de": [
-    "far"
-  ],
-  "far": [
-    "lejos de"
-  ],
-  "far from": [
-    "lejos de"
-  ],
-  "adonde": [
-    "to where",
-    "where"
-  ],
-  "to where": [
-    "adonde"
-  ],
-  "where": [
-    "adonde"
-  ],
-  "cuando": [
-    "when"
-  ],
-  "when": [
-    "cuando"
-  ],
-  "por que": [
-    "why"
-  ],
-  "why": [
-    "por que"
-  ],
-  "porque": [
-    "because"
-  ],
-  "because": [
-    "porque"
-  ],
-  "mira!": [
-    "look!"
-  ],
-  "look!": [
-    "mira!"
-  ],
-  "mira": [
-    "look!"
-  ],
-  "cuanto cuesta?": [
-    "how much does it cost?"
-  ],
-  "how much does it cost?": [
-    "cuanto cuesta?"
-  ],
-  "how much does it cost": [
-    "cuanto cuesta?"
-  ],
-  "cuanto cuesta": [
-    "how much does it cost?"
-  ],
-  "que pasa?": [
-    "what's going on?",
-    "what's happening?"
-  ],
-  "what's going on?": [
-    "que pasa?"
-  ],
-  "what's happening?": [
-    "que pasa?"
-  ],
-  "que pasa": [
-    "what's going on?",
-    "what's happening?"
-  ],
-  "whats happening": [
-    "que pasa?"
-  ],
-  "whats going on": [
-    "que pasa?"
-  ],
-  "usar": [
-    "to use"
-  ],
-  "to use": [
-    "usar"
-  ],
-  "comida": [
-    "meal"
-  ],
-  "meal": [
-    "comida"
-  ],
-  "desayuna": [
-    "breakfast"
-  ],
-  "breakfast": [
-    "desayuna"
-  ],
-  "almuerzo": [
-    "lunch"
-  ],
-  "lunch": [
-    "almuerzo"
-  ],
-  "cena": [
-    "dinner"
-  ],
-  "dinner": [
-    "cena"
-  ],
-  "vegetariano": [
-    "vegetarian"
-  ],
-  "vegetarian": [
-    "vegetariano"
-  ],
-  "tener hambre": [
-    "to be hungry",
-    "to have hunger"
-  ],
-  "to be hungry": [
-    "tener hambre"
-  ],
-  "to have hunger": [
-    "tener hambre"
-  ],
-  "tener sed": [
-    "to be thirsty"
-  ],
-  "to be thirsty": [
-    "tener sed"
-  ],
-  "to have thirst": [
-    "tener sad"
-  ],
-  "tener sad": [
-    "to have thirst"
-  ],
-  "tomar": [
-    "to have"
-  ],
-  "to have": [
-    "tomar"
-  ],
-  "comer": [
-    "to eat"
-  ],
-  "to eat": [
-    "comer"
-  ],
-  "beber": [
-    "to drink"
-  ],
-  "to drink": [
-    "beber"
-  ],
-  "cenar": [
-    "to have dinner"
-  ],
-  "to have dinner": [
-    "cenar"
-  ],
-  "tostadas": [
-    "toast"
-  ],
-  "toast": [
-    "tostadas",
-    "pan tostado"
-  ],
-  "pan tostado": [
-    "toast"
-  ],
-  "panecillo": [
-    "roll"
-  ],
-  "roll": [
-    "panecillo"
-  ],
-  "mantequilla": [
-    "butter"
-  ],
-  "butter": [
-    "mantequilla"
-  ],
-  "cereal": [
-    "cereal"
-  ],
-  "huevo": [
-    "egg"
-  ],
-  "egg": [
-    "huevo"
-  ],
-  "hueves": [
-    "eggs"
-  ],
-  "eggs": [
-    "hueves"
-  ],
-  "tocino": [
-    "bacon"
-  ],
-  "bacon": [
-    "tocino",
-    "bacã³n"
-  ],
-  "bacã³n": [
-    "bacon"
-  ],
-  "sancwich": [
-    "sandwich"
-  ],
-  "sandwich": [
-    "sancwich",
-    "bocadillo"
-  ],
-  "bocadillo": [
-    "sandwich"
-  ],
-  "jamon": [
-    "jam"
-  ],
-  "jam": [
-    "jamon"
-  ],
-  "queso": [
-    "cheese"
-  ],
-  "cheese": [
-    "queso"
-  ],
-  "ensalada": [
-    "salad"
-  ],
-  "salad": [
-    "ensalada"
-  ],
-  "pizza": [
-    "pizza"
-  ],
-  "hamburguesa": [
-    "hamburger"
-  ],
-  "hamburger": [
-    "hamburguesa"
-  ],
-  "carne": [
-    "meat"
-  ],
-  "meat": [
-    "carne"
-  ],
-  "pollo": [
-    "chicken"
-  ],
-  "chicken": [
-    "pollo"
-  ],
-  "pescado": [
-    "fish"
-  ],
-  "fish": [
-    "pescado"
-  ],
-  "arroz": [
-    "rice"
-  ],
-  "rice": [
-    "arroz"
-  ],
-  "frijoles": [
-    "beans"
-  ],
-  "beans": [
-    "frijoles"
-  ],
-  "legumbres": [
-    "vegetables"
-  ],
-  "vegetables": [
-    "legumbres",
-    "vegetales",
-    "verduras"
-  ],
-  "vegetales": [
-    "vegetables"
-  ],
-  "verduras": [
-    "vegetables"
-  ],
-  "lechuga": [
-    "lettuce"
-  ],
-  "lettuce": [
-    "lechuga"
-  ],
-  "tomate": [
-    "tomato"
-  ],
-  "tomato": [
-    "tomate"
-  ],
-  "papas": [
-    "potatoes"
-  ],
-  "potatoes": [
-    "papas",
-    "patatas"
-  ],
-  "papas fritas": [
-    "french fries",
-    "fried potatoes"
-  ],
-  "french fries": [
-    "papas fritas",
-    "patatas fritas"
-  ],
-  "fried potatoes": [
-    "papas fritas"
-  ],
-  "patatas": [
-    "potatoes"
-  ],
-  "patatas fritas": [
-    "french fries",
-    "friend potatoes"
-  ],
-  "friend potatoes": [
-    "patatas fritas"
-  ],
-  "frito": [
-    "fried"
-  ],
-  "fried": [
-    "frito"
-  ],
-  "postre": [
-    "dessert"
-  ],
-  "dessert": [
-    "postre"
-  ],
-  "helado": [
-    "ice cream"
-  ],
-  "ice cream": [
-    "helado"
-  ],
-  "flan": [
-    "flan",
-    "custard"
-  ],
-  "custard": [
-    "flan"
-  ],
-  "torta": [
-    "cake"
-  ],
-  "cake": [
-    "torta"
-  ],
-  "refresco": [
-    "soft drink",
-    "soda",
-    "carbonated drink"
-  ],
-  "soft drink": [
-    "refresco",
-    "gaseosa"
-  ],
-  "soda": [
-    "refresco",
-    "gaseosa",
-    "cola"
-  ],
-  "carbonated drink": [
-    "refresco",
-    "gaseosa"
-  ],
-  "bebida": [
-    "beverage",
-    "drink"
-  ],
-  "beverage": [
-    "bebida"
-  ],
-  "drink": [
-    "bebida"
-  ],
-  "jugo de naranja": [
-    "orange juice"
-  ],
-  "orange juice": [
-    "jugo de naranja"
-  ],
-  "leche": [
-    "milk"
-  ],
-  "milk": [
-    "leche"
-  ],
-  "gaseosa": [
-    "soft drink",
-    "carbonated drink",
-    "soda"
-  ],
-  "agua": [
-    "water"
-  ],
-  "water": [
-    "agua"
-  ],
-  "agua mineral": [
-    "mineral water",
-    "sparkling water"
-  ],
-  "mineral water": [
-    "agua mineral",
-    "agua con gas"
-  ],
-  "sparkling water": [
-    "agua mineral",
-    "agua con gas"
-  ],
-  "agua con gas": [
-    "sparkling water",
-    "mineral water"
-  ],
-  "chocolate": [
-    "chocolate"
-  ],
-  "cafe": [
-    "coffe"
-  ],
-  "coffe": [
-    "cafe"
-  ],
-  "batido": [
-    "shake",
-    "smoothie"
-  ],
-  "shake": [
-    "batido"
-  ],
-  "smoothie": [
-    "batido"
-  ],
-  "cola": [
-    "cola",
-    "soda"
-  ],
-  "vaso": [
-    "glass"
-  ],
-  "glass": [
-    "vaso"
-  ],
-  "taza": [
-    "cup"
-  ],
-  "cup": [
-    "taza"
-  ],
-  "caliente": [
-    "hot"
-  ],
-  "hot": [
-    "caliente"
-  ],
-  "frio": [
-    "cold"
-  ],
-  "cold": [
-    "frio"
-  ],
-  "merienda": [
-    "snack"
-  ],
-  "snack": [
-    "merienda"
-  ],
-  "tapas": [
-    "snacks"
-  ],
-  "snacks": [
-    "tapas",
-    "antojitos"
-  ],
-  "antojitos": [
-    "snacks"
-  ],
-  "empanada": [
-    "meat pie"
-  ],
-  "meat pie": [
-    "empanada"
-  ],
-  "tostones": [
-    "slices of fried plantain"
-  ],
-  "slices of fried plantain": [
-    "tostones"
-  ],
-  "pinchitos": [
-    "kebabs"
-  ],
-  "kebabs": [
-    "pinchitos"
-  ],
-  "camarones": [
-    "shrimp"
-  ],
-  "shrimp": [
-    "camarones"
-  ],
-  "aceitunas": [
-    "olives"
-  ],
-  "olives": [
-    "aceitunas"
-  ],
-  "albondigas": [
-    "meatballs"
-  ],
-  "meatballs": [
-    "albondigas"
-  ],
-  "mesa ocupada": [
-    "occupied table",
-    "unavailable table"
-  ],
-  "occupied table": [
-    "mesa ocupada"
-  ],
-  "unavailable table": [
-    "mesa ocupada"
-  ],
-  "mesa libre": [
-    "free table",
-    "unoccupied table"
-  ],
-  "free table": [
-    "mesa libre"
-  ],
-  "unoccupied table": [
-    "mesa libre"
-  ],
-  "mesero": [
-    "server"
-  ],
-  "server": [
-    "mesero"
-  ],
-  "cliente": [
-    "customer"
-  ],
-  "customer": [
-    "cliente"
-  ],
-  "menu": [
-    "menu"
-  ],
-  "orden": [
-    "order"
-  ],
-  "order": [
-    "orden"
-  ],
-  "cuenta": [
-    "check"
-  ],
-  "check": [
-    "cuenta"
-  ],
-  "ver": [
-    "to see"
-  ],
-  "to see": [
-    "ver"
-  ],
-  "leer": [
-    "to read"
-  ],
-  "to read": [
-    "leer"
-  ],
-  "abrir": [
-    "to open"
-  ],
-  "to open": [
-    "abrir"
-  ],
-  "recibir": [
-    "to recieve"
-  ],
-  "to recieve": [
-    "recibir"
-  ],
-  "escribir": [
-    "to write"
-  ],
-  "to write": [
-    "escribir"
-  ],
-  "que desean tomar?": [
-    "what would you like to eat?"
-  ],
-  "what would you like to eat?": [
-    "que desean tomar?"
-  ],
-  "que desean tomar": [
-    "what would you like to eat?"
-  ],
-  "what would you like to eat": [
-    "que desean tomar?"
-  ],
-  "esta incluido el servicio?": [
-    "is the tip included?"
-  ],
-  "is the tip included?": [
-    "esta incluido el servicio?"
-  ],
-  "esta incluido el servicio": [
-    "is the tip included?"
-  ],
-  "is the tip included": [
-    "esta incluido el servicio?"
-  ],
-  "sorpresa": [
-    "surprise"
-  ],
-  "surprise": [
-    "sorpresa"
-  ],
-  "enseguida": [
-    "right away"
-  ],
-  "right away": [
-    "enseguida"
-  ],
-  "llegar": [
-    "to arrive"
-  ],
-  "to arrive": [
-    "llegar"
-  ],
-  "tener que": [
-    "to have to"
-  ],
-  "to have to": [
-    "tener que",
-    "deber"
-  ],
-  "ir a": [
-    "to be going to"
-  ],
-  "to be going to": [
-    "ir a"
-  ],
-  "acabar de": [
-    "just",
-    "to have just done something"
-  ],
-  "just": [
-    "acabar de"
-  ],
-  "to have just done something": [
-    "acabar de"
-  ],
-  "aprender": [
-    "to learn"
-  ],
-  "to learn": [
-    "aprender"
-  ],
-  "comprender": [
-    "to understand"
-  ],
-  "to understand": [
-    "comprender"
-  ],
-  "creer que si": [
-    "to think so"
-  ],
-  "to think so": [
-    "creer que si"
-  ],
-  "creer que no": [
-    "to not think so"
-  ],
-  "to not think so": [
-    "creer que no"
-  ],
-  "creer": [
-    "to believe",
-    "to think"
-  ],
-  "to believe": [
-    "creer"
-  ],
-  "pensar": [
-    "to think"
-  ],
-  "to think": [
-    "pensar",
-    "creer"
-  ],
-  "deber": [
-    "to have to",
-    "must"
-  ],
-  "must": [
-    "deber"
-  ],
-  "vivir": [
-    "to live"
-  ],
-  "to live": [
-    "vivir"
-  ],
-  {
-  "deportes": [
-    "sports"
-  ],
-  "sports": [
-    "deportes"
-  ],
-  "futbol": [
-    "soccer"
-  ],
-  "soccer": [
-    "futbol"
-  ],
-  "beisbol": [
-    "baseball"
-  ],
-  "baseball": [
-    "beisbol"
-  ],
-  "basquetbol": [
-    "basketball"
-  ],
-  "basketball": [
-    "basquetbol",
-    "baloncesto"
-  ],
-  "baloncesto": [
-    "basketball"
-  ],
-  "tenis": [
-    "tennis"
-  ],
-  "tennis": [
-    "tenis"
-  ],
-  "partido": [
-    "game"
-  ],
-  "game": [
-    "partido",
-    "juego"
-  ],
-  "juego": [
-    "game"
-  ],
-  "equipo": [
-    "team"
-  ],
-  "team": [
-    "equipo"
-  ],
-  "jugador": [
-    "player"
-  ],
-  "player": [
-    "jugador"
-  ],
-  "aficionado": [
-    "fan"
-  ],
-  "fan": [
-    "aficionado"
-  ],
-  "espectador": [
-    "spectador"
-  ],
-  "spectador": [
-    "espectador"
-  ],
-  "tanto": [
-    "score",
-    "point"
-  ],
-  "score": [
-    "tanto"
-  ],
-  "point": [
-    "tanto"
-  ],
-  "jugar": [
-    "to play"
-  ],
-  "to play": [
-    "jugar"
-  ],
-  "empezar": [
-    "to begin"
-  ],
-  "to begin": [
-    "empezar",
-    "comenzar"
-  ],
-  "comenzar": [
-    "to begin"
-  ],
-  "volver": [
-    "to return"
-  ],
-  "to return": [
-    "volver",
-    "devolver"
-  ],
-  "poder": [
-    "to be able to"
-  ],
-  "to be able to": [
-    "poder"
-  ],
-  "to be able": [
-    "poder"
-  ],
-  "marcar": [
-    "to score"
-  ],
-  "to score": [
-    "marcar",
-    "meter"
-  ],
-  "marcar un tanto": [
-    "to score a point"
-  ],
-  "to score a point": [
-    "marcar un tanto"
-  ],
-  "querer": [
-    "to want",
-    "to wish"
-  ],
-  "to want": [
-    "querer"
-  ],
-  "to wish": [
-    "querer"
-  ],
-  "perder": [
-    "to lose"
-  ],
-  "to lose": [
-    "perder"
-  ],
-  "ganar": [
-    "to win"
-  ],
-  "to win": [
-    "ganar"
-  ],
-  "aplaudir": [
-    "to applaud",
-    "to clap"
-  ],
-  "to applaud": [
-    "aplaudir"
-  ],
-  "to clap": [
-    "aplaudir"
-  ],
-  "campo de futbol": [
-    "soccer field"
-  ],
-  "soccer field": [
-    "campo de futbol"
-  ],
-  "tiempo": [
-    "half-time"
-  ],
-  "half-time": [
-    "tiempo"
-  ],
-  "half time": [
-    "tiempo"
-  ],
-  "balon": [
-    "ball"
-  ],
-  "ball": [
-    "balon",
-    "pelota"
-  ],
-  "portero": [
-    "goalie"
-  ],
-  "goalie": [
-    "portero"
-  ],
-  "porteria": [
-    "goal"
-  ],
-  "goal": [
-    "porteria",
-    "gol"
-  ],
-  "gol": [
-    "goal"
-  ],
-  "lanzar": [
-    "to kick",
-    "to throw"
-  ],
-  "to kick": [
-    "lanzar"
-  ],
-  "to throw": [
-    "lanzar",
-    "tirar"
-  ],
-  "tocar": [
-    "to touch"
-  ],
-  "to touch": [
-    "tocar"
-  ],
-  "guardar": [
-    "to guard"
-  ],
-  "to guard": [
-    "guardar"
-  ],
-  "entrar": [
-    "to enter",
-    "to go into"
-  ],
-  "to enter": [
-    "entrar"
-  ],
-  "to go into": [
-    "entrar"
-  ],
-  "bloquear": [
-    "to block"
-  ],
-  "to block": [
-    "bloquear"
-  ],
-  "meter": [
-    "to score"
-  ],
-  "meter un gol": [
-    "to score a goal"
-  ],
-  "to score a goal": [
-    "meter un gol"
-  ],
-  "campo de beisbol": [
-    "baseball field"
-  ],
-  "baseball field": [
-    "campo de beisbol"
-  ],
-  "beisbolista": [
-    "baseball player"
-  ],
-  "baseball player": [
-    "beisbolista"
-  ],
-  "bateador": [
-    "batter"
-  ],
-  "batter": [
-    "bateador"
-  ],
-  "lanzador": [
-    "pitcher"
-  ],
-  "pitcher": [
-    "lanzador",
-    "picher"
-  ],
-  "picher": [
-    "pitcher"
-  ],
-  "catcher": [
-    "catcher",
-    "receptor"
-  ],
-  "receptor": [
-    "catcher"
-  ],
-  "jardinero": [
-    "outfielder"
-  ],
-  "outfielder": [
-    "jardinero"
-  ],
-  "gustar": [
-    "to like",
-    "to be pleasing"
-  ],
-  "to like": [
-    "gustar"
-  ],
-  "to be pleasing": [
-    "gustar"
-  ],
-  "interesar": [
-    "to interest"
-  ],
-  "to interest": [
-    "interesar"
-  ],
-  "pensar": [
-    "to think"
-  ],
-  "to think": [
-    "pensar"
-  ],
-  "dormir": [
-    "to sleep"
-  ],
-  "to sleep": [
-    "dormir"
-  ],
-  "preferir": [
-    "to prefer"
-  ],
-  "to prefer": [
-    "preferir"
-  ],
-  "propio": [
-    "own"
-  ],
-  "own": [
-    "propio"
-  ],
-  "que pena!": [
-    "what a shame!"
-  ],
-  "what a shame!": [
-    "que pena!"
-  ],
-  "que pena": [
-    "what a shame!"
-  ],
-  "lo siento": [
-    "i'm sorry"
-  ],
-  "i'm sorry": [
-    "lo siento"
-  ],
-  "lo siento mucho": [
-    "i'm very sorry"
-  ],
-  "i'm very sorry": [
-    "lo siento mucho"
-  ],
-  "im sorry": [
-    "lo siento"
-  ],
-  "im very sorry": [
-    "lo siento mucho"
-  ],
-  "que piensas de": [
-    "what do you think about"
-  ],
-  "what do you think about": [
-    "que piensas de"
-  ],
-  "que piensas de?": [
-    "what do you think about?"
-  ],
-  "what do you think about?": [
-    "que piensas de?"
-  ],
-  "barbaro!": [
-    "great!",
-    "awesome!"
-  ],
-  "great!": [
-    "barbaro!"
-  ],
-  "awesome!": [
-    "barbaro!"
-  ],
-  "great": [
-    "barbaro"
-  ],
-  "barbaro": [
-    "great",
-    "awesome"
-  ],
-  "awesome": [
-    "barbaro"
-  ],
-  "bate": [
-    "bat"
-  ],
-  "bat": [
-    "bate"
-  ],
-  "guante": [
-    "glove"
-  ],
-  "glove": [
-    "guante"
-  ],
-  "plato": [
-    "home plate",
-    "plate"
-  ],
-  "home plate": [
-    "plato"
-  ],
-  "plate": [
-    "plato"
-  ],
-  "base": [
-    "base"
-  ],
-  "jonron": [
-    "home run"
-  ],
-  "home run": [
-    "jonron"
-  ],
-  "batear": [
-    "to hit",
-    "to bat"
-  ],
-  "to hit": [
-    "batear",
-    "golpear"
-  ],
-  "to bat": [
-    "batear"
-  ],
-  "correr": [
-    "to run"
-  ],
-  "to run": [
-    "correr"
-  ],
-  "atrapar": [
-    "to catch"
-  ],
-  "to catch": [
-    "atrapar"
-  ],
-  "cancha": [
-    "court"
-  ],
-  "court": [
-    "cancha"
-  ],
-  "cesto": [
-    "basket"
-  ],
-  "basket": [
-    "cesto",
-    "canasta"
-  ],
-  "canasta": [
-    "basket"
-  ],
-  "tirar": [
-    "to throw"
-  ],
-  "driblar": [
-    "to dribble"
-  ],
-  "to dribble": [
-    "driblar"
-  ],
-  "encestar": [
-    "to make a basket"
-  ],
-  "to make a basket": [
-    "encestar"
-  ],
-  "raqueta": [
-    "tennis racket"
-  ],
-  "tennis racket": [
-    "raqueta"
-  ],
-  "pelota": [
-    "ball"
-  ],
-  "la red": [
-    "net"
-  ],
-  "net": [
-    "la red",
-    "red"
-  ],
-  "individuales": [
-    "singels"
-  ],
-  "singels": [
-    "individuales"
-  ],
-  "dobles": [
-    "doubles"
-  ],
-  "doubles": [
-    "dobles"
-  ],
-  "golpear": [
-    "to hit"
-  ],
-  "devolver": [
-    "to return"
-  ],
-  "por encima de": [
-    "above",
-    "over"
-  ],
-  "above": [
-    "por encima de"
-  ],
-  "over": [
-    "por encima de"
-  ],
-  "camiseta": [
-    "t-shirt"
-  ],
-  "t-shirt": [
-    "camiseta"
-  ],
-  "t shirt": [
-    "camiseta"
-  ],
-  "pantalon corto": [
-    "shorts"
-  ],
-  "shorts": [
-    "pantalon corto"
-  ],
-  "calcetines largos": [
-    "long socks"
-  ],
-  "long socks": [
-    "calcetines largos"
-  ],
-  "calcetines": [
-    "socks"
-  ],
-  "socks": [
-    "calcetines"
-  ],
-  "largo": [
-    "large"
-  ],
-  "large": [
-    "largo"
-  ],
-  "zapatillas": [
-    "shoes",
-    "sneakers"
-  ],
-  "shoes": [
-    "zapatillas"
-  ],
-  "sneakers": [
-    "zapatillas"
-  ],
-  "de que color es?": [
-    "what color is it?"
-  ],
-  "what color is it?": [
-    "de que color es?"
-  ],
-  "what color is it": [
-    "de que color es?"
-  ],
-  "de que color es": [
-    "what color is it?"
-  ],
-  "color": [
-    "color"
-  ],
-  "me gusta": [
-    "i like"
-  ],
-  "i like": [
-    "me gusta"
-  ],
-  "te gusta": [
-    "you like"
-  ],
-  "you like": [
-    "te gusta"
-  ],
-  "le gusta": [
-    "he likes",
-    "she likes"
-  ],
-  "he likes": [
-    "le gusta"
-  ],
-  "she likes": [
-    "le gusta"
-  ],
-  "nos gusta": [
-    "we like"
-  ],
-  "we like": [
-    "nos gusta"
-  ],
-  "les gusta": [
-    "they like"
-  ],
-  "they like": [
-    "les gusta"
-  ],
- {
-  "bienestar": [
-    "wellbeing"
-  ],
-  "wellbeing": [
-    "bienestar"
-  ],
-  "alegre": [
-    "happy"
-  ],
-  "happy": [
-    "alegre",
-    "contento"
-  ],
-  "contento": [
-    "happy"
-  ],
-  "triste": [
-    "sad"
-  ],
-  "sad": [
-    "triste",
-    "deprimido"
-  ],
-  "deprimido": [
-    "sad",
-    "depressed"
-  ],
-  "depressed": [
-    "deprimido"
-  ],
-  "enojado": [
-    "angry",
-    "annoyed"
-  ],
-  "angry": [
-    "enojado",
-    "enfadado"
-  ],
-  "annoyed": [
-    "enojado",
-    "molesto"
-  ],
-  "enfadado": [
-    "angry"
-  ],
-  "energetico": [
-    "energetic"
-  ],
-  "energetic": [
-    "energetico"
-  ],
-  "calmo": [
-    "calm"
-  ],
-  "calm": [
-    "calmo",
-    "tranquilo"
-  ],
-  "tranquilo": [
-    "calm"
-  ],
-  "nervioso": [
-    "nervous"
-  ],
-  "nervous": [
-    "nervioso"
-  ],
-  "cansado": [
-    "tired"
-  ],
-  "tired": [
-    "cansado"
-  ],
-  "de mal humor": [
-    "in a bad mood"
-  ],
-  "in a bad mood": [
-    "de mal humor"
-  ],
-  "de buen humor": [
-    "in a good mood"
-  ],
-  "in a good mood": [
-    "de buen humor"
-  ],
-  "humor": [
-    "mood"
-  ],
-  "mood": [
-    "humor"
-  ],
-  "personalidad": [
-    "personality"
-  ],
-  "personality": [
-    "personalidad"
-  ],
-  "comportamiento": [
-    "behaviour",
-    "conduct"
-  ],
-  "behaviour": [
-    "comportamiento"
-  ],
-  "conduct": [
-    "comportamiento"
-  ],
-  "modales": [
-    "manners"
-  ],
-  "manners": [
-    "modales"
-  ],
-  "energia": [
-    "energy"
-  ],
-  "energy": [
-    "energia"
-  ],
-  "entusiasmo": [
-    "enthusiasm"
-  ],
-  "enthusiasm": [
-    "entusiasmo"
-  ],
-  "paciencia": [
-    "patience"
-  ],
-  "patience": [
-    "paciencia"
-  ],
-  "dinamico": [
-    "dynamic"
-  ],
-  "dynamic": [
-    "dinamico"
-  ],
-  "paciente": [
-    "patient"
-  ],
-  "patient": [
-    "paciente",
-    "peciente"
-  ],
-  "impaciente": [
-    "impatient"
-  ],
-  "impatient": [
-    "impaciente"
-  ],
-  "flexible": [
-    "open-minded",
-    "flexible"
-  ],
-  "open-minded": [
-    "flexible"
-  ],
-  "open minded": [
-    "flexible"
-  ],
-  "terco": [
-    "stubborn",
-    "obstinate"
-  ],
-  "stubborn": [
-    "terco",
-    "obstinado"
-  ],
-  "obstinado": [
-    "stubborn",
-    "obstinate"
-  ],
-  "obstinate": [
-    "terco",
-    "obstinado"
-  ],
-  "agradable": [
-    "pleasant",
-    "friendly"
-  ],
-  "pleasant": [
-    "agradable"
-  ],
-  "friendly": [
-    "agradable"
-  ],
-  "bien educado": [
-    "polite"
-  ],
-  "polite": [
-    "bien educado"
-  ],
-  "mal educado": [
-    "rude"
-  ],
-  "rude": [
-    "mal educado"
-  ],
-  "salud": [
-    "health"
-  ],
-  "health": [
-    "salud"
-  ],
-  "catarro": [
-    "cold"
-  ],
-  "cold": [
-    "catarro"
-  ],
-  "fiebre": [
-    "fever"
-  ],
-  "fever": [
-    "fiebre"
-  ],
-  "tos": [
-    "cough"
-  ],
-  "cough": [
-    "tos"
-  ],
-  "estres": [
-    "stress"
-  ],
-  "stress": [
-    "estres"
-  ],
-  "dolor": [
-    "pain",
-    "ache"
-  ],
-  "pain": [
-    "dolor"
-  ],
-  "ache": [
-    "dolor"
-  ],
-  "garganta": [
-    "throat"
-  ],
-  "throat": [
-    "garganta"
-  ],
-  "estomago": [
-    "stomach ache"
-  ],
-  "stomach ache": [
-    "estomago",
-    "dolor de estomago"
-  ],
-  "cabeza": [
-    "headache"
-  ],
-  "headache": [
-    "cabeza",
-    "dolor de cabeza"
-  ],
-  "dolor de garganta": [
-    "sore throat"
-  ],
-  "sore throat": [
-    "dolor de garganta"
-  ],
-  "dolor de estomago": [
-    "stomach ache"
-  ],
-  "dolor de cabeza": [
-    "headache"
-  ],
-  "examen fisico": [
-    "physical"
-  ],
-  "physical": [
-    "examen fisico"
-  ],
-  "tension arterial": [
-    "blood pressure"
-  ],
-  "blood pressure": [
-    "tension arterial"
-  ],
-  "pulso": [
-    "pulse"
-  ],
-  "pulse": [
-    "pulso"
-  ],
-  "consulta": [
-    "doctor's office"
-  ],
-  "doctor's office": [
-    "consulta"
-  ],
-  "doctors office": [
-    "consulta"
-  ],
-  "medico": [
-    "doctor"
-  ],
-  "doctor": [
-    "medico"
-  ],
-  "enfermero": [
-    "nurse"
-  ],
-  "nurse": [
-    "enfermero"
-  ],
-  "peciente": [
-    "patient"
-  ],
-  "farmacia": [
-    "pharmacy",
-    "drugstore"
-  ],
-  "pharmacy": [
-    "farmacia"
-  ],
-  "drugstore": [
-    "farmacia"
-  ],
-  "farmaceutico": [
-    "pharmacist"
-  ],
-  "pharmacist": [
-    "farmaceutico"
-  ],
-  "receta": [
-    "prescription"
-  ],
-  "prescription": [
-    "receta"
-  ],
-  "medicamento": [
-    "medicine"
-  ],
-  "medicine": [
-    "medicamento",
-    "medicina"
-  ],
-  "medicina": [
-    "medicine"
-  ],
-  "enfermo": [
-    "ill",
-    "sick"
-  ],
-  "ill": [
-    "enfermo"
-  ],
-  "sick": [
-    "enfermo"
-  ],
-  "resfriado": [
-    "stuffed up (cold)",
-    "stuffed up"
-  ],
-  "stuffed up": [
-    "resfriado"
-  ],
-  "examinar": [
-    "to examine"
-  ],
-  "to examine": [
-    "examinar"
-  ],
-  "abrir": [
-    "to open"
-  ],
-  "to open": [
-    "abrir"
-  ],
-  "toser": [
-    "to cough"
-  ],
-  "to cough": [
-    "toser"
-  ],
-  "doler": [
-    "to ache",
-    "to hurt"
-  ],
-  "to ache": [
-    "doler"
-  ],
-  "to hurt": [
-    "doler"
-  ],
-  "recetar": [
-    "to prescribe"
-  ],
-  "to prescribe": [
-    "recetar"
-  ],
-  "vender": [
-    "to sell"
-  ],
-  "to sell": [
-    "vender"
-  ],
-  "sonrisa": [
-    "smile"
-  ],
-  "smile": [
-    "sonrisa"
-  ],
-  "cara": [
-    "face"
-  ],
-  "face": [
-    "cara"
-  ],
-  "boca": [
-    "mouth"
-  ],
-  "mouth": [
-    "boca"
-  ],
-  "nino": [
-    "boy",
-    "child"
-  ],
-  "boy": [
-    "nino"
-  ],
-  "nina": [
-    "girl"
-  ],
-  "girl": [
-    "nina"
-  ],
-  "child": [
-    "nino"
-  ],
-  "tipo": [
-    "guy",
-    "type"
-  ],
-  "guy": [
-    "tipo"
-  ],
-  "type": [
-    "tipo"
-  ],
-  "lleno de": [
-    "full of"
-  ],
-  "full of": [
-    "lleno de"
-  ],
-  "me falta": [
-    "i need"
-  ],
-  "i need": [
-    "me falta"
-  ],
-  "me enfada": [
-    "it angers me"
-  ],
-  "it angers me": [
-    "me enfada"
-  ],
-  "me enoja": [
-    "it annoys me"
-  ],
-  "it annoys me": [
-    "me enoja"
-  ],
-  "me molesta": [
-    "it bothers me"
-  ],
-  "it bothers me": [
-    "me molesta"
-  ],
-  "molesto": [
-    "bothered",
-    "annoyed"
-  ],
-  "bothered": [
-    "molesto"
-  ],
-  "guardar cama": [
-    "to stay in bed"
-  ],
-  "to stay in bed": [
-    "guardar cama"
-  ],
-  "tener exito": [
-    "to be successful"
-  ],
-  "to be successful": [
-    "tener exito"
-  ],
-  "exito": [
-    "success"
-  ],
-  "success": [
-    "exito"
-  ],
-   "verano": [
-    "summer"
-  ],
-  "summer": [
-    "verano"
-  ],
-  "invierno": [
-    "winter"
-  ],
-  "winter": [
-    "invierno"
-  ],
-  "temperatura": [
-    "temperature"
-  ],
-  "temperature": [
-    "temperatura"
-  ],
-  "nieve": [
-    "snow"
-  ],
-  "snow": [
-    "nieve"
-  ],
-  "nube": [
-    "cloud"
-  ],
-  "cloud": [
-    "nube"
-  ],
-  "llueve": [
-    "it's raining"
-  ],
-  "it's raining": [
-    "llueve"
-  ],
-  "its raining": [
-    "llueve"
-  ],
-  "lluvia": [
-    "rain"
-  ],
-  "rain": [
-    "lluvia"
-  ],
-  "nieva": [
-    "it's snowing",
-  ],
-  "it's snowing": [
-    "nieva"
-  ],
-  "its snowing": [
-    "nieva"
-  ],
-  "hace buen tiempo": [
-    "the weather is nice"
-  ],
-  "the weather is nice": [
-    "hace buen tiempo"
-  ],
-  "hace mal tiempo": [
-    "the weather is bad"
-  ],
-  "the weather is bad": [
-    "hace mal tiempo"
-  ],
-  "hace calor": [
-    "it's hot"
-  ],
-  "it's hot": [
-    "hace calor"
-  ],
-  "its hot": [
-    "hace calor"
-  ],
-  "hace frio": [
-    "it's cold"
-  ],
-  "it's cold": [
-    "hace frio"
-  ],
-  "its cold": [
-    "hace frio"
-  ],
-  "hace sol": [
-    "it's sunny"
-  ],
-  "it's sunny": [
-    "hace sol",
-    "hace hay sol"
-  ],
-  "its sunny": [
-    "hace sol",
-    "hace hay sol"
-  ],
-  "hace hay sol": [
-    "there is sun",
-    "it's sunny"
-  ],
-  "there is sun": [
-    "hace hay sol"
-  ],
-  "sol": [
-    "sun"
-  ],
-  "sun": [
-    "sol"
-  ],
-  "hacer": [
-    "to do",
-    "to make"
-  ],
-  "to do": [
-    "hacer"
-  ],
-  "to make": [
-    "hacer"
-  ],
-  "nublado": [
-    "cloudy"
-  ],
-  "cloudy": [
-    "nublado"
-  ],
-  "balneario": [
-    "beach resort"
-  ],
-  "beach resort": [
-    "balneario"
-  ],
-  "seaside resort": [
-    "balneario"
-  ],
-  "playa": [
-    "beach"
-  ],
-  "beach": [
-    "playa"
-  ],
-  "arena": [
-    "sand"
-  ],
-  "sand": [
-    "arena"
-  ],
-  "mar": [
-    "sea",
-    "ocean"
-  ],
-  "sea": [
-    "mar"
-  ],
-  "ocean": [
-    "mar"
-  ],
-  "ola": [
-    "wave"
-  ],
-  "wave": [
-    "ola"
-  ],
-  "piscina": [
-    "pool"
-  ],
-  "pool": [
-    "piscina",
-    "alberca"
-  ],
-  "alberca": [
-    "pool"
-  ],
-  "swimming pool": [
-    "piscina",
-    "alberca"
-  ],
-  "surfing": [
-    "surfing"
-  ],
-  "plancha de vela": [
-    "windsurfing",
-    "windsurfboard"
-  ],
-  "windsurfing": [
-    "plancha de vela"
-  ],
-  "windsurfboard": [
-    "plancha de vela"
-  ],
-  "tabla hawaiana": [
-    "surfboard"
-  ],
-  "surfboard": [
-    "tabla hawaiana"
-  ],
-  "buceo": [
-    "snorkeling"
-  ],
-  "snorkeling": [
-    "buceo"
-  ],
-  "esqui acuatico": [
-    "waterskiing"
-  ],
-  "waterskiing": [
-    "esqui acuatico",
-    "esqui nautico"
-  ],
-  "water skiing": [
-    "esqui acuatico",
-    "esqui nautico"
-  ],
-  "esqui nautico": [
-    "waterskiing"
-  ],
-  "barquito": [
-    "boat",
-    "small boat"
-  ],
-  "boat": [
-    "barquito",
-    "barco",
-    "bote"
-  ],
-  "small boat": [
-    "barquito"
-  ],
-  "barco": [
-    "boat"
-  ],
-  "bote": [
-    "boat"
-  ],
-  "voleibol": [
-    "volleyball"
-  ],
-  "volleyball": [
-    "voleibol"
-  ],
-  "practicar": [
-    "to practice"
-  ],
-  "to practice": [
-    "practicar"
-  ],
-  "alquilar": [
-    "to rent"
-  ],
-  "to rent": [
-    "alquilar",
-    "rentar"
-  ],
-  "rentar": [
-    "to rent"
-  ],
-  "pasar": [
-    "to spend time"
-  ],
-  "to spend time": [
-    "pasar"
-  ],
-  "nadar": [
-    "to swim"
-  ],
-  "to swim": [
-    "nadar"
-  ],
-  "bucear": [
-    "to go snorkeling"
-  ],
-  "to go snorkeling": [
-    "bucear"
-  ],
-  "to snorkel": [
-    "bucear"
-  ],
-  "toalla": [
-    "towel"
-  ],
-  "towel": [
-    "toalla"
-  ],
-  "traje": [
-    "suit"
-  ],
-  "suit": [
-    "traje"
-  ],
-  "traje de bano": [
-    "bathing suit"
-  ],
-  "bathing suit": [
-    "traje de bano",
-    "banador"
-  ],
-  "swimming suit": [
-    "traje de bano",
-    "banador"
-  ],
-  "swimsuit": [
-    "traje de bano",
-    "banador"
-  ],
-  "banador": [
-    "bathing suit"
-  ],
-  "anteojos de sol": [
-    "sunglasses"
-  ],
-  "sunglasses": [
-    "anteojos de sol",
-    "gafas para el sol"
-  ],
-  "gafas para el sol": [
-    "sunglasses"
-  ],
-  "gafas para sol": [
-    "sunglasses"
-  ],
-  "gafas": [
-    "glasses"
-  ],
-  "glasses": [
-    "gafas"
-  ],
-  "crema solar": [
-    "sunscreen"
-  ],
-  "sunscreen": [
-    "crema solar",
-    "locion solar",
-    "locion",
-    "bronceadora"
-  ],
-  "suntan lotion": [
-    "crema solar",
-    "locion solar",
-    "locion",
-    "bronceadora"
-  ],
-  "sunblock": [
-    "crema solar",
-    "locion solar",
-    "locion",
-    "bronceadora"
-  ],
-  "locion solar": [
-    "sunscreen"
-  ],
-  "locion": [
-    "sunscreen"
-  ],
-  "bronceadora": [
-    "sunscreen"
-  ],
-  "broncear": [
-    "to tan"
-  ],
-  "to tan": [
-    "broncear"
-  ],
-  "to get a tan": [
-    "broncear"
-  ],
-  "camara": [
-    "camera"
-  ],
-  "camera": [
-    "camara"
-  ],
-  "camara digital": [
-    "digital camera"
-  ],
-  "digital camera": [
-    "camara digital"
-  ],
-  "estacion de esqui": [
-    "ski resort"
-  ],
-  "ski resort": [
-    "estacion de esqui"
-  ],
-  "montana": [
-    "mountain"
-  ],
-  "mountain": [
-    "montana"
-  ],
-  "pico": [
-    "mountain top"
-  ],
-  "mountain top": [
-    "pico"
-  ],
-  "mountain peak": [
-    "pico"
-  ],
-  "pista": [
-    "ski slope"
-  ],
-  "ski slope": [
-    "pista"
-  ],
-  "telesqui": [
-    "ski lift",
-    "chairlift"
-  ],
-  "ski lift": [
-    "telesqui",
-    "telesilla"
-  ],
-  "chairlift": [
-    "telesqui",
-    "telesilla"
-  ],
-  "telesilla": [
-    "ski lift",
-    "chairlift"
-  ],
-  "esquiador": [
-    "skier"
-  ],
-  "skier": [
-    "esquiador"
-  ],
-  "snowboarder": [
-    "snowboarder"
-  ],
-  "ventanilla": [
-    "ticket window"
-  ],
-  "ticket window": [
-    "ventanilla",
-    "boleteria"
-  ],
-  "boleteria": [
-    "ticket window"
-  ],
-  "boleto": [
-    "ticket"
-  ],
-  "ticket": [
-    "boleto"
-  ],
-  "hielo": [
-    "ice"
-  ],
-  "ice": [
-    "hielo"
-  ],
-  "patinaje sobre el hielo": [
-    "ice skating"
-  ],
-  "ice skating": [
-    "patinaje sobre el hielo",
-    "patinaje sobre hielo"
-  ],
-  "pista de patinaje": [
-    "ice-skating rink"
-  ],
-  "ice-skating rink": [
-    "pista de patinaje"
-  ],
-  "ice skating rink": [
-    "pista de patinaje"
-  ],
-  "ice skating ring": [
-    "pista de patinaje"
-  ],
-  "ice-skating ring": [
-    "pistas de patinaje"
-  ],
-  "patinador": [
-    "ice-skater"
-  ],
-  "ice-skater": [
-    "patinador"
-  ],
-  "ice skater": [
-    "patinador"
-  ],
-  "experto": [
-    "expert"
-  ],
-  "expert": [
-    "experto"
-  ],
-  "principiante": [
-    "beginner"
-  ],
-  "beginner": [
-    "principiante"
-  ],
-  "esquiar": [
-    "to ski"
-  ],
-  "to ski": [
-    "esquiar"
-  ],
-  "subir": [
-    "to go up"
-  ],
-  "to go up": [
-    "subir"
-  ],
-  "bajar": [
-    "to go down"
-  ],
-  "to go down": [
-    "bajar"
-  ],
-  "patinar": [
-    "to skate"
-  ],
-  "to skate": [
-    "patinar"
-  ],
-  "esqui": [
-    "ski",
-    "skiing"
-  ],
-  "ski": [
-    "esqui"
-  ],
-  "skiing": [
-    "esqui"
-  ],
-  "baston": [
-    "ski pole"
-  ],
-  "ski pole": [
-    "baston"
-  ],
-  "gorro": [
-    "ski hat",
-    "hat",
-    "cap"
-  ],
-  "ski hat": [
-    "gorro"
-  ],
-  "hat": [
-    "gorro"
-  ],
-  "cap": [
-    "gorro"
-  ],
-  "botas": [
-    "boots"
-  ],
-  "boots": [
-    "botas"
-  ],
-  "guantes": [
-    "gloves"
-  ],
-  "gloves": [
-    "guantes"
-  ],
-  "casco": [
-    "helmet"
-  ],
-  "helmet": [
-    "casco"
-  ],
-  "chaqueta de esqui": [
-    "ski jacket"
-  ],
-  "ski jacket": [
-    "chaqueta de esqui",
-    "anorak"
-  ],
-  "anorak": [
-    "snow jacket"
-  ],
-  "snow jacket": [
-    "anorak"
-  ],
-  "chaqueta": [
-    "jacket"
-  ],
-  "jacket": [
-    "chaqueta"
-  ],
-  "snowboard": [
-    "snowboard"
-  ],
-  "patin": [
-    "ice skate"
-  ],
-  "ice skate": [
-    "patin"
-  ],
-  "ayer": [
-    "yesterday"
-  ],
-  "yesterday": [
-    "ayer"
-  ],
-  "esta noche": [
-    "tonight"
-  ],
-  "tonight": [
-    "esta noche"
-  ],
-  "anoche": [
-    "last night"
-  ],
-  "last night": [
-    "anoche"
-  ],
-  "esta tarde": [
-    "this afternoon"
-  ],
-  "this afternoon": [
-    "esta tarde"
-  ],
-  "ayer por la tarde": [
-    "yesterday afternoon"
-  ],
-  "yesterday afternoon": [
-    "ayer por la tarde"
-  ],
-  "este ano": [
-    "this year"
-  ],
-  "this year": [
-    "este ano"
-  ],
-  "ano pasado": [
-    "last year"
-  ],
-  "last year": [
-    "ano pasado"
-  ],
-  "esta semana": [
-    "this week"
-  ],
-  "this week": [
-    "esta semana"
-  ],
-  "semana pasada": [
-    "last week"
-  ],
-  "last week": [
-    "semana pasada"
-  ],
-  "this past week": [
-    "semana pasada"
-  ],
-  "fin de semana": [
-    "weekend"
-  ],
-  "weekend": [
-    "fin de semana"
-  ],
-  "fin": [
-    "end"
-  ],
-  "end": [
-    "fin"
-  ],
-  "tener miedo": [
-    "to be afraid"
-  ],
-  "to be afraid": [
-    "tener miedo"
-  ],
-  "miedo": [
-    "fear"
-  ],
-  "fear": [
-    "miedo"
-  ],
-  "to have fear": [
-    "tener miedo"
-  ],
-  "no vale": [
-    "it's not worth it"
-  ],
-  "it's not worth it": [
-    "no vale"
-  ],
-  "its not worth it": [
-    "no vale"
-  ],
-  "quizas!": [
-    "maybe!",
-    "perhaps!"
-  ],
-  "maybe!": [
-    "quizas!",
-    "tal vez!"
-  ],
-  "perhaps!": [
-    "quizas!",
-    "tal vez!"
-  ],
-  "tal vez!": [
-    "maybe!",
-    "perhaps!"
-  ],
-  "quizas": [
-    "maybe",
-    "perhaps"
-  ],
-  "maybe": [
-    "quizas",
-    "tal vez"
-  ],
-  "perhaps": [
-    "quizas",
-    "tal vez"
-  ],
-  "tal vez": [
-    "maybe",
-    "perhaps"
-  ]
+	"hello": [
+		"hola"
+	],
+	"hola": [
+		"hello"
+	],
+	"muchacho": [
+		"boy"
+	],
+	"boy": [
+		"muchacho",
+		"nino"
+	],
+	"muchacha": [
+		"girl",
+		"nina"
+	],
+	"girl": [
+		"muchacha"
+	],
+	"joven": [
+		"young person",
+		"youth",
+		"young"
+	],
+	"young person": [
+		"joven"
+	],
+	"youth": [
+		"joven"
+	],
+	"amigo": [
+		"friend"
+	],
+	"friend": [
+		"amigo",
+		"amiga"
+	],
+	"amiga": [
+		"friend"
+	],
+	"alumno": [
+		"student"
+	],
+	"student": [
+		"alumno"
+	],
+	"escuela": [
+		"school"
+	],
+	"school": [
+		"escuela"
+	],
+	"clase": [
+		"class"
+	],
+	"class": [
+		"clase"
+	],
+	"curso": [
+		"course"
+	],
+	"course": [
+		"curso"
+	],
+	"profesor": [
+		"teacher"
+	],
+	"teacher": [
+		"profesor"
+	],
+	"guapo": [
+		"handsome",
+		"attractive"
+	],
+	"handsome": [
+		"guapo"
+	],
+	"attractive": [
+		"guapo"
+	],
+	"bonito": [
+		"good-looking",
+		"pretty"
+	],
+	"good-looking": [
+		"bonito",
+		"bonita"
+	],
+	"bonita": [
+		"pretty",
+		"good-looking"
+	],
+	"pretty": [
+		"bonita",
+		"bonito"
+	],
+	"good looking": [
+		"bonita",
+		"bonito"
+	],
+	"feo": [
+		"unattractive",
+		"ugly"
+	],
+	"unattractive": [
+		"feo"
+	],
+	"ugly": [
+		"feo"
+	],
+	"moreno": [
+		"dark-haired",
+		"brunette"
+	],
+	"dark-haired": [
+		"moreno"
+	],
+	"dark haired": [
+		"moreno"
+	],
+	"brunette": [
+		"moreno"
+	],
+	"rubio": [
+		"blond"
+	],
+	"blond": [
+		"rubio"
+	],
+	"rubia": [
+		"blonde"
+	],
+	"blonde": [
+		"rubia"
+	],
+	"pelirrojo": [
+		"redhead",
+		"redheaded"
+	],
+	"redhead": [
+		"pelirrojo"
+	],
+	"redheaded": [
+		"pelirrojo"
+	],
+	"alto": [
+		"tall"
+	],
+	"tall": [
+		"alto"
+	],
+	"bajo": [
+		"short"
+	],
+	"short": [
+		"bajo"
+	],
+	"bueno": [
+		"good"
+	],
+	"good": [
+		"bueno"
+	],
+	"malo": [
+		"bad"
+	],
+	"bad": [
+		"malo"
+	],
+	"comico": [
+		"funny",
+		"comical"
+	],
+	"funny": [
+		"comico",
+		"gracioso"
+	],
+	"comical": [
+		"comico"
+	],
+	"gracioso": [
+		"funny"
+	],
+	"ambicioso": [
+		"hard-working"
+	],
+	"hard-working": [
+		"ambicioso"
+	],
+	"hard working": [
+		"ambicioso"
+	],
+	"perezoso": [
+		"lazy"
+	],
+	"lazy": [
+		"perezoso"
+	],
+	"simpatico": [
+		"nice"
+	],
+	"nice": [
+		"simpatico"
+	],
+	"antipatico": [
+		"not nice",
+		"unpleasant"
+	],
+	"not nice": [
+		"antipatico"
+	],
+	"unpleasant": [
+		"antipatico"
+	],
+	"inteligente": [
+		"intelligent"
+	],
+	"intelligent": [
+		"inteligente"
+	],
+	"young": [
+		"joven"
+	],
+	"quien": [
+		"who"
+	],
+	"who": [
+		"quien"
+	],
+	"quienes": [
+		"whom"
+	],
+	"whom": [
+		"quienes"
+	],
+	"como": [
+		"how"
+	],
+	"how": [
+		"como"
+	],
+	"de donde": [
+		"from where"
+	],
+	"from where": [
+		"de donde"
+	],
+	"de que nacionalidad": [
+		"what nationality"
+	],
+	"what nationality": [
+		"de que nacionalidad"
+	],
+	"of what natiponality": [
+		"de que nacionalidad"
+	],
+	"argentino": [
+		"argentinian"
+	],
+	"argentinian": [
+		"argentino"
+	],
+	"chileno": [
+		"chilean"
+	],
+	"chilean": [
+		"chileno"
+	],
+	"colombiano": [
+		"colombian"
+	],
+	"colombian": [
+		"colombiano"
+	],
+	"ecuatoriano": [
+		"ecuadorian"
+	],
+	"ecuadorian": [
+		"ecuatoriano"
+	],
+	"dominicano": [
+		"dominican"
+	],
+	"dominican": [
+		"dominicano"
+	],
+	"cubano": [
+		"cuban"
+	],
+	"cuban": [
+		"cubano"
+	],
+	"guatemalteco": [
+		"guatemalan"
+	],
+	"guatemalan": [
+		"guatemalteco"
+	],
+	"mexicano": [
+		"mexican"
+	],
+	"mexican": [
+		"mexicano"
+	],
+	"estadounidense": [
+		"american"
+	],
+	"american": [
+		"estadounidense"
+	],
+	"peruano": [
+		"peruvian"
+	],
+	"peruvian": [
+		"peruano"
+	],
+	"puertorriqueno": [
+		"puerto rican"
+	],
+	"puerto rican": [
+		"puertorriqueno"
+	],
+	"venezolano": [
+		"venezuelan"
+	],
+	"venezuelan": [
+		"venezolano"
+	],
+	"grande": [
+		"big",
+		"large"
+	],
+	"big": [
+		"grande"
+	],
+	"pequeno": [
+		"small",
+		"little"
+	],
+	"small": [
+		"pequeno"
+	],
+	"little": [
+		"pequeno"
+	],
+	"interesante": [
+		"interesting"
+	],
+	"interesting": [
+		"interesante"
+	],
+	"aburrido": [
+		"boring"
+	],
+	"boring": [
+		"aburrido"
+	],
+	"dificil": [
+		"difficult",
+		"hard"
+	],
+	"difficult": [
+		"dificil",
+		"duro"
+	],
+	"hard": [
+		"dificil",
+		"duro"
+	],
+	"duro": [
+		"hard",
+		"difficult"
+	],
+	"facil": [
+		"easy"
+	],
+	"easy": [
+		"facil"
+	],
+	"espanol": [
+		"spanish"
+	],
+	"spanish": [
+		"espanol"
+	],
+	"frances": [
+		"french"
+	],
+	"french": [
+		"frances"
+	],
+	"ingles": [
+		"english"
+	],
+	"english": [
+		"ingles"
+	],
+	"ciencia": [
+		"science"
+	],
+	"science": [
+		"ciencia"
+	],
+	"estudios sociales": [
+		"social studies"
+	],
+	"social studies": [
+		"estudios sociales"
+	],
+	"historia": [
+		"history"
+	],
+	"history": [
+		"historia"
+	],
+	"matematicas": [
+		"mathematics"
+	],
+	"mathematics": [
+		"matematicas"
+	],
+	"math": [
+		"matematicas"
+	],
+	"arte": [
+		"art"
+	],
+	"art": [
+		"arte"
+	],
+	"educacion fisica": [
+		"physical educastion"
+	],
+	"physical educastion": [
+		"educacion fisica"
+	],
+	"secundario": [
+		"secondary"
+	],
+	"secondary": [
+		"secundario"
+	],
+	"escuela secundario": [
+		"high school",
+		"secondary school"
+	],
+	"high school": [
+		"escuela secundario"
+	],
+	"secondary school": [
+		"escuela secundario"
+	],
+	"nuevo": [
+		"new"
+	],
+	"new": [
+		"nuevo"
+	],
+	"mismo": [
+		"same"
+	],
+	"same": [
+		"mismo"
+	],
+	"tambien": [
+		"also",
+		"too"
+	],
+	"also": [
+		"tambien"
+	],
+	"too": [
+		"tambien"
+	],
+	"bastante": [
+		"rather",
+		"quite"
+	],
+	"rather": [
+		"bastante"
+	],
+	"quite": [
+		"bastante"
+	],
+	"muy": [
+		"very"
+	],
+	"very": [
+		"muy"
+	],
+	"pero": [
+		"but"
+	],
+	"but": [
+		"pero"
+	],
+	"oye": [
+		"listen"
+	],
+	"listen": [
+		"oye"
+	],
+	"oye!": [
+		"listen!"
+	],
+	"listen!": [
+		"oye!"
+	],
+	"negro": [
+		"black"
+	],
+	"black": [
+		"negro"
+	],
+	"marron": [
+		"brown"
+	],
+	"brown": [
+		"marron",
+		"castano"
+	],
+	"gris": [
+		"grey"
+	],
+	"grey": [
+		"gris"
+	],
+	"gray": [
+		"gris"
+	],
+	"amarillo": [
+		"yellow"
+	],
+	"yellow": [
+		"amarillo"
+	],
+	"anaranjado": [
+		"orange"
+	],
+	"orange": [
+		"anaranjado",
+		"naranjo"
+	],
+	"naranjo": [
+		"orange"
+	],
+	"rojo": [
+		"red"
+	],
+	"red": [
+		"rojo"
+	],
+	"rosado": [
+		"pink"
+	],
+	"pink": [
+		"rosado"
+	],
+	"morado": [
+		"purple"
+	],
+	"purple": [
+		"morado",
+		"purpura"
+	],
+	"purpura": [
+		"purple"
+	],
+	"azul": [
+		"blue"
+	],
+	"blue": [
+		"azul"
+	],
+	"green": [
+		"verde"
+	],
+	"verde": [
+		"green"
+	],
+	"blanco": [
+		"white"
+	],
+	"white": [
+		"blanco"
+	],
+	"ser": [
+		"to be"
+	],
+	"to be": [
+		"ser",
+		"estar"
+	],
+	"familia": [
+		"family"
+	],
+	"family": [
+		"familia"
+	],
+	"miembro": [
+		"member"
+	],
+	"member": [
+		"miembro"
+	],
+	"parientes": [
+		"relatives"
+	],
+	"relatives": [
+		"parientes"
+	],
+	"padre": [
+		"father"
+	],
+	"father": [
+		"padre"
+	],
+	"madre": [
+		"mother"
+	],
+	"mother": [
+		"madre"
+	],
+	"padres": [
+		"parents"
+	],
+	"parents": [
+		"padres"
+	],
+	"esposo": [
+		"husband"
+	],
+	"husband": [
+		"esposo",
+		"marido"
+	],
+	"esposa": [
+		"wife"
+	],
+	"wife": [
+		"esposa",
+		"mujer"
+	],
+	"marido": [
+		"husband"
+	],
+	"mujer": [
+		"wife"
+	],
+	"padrastro": [
+		"stepfather"
+	],
+	"stepfather": [
+		"padrastro"
+	],
+	"madrastra": [
+		"stepmother"
+	],
+	"stepmother": [
+		"madrastra"
+	],
+	"hermano": [
+		"brother"
+	],
+	"brother": [
+		"hermano"
+	],
+	"hermana": [
+		"sister"
+	],
+	"sister": [
+		"hermana"
+	],
+	"hermanastro": [
+		"stepbrother"
+	],
+	"stepbrother": [
+		"hermanastro"
+	],
+	"hermanastra": [
+		"stepsister"
+	],
+	"stepsister": [
+		"hermanastra"
+	],
+	"tio": [
+		"uncle"
+	],
+	"uncle": [
+		"tio"
+	],
+	"tia": [
+		"aunt"
+	],
+	"aunt": [
+		"tia"
+	],
+	"primo": [
+		"cousin"
+	],
+	"cousin": [
+		"primo"
+	],
+	"abuelo": [
+		"grandfather"
+	],
+	"grandfather": [
+		"abuelo"
+	],
+	"abuela": [
+		"grandmother"
+	],
+	"grandmother": [
+		"abuela"
+	],
+	"nieto": [
+		"grandson"
+	],
+	"grandson": [
+		"nieto"
+	],
+	"nieta": [
+		"granddaughter"
+	],
+	"granddaughter": [
+		"nieta"
+	],
+	"hijo": [
+		"son"
+	],
+	"son": [
+		"hijo"
+	],
+	"hija": [
+		"daughter"
+	],
+	"daughter": [
+		"hija"
+	],
+	"unico": [
+		"unique",
+		"only"
+	],
+	"unique": [
+		"unico"
+	],
+	"only": [
+		"unico"
+	],
+	"hijo unico": [
+		"only son"
+	],
+	"only son": [
+		"hijo unico"
+	],
+	"hija unica": [
+		"only daughter"
+	],
+	"only daughter": [
+		"hija unica"
+	],
+	"sobrino": [
+		"nephew"
+	],
+	"nephew": [
+		"sobrino"
+	],
+	"sobrina": [
+		"niece"
+	],
+	"niece": [
+		"sobrina"
+	],
+	"gemelo": [
+		"twin"
+	],
+	"twin": [
+		"gemelo"
+	],
+	"nombre": [
+		"name"
+	],
+	"name": [
+		"nombre"
+	],
+	"mascota": [
+		"pet"
+	],
+	"pet": [
+		"mascota"
+	],
+	"perro": [
+		"dog"
+	],
+	"dog": [
+		"perro",
+		"perrito"
+	],
+	"perrito": [
+		"dog"
+	],
+	"gato": [
+		"cat"
+	],
+	"cat": [
+		"gato",
+		"gatito"
+	],
+	"gatito": [
+		"cat"
+	],
+	"menor": [
+		"younger"
+	],
+	"younger": [
+		"menor"
+	],
+	"mayor": [
+		"older"
+	],
+	"older": [
+		"mayor"
+	],
+	"older brother": [
+		"hermano mayor"
+	],
+	"hermano mayor": [
+		"older brother"
+	],
+	"older sister": [
+		"hermana mayor"
+	],
+	"hermana mayor": [
+		"older sister"
+	],
+	"younger brother": [
+		"hermano menor"
+	],
+	"hermano menor": [
+		"younger brother"
+	],
+	"younger sister": [
+		"hermana menor"
+	],
+	"hermana menor": [
+		"younger sister"
+	],
+	"carinoso": [
+		"adorable",
+		"affectionate"
+	],
+	"adorable": [
+		"carinoso"
+	],
+	"affectionate": [
+		"carinoso"
+	],
+	"pelo castano": [
+		"brown hair"
+	],
+	"brown hair": [
+		"pelo castano"
+	],
+	"castano": [
+		"hazel-nut brown"
+	],
+	"hazel-nut brown": [
+		"castano"
+	],
+	"hazel nut brown": [
+		"castano"
+	],
+	"pelo rubio": [
+		"blond hair"
+	],
+	"blond hair": [
+		"pelo rubio"
+	],
+	"blonde hair": [
+		"pelo rubio"
+	],
+	"pelo negro": [
+		"black hair"
+	],
+	"black hair": [
+		"pelo negro"
+	],
+	"pelo": [
+		"hair"
+	],
+	"hair": [
+		"pelo"
+	],
+	"ojos": [
+		"eyes"
+	],
+	"eyes": [
+		"ojos"
+	],
+	"ojos castanos": [
+		"brown eyes"
+	],
+	"brown eyes": [
+		"ojos castanos"
+	],
+	"ojos azules": [
+		"blue eyes"
+	],
+	"blue eyes": [
+		"ojos azules"
+	],
+	"ojos verdes": [
+		"green eyes"
+	],
+	"green eyes": [
+		"ojos verdes"
+	],
+	"casa": [
+		"house"
+	],
+	"house": [
+		"casa"
+	],
+	"cuartos": [
+		"rooms"
+	],
+	"rooms": [
+		"cuartos"
+	],
+	"sala": [
+		"living room"
+	],
+	"living room": [
+		"sala"
+	],
+	"comedor": [
+		"dining room"
+	],
+	"dining room": [
+		"comedor"
+	],
+	"cocina": [
+		"kitchen"
+	],
+	"kitchen": [
+		"cocina"
+	],
+	"cuarto de dormir": [
+		"bedroom"
+	],
+	"bedroom": [
+		"cuarto de dormir",
+		"recamara"
+	],
+	"recamara": [
+		"bedroom"
+	],
+	"cuarto de bano": [
+		"bathroom"
+	],
+	"bathroom": [
+		"cuarto de bano",
+		"bano"
+	],
+	"bano": [
+		"bathroom"
+	],
+	"jardin": [
+		"garden"
+	],
+	"garden": [
+		"jardin"
+	],
+	"flor": [
+		"flower"
+	],
+	"flower": [
+		"flor"
+	],
+	"arbol": [
+		"tree"
+	],
+	"tree": [
+		"arbol"
+	],
+	"adificio": [
+		"building"
+	],
+	"building": [
+		"adificio"
+	],
+	"cassa de apartamentos": [
+		"apartment building"
+	],
+	"apartment building": [
+		"cassa de apartamentos"
+	],
+	"apartamento": [
+		"apartment"
+	],
+	"apartment": [
+		"apartamento",
+		"piso"
+	],
+	"piso": [
+		"floor",
+		"apartment"
+	],
+	"floor": [
+		"piso"
+	],
+	"muebles": [
+		"furniture"
+	],
+	"furniture": [
+		"muebles"
+	],
+	"sofa": [
+		"sofa"
+	],
+	"silla": [
+		"cair"
+	],
+	"cair": [
+		"silla"
+	],
+	"mesa": [
+		"table"
+	],
+	"table": [
+		"mesa",
+		"mesita"
+	],
+	"mesita": [
+		"table"
+	],
+	"lampara": [
+		"lamp"
+	],
+	"lamp": [
+		"lampara"
+	],
+	"cama": [
+		"bed"
+	],
+	"bed": [
+		"cama"
+	],
+	"garaje": [
+		"garage"
+	],
+	"garage": [
+		"garaje"
+	],
+	"carro": [
+		"car"
+	],
+	"car": [
+		"carro"
+	],
+	"privado": [
+		"private"
+	],
+	"private": [
+		"privado"
+	],
+	"viejo": [
+		"old"
+	],
+	"old": [
+		"viejo"
+	],
+	"ciudad": [
+		"city"
+	],
+	"city": [
+		"ciudad"
+	],
+	"afueras": [
+		"outskirts"
+	],
+	"outskirts": [
+		"afueras"
+	],
+	"suburbios": [
+		"suburbs"
+	],
+	"suburbs": [
+		"suburbios"
+	],
+	"bicicleta": [
+		"bicycle"
+	],
+	"bicycle": [
+		"bicicleta"
+	],
+	"hay": [
+		"there is",
+		"there are"
+	],
+	"there is": [
+		"hay"
+	],
+	"there are": [
+		"hay"
+	],
+	"cada": [
+		"each",
+		"every"
+	],
+	"each": [
+		"cada"
+	],
+	"every": [
+		"cada"
+	],
+	"otro": [
+		"other",
+		"another"
+	],
+	"other": [
+		"otro"
+	],
+	"another": [
+		"otro"
+	],
+	"al lado de": [
+		"beside",
+		"next to"
+	],
+	"beside": [
+		"al lado de"
+	],
+	"next to": [
+		"al lado de"
+	],
+	"delante de": [
+		"in front of"
+	],
+	"in front of": [
+		"delante de"
+	],
+	"detras de": [
+		"in back of",
+		"behind"
+	],
+	"in back of": [
+		"detras de"
+	],
+	"behind": [
+		"detras de"
+	],
+	"alrededor de": [
+		"around"
+	],
+	"around": [
+		"alrededor de"
+	],
+	"tener": [
+		"to have"
+	],
+	"to have": [
+		"tener"
+	],
+	"me": [
+		"mine"
+	],
+	"mine": [
+		"me"
+	],
+	"te": [
+		"yours"
+	],
+	"yours": [
+		"te"
+	],
+	"su": [
+		"his",
+		"hers"
+	],
+	"his": [
+		"su",
+		"sus"
+	],
+	"hers": [
+		"su",
+		"sus"
+	],
+	"sus": [
+		"his",
+		"hers"
+	],
+	"sala de clase": [
+		"classroom"
+	],
+	"classroom": [
+		"sala de clase"
+	],
+	"pupitre": [
+		"desk"
+	],
+	"desk": [
+		"pupitre"
+	],
+	"pregunta": [
+		"question"
+	],
+	"question": [
+		"pregunta"
+	],
+	"ensenar": [
+		"to teach"
+	],
+	"to teach": [
+		"ensenar"
+	],
+	"hablar": [
+		"to talk"
+	],
+	"to talk": [
+		"hablar"
+	],
+	"estudiar": [
+		"to study"
+	],
+	"to study": [
+		"estudiar"
+	],
+	"escuchar": [
+		"to listen"
+	],
+	"to listen": [
+		"escuchar"
+	],
+	"mirar": [
+		"to look at",
+		"to look"
+	],
+	"to look at": [
+		"mirar"
+	],
+	"to look": [
+		"mirar"
+	],
+	"prestar atencion": [
+		"to pay attention"
+	],
+	"to pay attention": [
+		"prestar atencion"
+	],
+	"levantar la mano": [
+		"to raise one's hand"
+	],
+	"to raise one's hand": [
+		"levantar la mano"
+	],
+	"to raise ones hand": [
+		"levantar la mano"
+	],
+	"to raise your hand": [
+		"levantar la mano"
+	],
+	"raise your hand": [
+		"levantar la mano"
+	],
+	"raise my hand": [
+		"levantar la mano"
+	],
+	"contestar": [
+		"to answer"
+	],
+	"to answer": [
+		"contestar"
+	],
+	"dar un examen": [
+		"to give a test"
+	],
+	"to give a test": [
+		"dar un examen",
+		"dar una prueba"
+	],
+	"dar una prueba": [
+		"to give a test"
+	],
+	"examen": [
+		"test",
+		"exam"
+	],
+	"test": [
+		"examen",
+		"prueba"
+	],
+	"prueba": [
+		"test",
+		"exam"
+	],
+	"exam": [
+		"examen",
+		"prueba"
+	],
+	"tomar un examen": [
+		"to take a test"
+	],
+	"to take a test": [
+		"tomar un examen"
+	],
+	"sacar una nota": [
+		"to get a grade"
+	],
+	"to get a grade": [
+		"sacar una nota"
+	],
+	"sacar una nota buena": [
+		"to get a good grade"
+	],
+	"to get a good grade": [
+		"sacar una nota buena"
+	],
+	"sacar una nota mala": [
+		"to get a bad grade"
+	],
+	"to get a bad grade": [
+		"sacar una nota mala"
+	],
+	"nota buena": [
+		"good grade"
+	],
+	"good grade": [
+		"nota buena"
+	],
+	"nota mala": [
+		"bad grade"
+	],
+	"bad grade": [
+		"nota mala"
+	],
+	"ir": [
+		"to go"
+	],
+	"to go": [
+		"ir"
+	],
+	"dar": [
+		"to give"
+	],
+	"to give": [
+		"dar"
+	],
+	"estar": [
+		"to be"
+	],
+	"una mochila": [
+		"backpack"
+	],
+	"backpack": [
+		"una mochila"
+	],
+	"mochila": [
+		"knapsack"
+	],
+	"knapsack": [
+		"mochila"
+	],
+	"materiales": [
+		"materials"
+	],
+	"materials": [
+		"materiales"
+	],
+	"materiales escolares": [
+		"school supplies"
+	],
+	"school supplies": [
+		"materiales escolares"
+	],
+	"libro": [
+		"book"
+	],
+	"book": [
+		"libro"
+	],
+	"boligrafo": [
+		"pen"
+	],
+	"pen": [
+		"boligrafo"
+	],
+	"hoja de papel": [
+		"sheet of paper"
+	],
+	"sheet of paper": [
+		"hoja de papel"
+	],
+	"cuaderno": [
+		"notebook"
+	],
+	"notebook": [
+		"cuaderno"
+	],
+	"lapiz": [
+		"pencil"
+	],
+	"pencil": [
+		"lapiz"
+	],
+	"lapices": [
+		"pencils"
+	],
+	"pencils": [
+		"lapices"
+	],
+	"calculadora": [
+		"calculator"
+	],
+	"calculator": [
+		"calculadora"
+	],
+	"carpeta": [
+		"folder"
+	],
+	"folder": [
+		"carpeta"
+	],
+	"uniforme": [
+		"uniform"
+	],
+	"uniform": [
+		"uniforme"
+	],
+	"pantalon": [
+		"pants"
+	],
+	"pants": [
+		"pantalon"
+	],
+	"camisa": [
+		"shirt"
+	],
+	"shirt": [
+		"camisa",
+		"falda"
+	],
+	"falda": [
+		"shirt"
+	],
+	"blusa": [
+		"blouse"
+	],
+	"blouse": [
+		"blusa"
+	],
+	"llevar": [
+		"to wear"
+	],
+	"to wear": [
+		"llevar"
+	],
+	"movil": [
+		"cell phone"
+	],
+	"cell phone": [
+		"movil"
+	],
+	"mp3": [
+		"mp3"
+	],
+	"musica": [
+		"music"
+	],
+	"music": [
+		"musica"
+	],
+	"dvd": [
+		"dvd"
+	],
+	"computadora": [
+		"computer"
+	],
+	"computer": [
+		"computadora",
+		"ordenador"
+	],
+	"ordenador": [
+		"computer"
+	],
+	"regresar": [
+		"to go back",
+		"to return"
+	],
+	"to go back": [
+		"regresar"
+	],
+	"ir a pie": [
+		"to go on foot"
+	],
+	"to go on foot": [
+		"ir a pie"
+	],
+	"ir en el bus escolar": [
+		"to go by school bus"
+	],
+	"to go by school bus": [
+		"ir en el bus escolar"
+	],
+	"bus": [
+		"bus"
+	],
+	"bus escolar": [
+		"school bus"
+	],
+	"school bus": [
+		"bus escolar"
+	],
+	"navegar": [
+		"to navigate"
+	],
+	"to navigate": [
+		"navegar"
+	],
+	"navegar la red": [
+		"to surf the net"
+	],
+	"to surf the net": [
+		"navegar la red"
+	],
+	"to surf the internet": [
+		"navegar la red"
+	],
+	"to surf the web": [
+		"navegar la red"
+	],
+	"enviar un correo": [
+		"to send an e-mail"
+	],
+	"to send an e-mail": [
+		"enviar un correo",
+		"envair un electronico"
+	],
+	"to send an email": [
+		"enviar un correo",
+		"enviar un electronico"
+	],
+	"enviar": [
+		"to send"
+	],
+	"to send": [
+		"enviar"
+	],
+	"envair un electronico": [
+		"to send an e-mail"
+	],
+	"enviar un electronico": [
+		"to send an email"
+	],
+	"tienda": [
+		"store"
+	],
+	"store": [
+		"tienda"
+	],
+	"empleado": [
+		"employee",
+		"salesperson"
+	],
+	"employee": [
+		"empleado"
+	],
+	"salesperson": [
+		"empleado"
+	],
+	"dinero": [
+		"money"
+	],
+	"money": [
+		"dinero"
+	],
+	"caja": [
+		"cash register"
+	],
+	"cash register": [
+		"caja"
+	],
+	"trabajar": [
+		"to work"
+	],
+	"to work": [
+		"trabajar"
+	],
+	"necesitar": [
+		"to need"
+	],
+	"to need": [
+		"necesitar"
+	],
+	"necesito": [
+		"neccesary"
+	],
+	"neccesary": [
+		"necesito"
+	],
+	"buscar": [
+		"to look for"
+	],
+	"to look for": [
+		"buscar"
+	],
+	"comprar": [
+		"to buy"
+	],
+	"to buy": [
+		"comprar"
+	],
+	"pagar": [
+		"to pay"
+	],
+	"to pay": [
+		"pagar"
+	],
+	"antes de": [
+		"before"
+	],
+	"before": [
+		"antes de"
+	],
+	"durante": [
+		"during"
+	],
+	"during": [
+		"durante"
+	],
+	"despues de": [
+		"after"
+	],
+	"after": [
+		"despues de"
+	],
+	"cerca de": [
+		"near"
+	],
+	"near": [
+		"cerca de"
+	],
+	"lejos de": [
+		"far"
+	],
+	"far": [
+		"lejos de"
+	],
+	"far from": [
+		"lejos de"
+	],
+	"adonde": [
+		"to where",
+		"where"
+	],
+	"to where": [
+		"adonde"
+	],
+	"where": [
+		"adonde"
+	],
+	"cuando": [
+		"when"
+	],
+	"when": [
+		"cuando"
+	],
+	"por que": [
+		"why"
+	],
+	"why": [
+		"por que"
+	],
+	"porque": [
+		"because"
+	],
+	"because": [
+		"porque"
+	],
+	"mira!": [
+		"look!"
+	],
+	"look!": [
+		"mira!"
+	],
+	"mira": [
+		"look!"
+	],
+	"cuanto cuesta?": [
+		"how much does it cost?"
+	],
+	"how much does it cost?": [
+		"cuanto cuesta?"
+	],
+	"how much does it cost": [
+		"cuanto cuesta?"
+	],
+	"cuanto cuesta": [
+		"how much does it cost?"
+	],
+	"que pasa?": [
+		"what's going on?",
+		"what's happening?"
+	],
+	"what's going on?": [
+		"que pasa?"
+	],
+	"what's happening?": [
+		"que pasa?"
+	],
+	"que pasa": [
+		"what's going on?",
+		"what's happening?"
+	],
+	"whats happening": [
+		"que pasa?"
+	],
+	"whats going on": [
+		"que pasa?"
+	],
+	"usar": [
+		"to use"
+	],
+	"to use": [
+		"usar"
+	],
+	"comida": [
+		"meal"
+	],
+	"meal": [
+		"comida"
+	],
+	"desayuna": [
+		"breakfast"
+	],
+	"breakfast": [
+		"desayuna"
+	],
+	"almuerzo": [
+		"lunch"
+	],
+	"lunch": [
+		"almuerzo"
+	],
+	"cena": [
+		"dinner"
+	],
+	"dinner": [
+		"cena"
+	],
+	"vegetariano": [
+		"vegetarian"
+	],
+	"vegetarian": [
+		"vegetariano"
+	],
+	"tener hambre": [
+		"to be hungry",
+		"to have hunger"
+	],
+	"to be hungry": [
+		"tener hambre"
+	],
+	"to have hunger": [
+		"tener hambre"
+	],
+	"tener sed": [
+		"to be thirsty"
+	],
+	"to be thirsty": [
+		"tener sed"
+	],
+	"to have thirst": [
+		"tener sad"
+	],
+	"tener sad": [
+		"to have thirst"
+	],
+	"tomar": [
+		"to take"
+	],
+	"to take": [
+		"tomar"
+	],
+	"comer": [
+		"to eat"
+	],
+	"to eat": [
+		"comer"
+	],
+	"beber": [
+		"to drink"
+	],
+	"to drink": [
+		"beber"
+	],
+	"cenar": [
+		"to have dinner"
+	],
+	"to have dinner": [
+		"cenar"
+	],
+	"tostadas": [
+		"toast"
+	],
+	"toast": [
+		"tostadas",
+		"pan tostado"
+	],
+	"pan tostado": [
+		"toast"
+	],
+	"panecillo": [
+		"roll"
+	],
+	"roll": [
+		"panecillo"
+	],
+	"mantequilla": [
+		"butter"
+	],
+	"butter": [
+		"mantequilla"
+	],
+	"cereal": [
+		"cereal"
+	],
+	"huevo": [
+		"egg"
+	],
+	"egg": [
+		"huevo"
+	],
+	"hueves": [
+		"eggs"
+	],
+	"eggs": [
+		"hueves"
+	],
+	"tocino": [
+		"bacon"
+	],
+	"bacon": [
+		"tocino",
+		"bacã³n"
+	],
+	"bacã³n": [
+		"bacon"
+	],
+	"sancwich": [
+		"sandwich"
+	],
+	"sandwich": [
+		"sancwich",
+		"bocadillo"
+	],
+	"bocadillo": [
+		"sandwich"
+	],
+	"jamon": [
+		"jam"
+	],
+	"jam": [
+		"jamon"
+	],
+	"queso": [
+		"cheese"
+	],
+	"cheese": [
+		"queso"
+	],
+	"ensalada": [
+		"salad"
+	],
+	"salad": [
+		"ensalada"
+	],
+	"pizza": [
+		"pizza"
+	],
+	"hamburguesa": [
+		"hamburger"
+	],
+	"hamburger": [
+		"hamburguesa"
+	],
+	"carne": [
+		"meat"
+	],
+	"meat": [
+		"carne"
+	],
+	"pollo": [
+		"chicken"
+	],
+	"chicken": [
+		"pollo"
+	],
+	"pescado": [
+		"fish"
+	],
+	"fish": [
+		"pescado"
+	],
+	"arroz": [
+		"rice"
+	],
+	"rice": [
+		"arroz"
+	],
+	"frijoles": [
+		"beans"
+	],
+	"beans": [
+		"frijoles"
+	],
+	"legumbres": [
+		"vegetables"
+	],
+	"vegetables": [
+		"legumbres",
+		"vegetales",
+		"verduras"
+	],
+	"vegetales": [
+		"vegetables"
+	],
+	"verduras": [
+		"vegetables"
+	],
+	"lechuga": [
+		"lettuce"
+	],
+	"lettuce": [
+		"lechuga"
+	],
+	"tomate": [
+		"tomato"
+	],
+	"tomato": [
+		"tomate"
+	],
+	"papas": [
+		"potatoes"
+	],
+	"potatoes": [
+		"papas",
+		"patatas"
+	],
+	"papas fritas": [
+		"french fries",
+		"fried potatoes"
+	],
+	"french fries": [
+		"papas fritas",
+		"patatas fritas"
+	],
+	"fried potatoes": [
+		"papas fritas"
+	],
+	"patatas": [
+		"potatoes"
+	],
+	"patatas fritas": [
+		"french fries",
+		"friend potatoes"
+	],
+	"friend potatoes": [
+		"patatas fritas"
+	],
+	"frito": [
+		"fried"
+	],
+	"fried": [
+		"frito"
+	],
+	"postre": [
+		"dessert"
+	],
+	"dessert": [
+		"postre"
+	],
+	"helado": [
+		"ice cream"
+	],
+	"ice cream": [
+		"helado"
+	],
+	"flan": [
+		"flan",
+		"custard"
+	],
+	"custard": [
+		"flan"
+	],
+	"torta": [
+		"cake"
+	],
+	"cake": [
+		"torta"
+	],
+	"refresco": [
+		"soft drink",
+		"soda",
+		"carbonated drink"
+	],
+	"soft drink": [
+		"refresco",
+		"gaseosa"
+	],
+	"soda": [
+		"refresco",
+		"gaseosa",
+		"cola"
+	],
+	"carbonated drink": [
+		"refresco",
+		"gaseosa"
+	],
+	"bebida": [
+		"beverage",
+		"drink"
+	],
+	"beverage": [
+		"bebida"
+	],
+	"drink": [
+		"bebida"
+	],
+	"jugo de naranja": [
+		"orange juice"
+	],
+	"orange juice": [
+		"jugo de naranja"
+	],
+	"leche": [
+		"milk"
+	],
+	"milk": [
+		"leche"
+	],
+	"gaseosa": [
+		"soft drink",
+		"carbonated drink",
+		"soda"
+	],
+	"agua": [
+		"water"
+	],
+	"water": [
+		"agua"
+	],
+	"agua mineral": [
+		"mineral water",
+		"sparkling water"
+	],
+	"mineral water": [
+		"agua mineral",
+		"agua con gas"
+	],
+	"sparkling water": [
+		"agua mineral",
+		"agua con gas"
+	],
+	"agua con gas": [
+		"sparkling water",
+		"mineral water"
+	],
+	"chocolate": [
+		"chocolate"
+	],
+	"cafe": [
+		"coffe"
+	],
+	"coffe": [
+		"cafe"
+	],
+	"batido": [
+		"shake",
+		"smoothie"
+	],
+	"shake": [
+		"batido"
+	],
+	"smoothie": [
+		"batido"
+	],
+	"cola": [
+		"cola",
+		"soda"
+	],
+	"vaso": [
+		"glass"
+	],
+	"glass": [
+		"vaso"
+	],
+	"taza": [
+		"cup"
+	],
+	"cup": [
+		"taza"
+	],
+	"caliente": [
+		"hot"
+	],
+	"hot": [
+		"caliente"
+	],
+	"frio": [
+		"cold"
+	],
+	"cold": [
+		"frio",
+		"catarro"
+	],
+	"merienda": [
+		"snack"
+	],
+	"snack": [
+		"merienda"
+	],
+	"tapas": [
+		"snacks"
+	],
+	"snacks": [
+		"tapas",
+		"antojitos"
+	],
+	"antojitos": [
+		"snacks"
+	],
+	"empanada": [
+		"meat pie"
+	],
+	"meat pie": [
+		"empanada"
+	],
+	"tostones": [
+		"slices of fried plantain"
+	],
+	"slices of fried plantain": [
+		"tostones"
+	],
+	"pinchitos": [
+		"kebabs"
+	],
+	"kebabs": [
+		"pinchitos"
+	],
+	"camarones": [
+		"shrimp"
+	],
+	"shrimp": [
+		"camarones"
+	],
+	"aceitunas": [
+		"olives"
+	],
+	"olives": [
+		"aceitunas"
+	],
+	"albondigas": [
+		"meatballs"
+	],
+	"meatballs": [
+		"albondigas"
+	],
+	"mesa ocupada": [
+		"occupied table",
+		"unavailable table"
+	],
+	"occupied table": [
+		"mesa ocupada"
+	],
+	"unavailable table": [
+		"mesa ocupada"
+	],
+	"mesa libre": [
+		"free table",
+		"unoccupied table"
+	],
+	"free table": [
+		"mesa libre"
+	],
+	"unoccupied table": [
+		"mesa libre"
+	],
+	"mesero": [
+		"server"
+	],
+	"server": [
+		"mesero"
+	],
+	"cliente": [
+		"customer"
+	],
+	"customer": [
+		"cliente"
+	],
+	"menu": [
+		"menu"
+	],
+	"orden": [
+		"order"
+	],
+	"order": [
+		"orden"
+	],
+	"cuenta": [
+		"check"
+	],
+	"check": [
+		"cuenta"
+	],
+	"ver": [
+		"to see"
+	],
+	"to see": [
+		"ver"
+	],
+	"leer": [
+		"to read"
+	],
+	"to read": [
+		"leer"
+	],
+	"abrir": [
+		"to open"
+	],
+	"to open": [
+		"abrir"
+	],
+	"recibir": [
+		"to recieve"
+	],
+	"to recieve": [
+		"recibir"
+	],
+	"escribir": [
+		"to write"
+	],
+	"to write": [
+		"escribir"
+	],
+	"que desean tomar?": [
+		"what would you like to eat?"
+	],
+	"what would you like to eat?": [
+		"que desean tomar?"
+	],
+	"que desean tomar": [
+		"what would you like to eat?"
+	],
+	"what would you like to eat": [
+		"que desean tomar?"
+	],
+	"esta incluido el servicio?": [
+		"is the tip included?"
+	],
+	"is the tip included?": [
+		"esta incluido el servicio?"
+	],
+	"esta incluido el servicio": [
+		"is the tip included?"
+	],
+	"is the tip included": [
+		"esta incluido el servicio?"
+	],
+	"sorpresa": [
+		"surprise"
+	],
+	"surprise": [
+		"sorpresa"
+	],
+	"enseguida": [
+		"right away"
+	],
+	"right away": [
+		"enseguida"
+	],
+	"llegar": [
+		"to arrive"
+	],
+	"to arrive": [
+		"llegar"
+	],
+	"tener que": [
+		"to have to"
+	],
+	"to have to": [
+		"tener que",
+		"deber"
+	],
+	"ir a": [
+		"to be going to"
+	],
+	"to be going to": [
+		"ir a"
+	],
+	"acabar de": [
+		"just",
+		"to have just done something"
+	],
+	"just": [
+		"acabar de"
+	],
+	"to have just done something": [
+		"acabar de"
+	],
+	"aprender": [
+		"to learn"
+	],
+	"to learn": [
+		"aprender"
+	],
+	"comprender": [
+		"to understand"
+	],
+	"to understand": [
+		"comprender"
+	],
+	"creer que si": [
+		"to think so"
+	],
+	"to think so": [
+		"creer que si"
+	],
+	"creer que no": [
+		"to not think so"
+	],
+	"to not think so": [
+		"creer que no"
+	],
+	"creer": [
+		"to believe",
+		"to think"
+	],
+	"to believe": [
+		"creer"
+	],
+	"pensar": [
+		"to think"
+	],
+	"to think": [
+		"pensar",
+		"creer"
+	],
+	"deber": [
+		"to have to",
+		"must"
+	],
+	"must": [
+		"deber"
+	],
+	"vivir": [
+		"to live"
+	],
+	"to live": [
+		"vivir"
+	],
+	"deportes": [
+		"sports"
+	],
+	"sports": [
+		"deportes"
+	],
+	"futbol": [
+		"soccer"
+	],
+	"soccer": [
+		"futbol"
+	],
+	"beisbol": [
+		"baseball"
+	],
+	"baseball": [
+		"beisbol"
+	],
+	"basquetbol": [
+		"basketball"
+	],
+	"basketball": [
+		"basquetbol",
+		"baloncesto"
+	],
+	"baloncesto": [
+		"basketball"
+	],
+	"tenis": [
+		"tennis"
+	],
+	"tennis": [
+		"tenis"
+	],
+	"partido": [
+		"game"
+	],
+	"game": [
+		"partido",
+		"juego"
+	],
+	"juego": [
+		"game"
+	],
+	"equipo": [
+		"team"
+	],
+	"team": [
+		"equipo"
+	],
+	"jugador": [
+		"player"
+	],
+	"player": [
+		"jugador"
+	],
+	"aficionado": [
+		"fan"
+	],
+	"fan": [
+		"aficionado"
+	],
+	"espectador": [
+		"spectador"
+	],
+	"spectador": [
+		"espectador"
+	],
+	"tanto": [
+		"score",
+		"point"
+	],
+	"score": [
+		"tanto"
+	],
+	"point": [
+		"tanto"
+	],
+	"jugar": [
+		"to play"
+	],
+	"to play": [
+		"jugar"
+	],
+	"empezar": [
+		"to begin"
+	],
+	"to begin": [
+		"empezar",
+		"comenzar"
+	],
+	"comenzar": [
+		"to begin"
+	],
+	"volver": [
+		"to return"
+	],
+	"to return": [
+		"volver",
+		"devolver",
+		"regresar"
+	],
+	"poder": [
+		"to be able to"
+	],
+	"to be able to": [
+		"poder"
+	],
+	"to be able": [
+		"poder"
+	],
+	"marcar": [
+		"to score"
+	],
+	"to score": [
+		"marcar",
+		"meter"
+	],
+	"marcar un tanto": [
+		"to score a point"
+	],
+	"to score a point": [
+		"marcar un tanto"
+	],
+	"querer": [
+		"to want",
+		"to wish"
+	],
+	"to want": [
+		"querer"
+	],
+	"to wish": [
+		"querer"
+	],
+	"perder": [
+		"to lose"
+	],
+	"to lose": [
+		"perder"
+	],
+	"ganar": [
+		"to win"
+	],
+	"to win": [
+		"ganar"
+	],
+	"aplaudir": [
+		"to applaud",
+		"to clap"
+	],
+	"to applaud": [
+		"aplaudir"
+	],
+	"to clap": [
+		"aplaudir"
+	],
+	"campo de futbol": [
+		"soccer field"
+	],
+	"soccer field": [
+		"campo de futbol"
+	],
+	"tiempo": [
+		"half-time"
+	],
+	"half-time": [
+		"tiempo"
+	],
+	"half time": [
+		"tiempo"
+	],
+	"balon": [
+		"ball"
+	],
+	"ball": [
+		"balon",
+		"pelota"
+	],
+	"portero": [
+		"goalie"
+	],
+	"goalie": [
+		"portero"
+	],
+	"porteria": [
+		"goal"
+	],
+	"goal": [
+		"porteria",
+		"gol"
+	],
+	"gol": [
+		"goal"
+	],
+	"lanzar": [
+		"to kick",
+		"to throw"
+	],
+	"to kick": [
+		"lanzar"
+	],
+	"to throw": [
+		"lanzar",
+		"tirar"
+	],
+	"tocar": [
+		"to touch"
+	],
+	"to touch": [
+		"tocar"
+	],
+	"guardar": [
+		"to guard"
+	],
+	"to guard": [
+		"guardar"
+	],
+	"entrar": [
+		"to enter",
+		"to go into"
+	],
+	"to enter": [
+		"entrar"
+	],
+	"to go into": [
+		"entrar"
+	],
+	"bloquear": [
+		"to block"
+	],
+	"to block": [
+		"bloquear"
+	],
+	"meter": [
+		"to score"
+	],
+	"meter un gol": [
+		"to score a goal"
+	],
+	"to score a goal": [
+		"meter un gol"
+	],
+	"campo de beisbol": [
+		"baseball field"
+	],
+	"baseball field": [
+		"campo de beisbol"
+	],
+	"beisbolista": [
+		"baseball player"
+	],
+	"baseball player": [
+		"beisbolista"
+	],
+	"bateador": [
+		"batter"
+	],
+	"batter": [
+		"bateador"
+	],
+	"lanzador": [
+		"pitcher"
+	],
+	"pitcher": [
+		"lanzador",
+		"picher"
+	],
+	"picher": [
+		"pitcher"
+	],
+	"catcher": [
+		"catcher",
+		"receptor"
+	],
+	"receptor": [
+		"catcher"
+	],
+	"jardinero": [
+		"outfielder"
+	],
+	"outfielder": [
+		"jardinero"
+	],
+	"gustar": [
+		"to like",
+		"to be pleasing"
+	],
+	"to like": [
+		"gustar"
+	],
+	"to be pleasing": [
+		"gustar"
+	],
+	"interesar": [
+		"to interest"
+	],
+	"to interest": [
+		"interesar"
+	],
+	"dormir": [
+		"to sleep"
+	],
+	"to sleep": [
+		"dormir"
+	],
+	"preferir": [
+		"to prefer"
+	],
+	"to prefer": [
+		"preferir"
+	],
+	"propio": [
+		"own"
+	],
+	"own": [
+		"propio"
+	],
+	"que pena!": [
+		"what a shame!"
+	],
+	"what a shame!": [
+		"que pena!"
+	],
+	"que pena": [
+		"what a shame!"
+	],
+	"lo siento": [
+		"i'm sorry"
+	],
+	"i'm sorry": [
+		"lo siento"
+	],
+	"lo siento mucho": [
+		"i'm very sorry"
+	],
+	"i'm very sorry": [
+		"lo siento mucho"
+	],
+	"im sorry": [
+		"lo siento"
+	],
+	"im very sorry": [
+		"lo siento mucho"
+	],
+	"que piensas de": [
+		"what do you think about"
+	],
+	"what do you think about": [
+		"que piensas de"
+	],
+	"que piensas de?": [
+		"what do you think about?"
+	],
+	"what do you think about?": [
+		"que piensas de?"
+	],
+	"barbaro!": [
+		"great!",
+		"awesome!"
+	],
+	"great!": [
+		"barbaro!"
+	],
+	"awesome!": [
+		"barbaro!"
+	],
+	"great": [
+		"barbaro"
+	],
+	"barbaro": [
+		"great",
+		"awesome"
+	],
+	"awesome": [
+		"barbaro"
+	],
+	"bate": [
+		"bat"
+	],
+	"bat": [
+		"bate"
+	],
+	"guante": [
+		"glove"
+	],
+	"glove": [
+		"guante"
+	],
+	"plato": [
+		"home plate",
+		"plate"
+	],
+	"home plate": [
+		"plato"
+	],
+	"plate": [
+		"plato"
+	],
+	"base": [
+		"base"
+	],
+	"jonron": [
+		"home run"
+	],
+	"home run": [
+		"jonron"
+	],
+	"batear": [
+		"to hit",
+		"to bat"
+	],
+	"to hit": [
+		"batear",
+		"golpear"
+	],
+	"to bat": [
+		"batear"
+	],
+	"correr": [
+		"to run"
+	],
+	"to run": [
+		"correr"
+	],
+	"atrapar": [
+		"to catch"
+	],
+	"to catch": [
+		"atrapar"
+	],
+	"cancha": [
+		"court"
+	],
+	"court": [
+		"cancha"
+	],
+	"cesto": [
+		"basket"
+	],
+	"basket": [
+		"cesto",
+		"canasta"
+	],
+	"canasta": [
+		"basket"
+	],
+	"tirar": [
+		"to throw"
+	],
+	"driblar": [
+		"to dribble"
+	],
+	"to dribble": [
+		"driblar"
+	],
+	"encestar": [
+		"to make a basket"
+	],
+	"to make a basket": [
+		"encestar"
+	],
+	"raqueta": [
+		"tennis racket"
+	],
+	"tennis racket": [
+		"raqueta"
+	],
+	"pelota": [
+		"ball"
+	],
+	"la red": [
+		"net"
+	],
+	"net": [
+		"la red",
+		"red"
+	],
+	"individuales": [
+		"singels"
+	],
+	"singels": [
+		"individuales"
+	],
+	"dobles": [
+		"doubles"
+	],
+	"doubles": [
+		"dobles"
+	],
+	"golpear": [
+		"to hit"
+	],
+	"devolver": [
+		"to return"
+	],
+	"por encima de": [
+		"above",
+		"over"
+	],
+	"above": [
+		"por encima de"
+	],
+	"over": [
+		"por encima de"
+	],
+	"camiseta": [
+		"t-shirt"
+	],
+	"t-shirt": [
+		"camiseta"
+	],
+	"t shirt": [
+		"camiseta"
+	],
+	"pantalon corto": [
+		"shorts"
+	],
+	"shorts": [
+		"pantalon corto"
+	],
+	"calcetines largos": [
+		"long socks"
+	],
+	"long socks": [
+		"calcetines largos"
+	],
+	"calcetines": [
+		"socks"
+	],
+	"socks": [
+		"calcetines"
+	],
+	"largo": [
+		"large"
+	],
+	"large": [
+		"largo",
+		"grande"
+	],
+	"zapatillas": [
+		"shoes",
+		"sneakers"
+	],
+	"shoes": [
+		"zapatillas"
+	],
+	"sneakers": [
+		"zapatillas"
+	],
+	"de que color es?": [
+		"what color is it?"
+	],
+	"what color is it?": [
+		"de que color es?"
+	],
+	"what color is it": [
+		"de que color es?"
+	],
+	"de que color es": [
+		"what color is it?"
+	],
+	"color": [
+		"color"
+	],
+	"me gusta": [
+		"i like"
+	],
+	"i like": [
+		"me gusta"
+	],
+	"te gusta": [
+		"you like"
+	],
+	"you like": [
+		"te gusta"
+	],
+	"le gusta": [
+		"he likes",
+		"she likes"
+	],
+	"he likes": [
+		"le gusta"
+	],
+	"she likes": [
+		"le gusta"
+	],
+	"nos gusta": [
+		"we like"
+	],
+	"we like": [
+		"nos gusta"
+	],
+	"les gusta": [
+		"they like"
+	],
+	"they like": [
+		"les gusta"
+	],
+	"bienestar": [
+		"wellbeing"
+	],
+	"wellbeing": [
+		"bienestar"
+	],
+	"alegre": [
+		"happy"
+	],
+	"happy": [
+		"alegre",
+		"contento"
+	],
+	"contento": [
+		"happy"
+	],
+	"triste": [
+		"sad"
+	],
+	"sad": [
+		"triste",
+		"deprimido"
+	],
+	"deprimido": [
+		"sad",
+		"depressed"
+	],
+	"depressed": [
+		"deprimido"
+	],
+	"enojado": [
+		"angry",
+		"annoyed"
+	],
+	"angry": [
+		"enojado",
+		"enfadado"
+	],
+	"annoyed": [
+		"enojado",
+		"molesto"
+	],
+	"enfadado": [
+		"angry"
+	],
+	"energetico": [
+		"energetic"
+	],
+	"energetic": [
+		"energetico"
+	],
+	"calmo": [
+		"calm"
+	],
+	"calm": [
+		"calmo",
+		"tranquilo"
+	],
+	"tranquilo": [
+		"calm"
+	],
+	"nervioso": [
+		"nervous"
+	],
+	"nervous": [
+		"nervioso"
+	],
+	"cansado": [
+		"tired"
+	],
+	"tired": [
+		"cansado"
+	],
+	"de mal humor": [
+		"in a bad mood"
+	],
+	"in a bad mood": [
+		"de mal humor"
+	],
+	"de buen humor": [
+		"in a good mood"
+	],
+	"in a good mood": [
+		"de buen humor"
+	],
+	"humor": [
+		"mood"
+	],
+	"mood": [
+		"humor"
+	],
+	"personalidad": [
+		"personality"
+	],
+	"personality": [
+		"personalidad"
+	],
+	"comportamiento": [
+		"behaviour",
+		"conduct"
+	],
+	"behaviour": [
+		"comportamiento"
+	],
+	"conduct": [
+		"comportamiento"
+	],
+	"modales": [
+		"manners"
+	],
+	"manners": [
+		"modales"
+	],
+	"energia": [
+		"energy"
+	],
+	"energy": [
+		"energia"
+	],
+	"entusiasmo": [
+		"enthusiasm"
+	],
+	"enthusiasm": [
+		"entusiasmo"
+	],
+	"paciencia": [
+		"patience"
+	],
+	"patience": [
+		"paciencia"
+	],
+	"dinamico": [
+		"dynamic"
+	],
+	"dynamic": [
+		"dinamico"
+	],
+	"paciente": [
+		"patient"
+	],
+	"patient": [
+		"paciente",
+		"peciente"
+	],
+	"impaciente": [
+		"impatient"
+	],
+	"impatient": [
+		"impaciente"
+	],
+	"flexible": [
+		"open-minded",
+		"flexible"
+	],
+	"open-minded": [
+		"flexible"
+	],
+	"open minded": [
+		"flexible"
+	],
+	"terco": [
+		"stubborn",
+		"obstinate"
+	],
+	"stubborn": [
+		"terco",
+		"obstinado"
+	],
+	"obstinado": [
+		"stubborn",
+		"obstinate"
+	],
+	"obstinate": [
+		"terco",
+		"obstinado"
+	],
+	"agradable": [
+		"pleasant",
+		"friendly"
+	],
+	"pleasant": [
+		"agradable"
+	],
+	"friendly": [
+		"agradable"
+	],
+	"bien educado": [
+		"polite"
+	],
+	"polite": [
+		"bien educado"
+	],
+	"mal educado": [
+		"rude"
+	],
+	"rude": [
+		"mal educado"
+	],
+	"salud": [
+		"health"
+	],
+	"health": [
+		"salud"
+	],
+	"catarro": [
+		"cold"
+	],
+	"fiebre": [
+		"fever"
+	],
+	"fever": [
+		"fiebre"
+	],
+	"tos": [
+		"cough"
+	],
+	"cough": [
+		"tos"
+	],
+	"estres": [
+		"stress"
+	],
+	"stress": [
+		"estres"
+	],
+	"dolor": [
+		"pain",
+		"ache"
+	],
+	"pain": [
+		"dolor"
+	],
+	"ache": [
+		"dolor"
+	],
+	"garganta": [
+		"throat"
+	],
+	"throat": [
+		"garganta"
+	],
+	"estomago": [
+		"stomach ache"
+	],
+	"stomach ache": [
+		"estomago",
+		"dolor de estomago"
+	],
+	"cabeza": [
+		"headache"
+	],
+	"headache": [
+		"cabeza",
+		"dolor de cabeza"
+	],
+	"dolor de garganta": [
+		"sore throat"
+	],
+	"sore throat": [
+		"dolor de garganta"
+	],
+	"dolor de estomago": [
+		"stomach ache"
+	],
+	"dolor de cabeza": [
+		"headache"
+	],
+	"examen fisico": [
+		"physical"
+	],
+	"physical": [
+		"examen fisico"
+	],
+	"tension arterial": [
+		"blood pressure"
+	],
+	"blood pressure": [
+		"tension arterial"
+	],
+	"pulso": [
+		"pulse"
+	],
+	"pulse": [
+		"pulso"
+	],
+	"consulta": [
+		"doctor's office"
+	],
+	"doctor's office": [
+		"consulta"
+	],
+	"doctors office": [
+		"consulta"
+	],
+	"medico": [
+		"doctor"
+	],
+	"doctor": [
+		"medico"
+	],
+	"enfermero": [
+		"nurse"
+	],
+	"nurse": [
+		"enfermero"
+	],
+	"peciente": [
+		"patient"
+	],
+	"farmacia": [
+		"pharmacy",
+		"drugstore"
+	],
+	"pharmacy": [
+		"farmacia"
+	],
+	"drugstore": [
+		"farmacia"
+	],
+	"farmaceutico": [
+		"pharmacist"
+	],
+	"pharmacist": [
+		"farmaceutico"
+	],
+	"receta": [
+		"prescription"
+	],
+	"prescription": [
+		"receta"
+	],
+	"medicamento": [
+		"medicine"
+	],
+	"medicine": [
+		"medicamento",
+		"medicina"
+	],
+	"medicina": [
+		"medicine"
+	],
+	"enfermo": [
+		"ill",
+		"sick"
+	],
+	"ill": [
+		"enfermo"
+	],
+	"sick": [
+		"enfermo"
+	],
+	"resfriado": [
+		"stuffed up (cold)",
+		"stuffed up"
+	],
+	"stuffed up": [
+		"resfriado"
+	],
+	"examinar": [
+		"to examine"
+	],
+	"to examine": [
+		"examinar"
+	],
+	"toser": [
+		"to cough"
+	],
+	"to cough": [
+		"toser"
+	],
+	"doler": [
+		"to ache",
+		"to hurt"
+	],
+	"to ache": [
+		"doler"
+	],
+	"to hurt": [
+		"doler"
+	],
+	"recetar": [
+		"to prescribe"
+	],
+	"to prescribe": [
+		"recetar"
+	],
+	"vender": [
+		"to sell"
+	],
+	"to sell": [
+		"vender"
+	],
+	"sonrisa": [
+		"smile"
+	],
+	"smile": [
+		"sonrisa"
+	],
+	"cara": [
+		"face"
+	],
+	"face": [
+		"cara"
+	],
+	"boca": [
+		"mouth"
+	],
+	"mouth": [
+		"boca"
+	],
+	"nino": [
+		"boy",
+		"child"
+	],
+	"nina": [
+		"girl"
+	],
+	"child": [
+		"nino"
+	],
+	"tipo": [
+		"guy",
+		"type"
+	],
+	"guy": [
+		"tipo"
+	],
+	"type": [
+		"tipo"
+	],
+	"lleno de": [
+		"full of"
+	],
+	"full of": [
+		"lleno de"
+	],
+	"me falta": [
+		"i need"
+	],
+	"i need": [
+		"me falta"
+	],
+	"me enfada": [
+		"it angers me"
+	],
+	"it angers me": [
+		"me enfada"
+	],
+	"me enoja": [
+		"it annoys me"
+	],
+	"it annoys me": [
+		"me enoja"
+	],
+	"me molesta": [
+		"it bothers me"
+	],
+	"it bothers me": [
+		"me molesta"
+	],
+	"molesto": [
+		"bothered",
+		"annoyed"
+	],
+	"bothered": [
+		"molesto"
+	],
+	"guardar cama": [
+		"to stay in bed"
+	],
+	"to stay in bed": [
+		"guardar cama"
+	],
+	"tener exito": [
+		"to be successful"
+	],
+	"to be successful": [
+		"tener exito"
+	],
+	"exito": [
+		"success"
+	],
+	"success": [
+		"exito"
+	],
+	"verano": [
+		"summer"
+	],
+	"summer": [
+		"verano"
+	],
+	"invierno": [
+		"winter"
+	],
+	"winter": [
+		"invierno"
+	],
+	"temperatura": [
+		"temperature"
+	],
+	"temperature": [
+		"temperatura"
+	],
+	"nieve": [
+		"snow"
+	],
+	"snow": [
+		"nieve"
+	],
+	"nube": [
+		"cloud"
+	],
+	"cloud": [
+		"nube"
+	],
+	"llueve": [
+		"it's raining"
+	],
+	"it's raining": [
+		"llueve"
+	],
+	"its raining": [
+		"llueve"
+	],
+	"lluvia": [
+		"rain"
+	],
+	"rain": [
+		"lluvia"
+	],
+	"nieva": [
+		"it's snowing"
+	],
+	"it's snowing": [
+		"nieva"
+	],
+	"its snowing": [
+		"nieva"
+	],
+	"hace buen tiempo": [
+		"the weather is nice"
+	],
+	"the weather is nice": [
+		"hace buen tiempo"
+	],
+	"hace mal tiempo": [
+		"the weather is bad"
+	],
+	"the weather is bad": [
+		"hace mal tiempo"
+	],
+	"hace calor": [
+		"it's hot"
+	],
+	"it's hot": [
+		"hace calor"
+	],
+	"its hot": [
+		"hace calor"
+	],
+	"hace frio": [
+		"it's cold"
+	],
+	"it's cold": [
+		"hace frio"
+	],
+	"its cold": [
+		"hace frio"
+	],
+	"hace sol": [
+		"it's sunny"
+	],
+	"it's sunny": [
+		"hace sol",
+		"hace hay sol"
+	],
+	"its sunny": [
+		"hace sol",
+		"hace hay sol"
+	],
+	"hace hay sol": [
+		"there is sun",
+		"it's sunny"
+	],
+	"there is sun": [
+		"hace hay sol"
+	],
+	"sol": [
+		"sun"
+	],
+	"sun": [
+		"sol"
+	],
+	"hacer": [
+		"to do",
+		"to make"
+	],
+	"to do": [
+		"hacer"
+	],
+	"to make": [
+		"hacer"
+	],
+	"nublado": [
+		"cloudy"
+	],
+	"cloudy": [
+		"nublado"
+	],
+	"balneario": [
+		"beach resort"
+	],
+	"beach resort": [
+		"balneario"
+	],
+	"seaside resort": [
+		"balneario"
+	],
+	"playa": [
+		"beach"
+	],
+	"beach": [
+		"playa"
+	],
+	"arena": [
+		"sand"
+	],
+	"sand": [
+		"arena"
+	],
+	"mar": [
+		"sea",
+		"ocean"
+	],
+	"sea": [
+		"mar"
+	],
+	"ocean": [
+		"mar"
+	],
+	"ola": [
+		"wave"
+	],
+	"wave": [
+		"ola"
+	],
+	"piscina": [
+		"pool"
+	],
+	"pool": [
+		"piscina",
+		"alberca"
+	],
+	"alberca": [
+		"pool"
+	],
+	"swimming pool": [
+		"piscina",
+		"alberca"
+	],
+	"surfing": [
+		"surfing"
+	],
+	"plancha de vela": [
+		"windsurfing",
+		"windsurfboard"
+	],
+	"windsurfing": [
+		"plancha de vela"
+	],
+	"windsurfboard": [
+		"plancha de vela"
+	],
+	"tabla hawaiana": [
+		"surfboard"
+	],
+	"surfboard": [
+		"tabla hawaiana"
+	],
+	"buceo": [
+		"snorkeling"
+	],
+	"snorkeling": [
+		"buceo"
+	],
+	"esqui acuatico": [
+		"waterskiing"
+	],
+	"waterskiing": [
+		"esqui acuatico",
+		"esqui nautico"
+	],
+	"water skiing": [
+		"esqui acuatico",
+		"esqui nautico"
+	],
+	"esqui nautico": [
+		"waterskiing"
+	],
+	"barquito": [
+		"boat",
+		"small boat"
+	],
+	"boat": [
+		"barquito",
+		"barco",
+		"bote"
+	],
+	"small boat": [
+		"barquito"
+	],
+	"barco": [
+		"boat"
+	],
+	"bote": [
+		"boat"
+	],
+	"voleibol": [
+		"volleyball"
+	],
+	"volleyball": [
+		"voleibol"
+	],
+	"practicar": [
+		"to practice"
+	],
+	"to practice": [
+		"practicar"
+	],
+	"alquilar": [
+		"to rent"
+	],
+	"to rent": [
+		"alquilar",
+		"rentar"
+	],
+	"rentar": [
+		"to rent"
+	],
+	"pasar": [
+		"to spend time"
+	],
+	"to spend time": [
+		"pasar"
+	],
+	"nadar": [
+		"to swim"
+	],
+	"to swim": [
+		"nadar"
+	],
+	"bucear": [
+		"to go snorkeling"
+	],
+	"to go snorkeling": [
+		"bucear"
+	],
+	"to snorkel": [
+		"bucear"
+	],
+	"toalla": [
+		"towel"
+	],
+	"towel": [
+		"toalla"
+	],
+	"traje": [
+		"suit"
+	],
+	"suit": [
+		"traje"
+	],
+	"traje de bano": [
+		"bathing suit"
+	],
+	"bathing suit": [
+		"traje de bano",
+		"banador"
+	],
+	"swimming suit": [
+		"traje de bano",
+		"banador"
+	],
+	"swimsuit": [
+		"traje de bano",
+		"banador"
+	],
+	"banador": [
+		"bathing suit"
+	],
+	"anteojos de sol": [
+		"sunglasses"
+	],
+	"sunglasses": [
+		"anteojos de sol",
+		"gafas para el sol"
+	],
+	"gafas para el sol": [
+		"sunglasses"
+	],
+	"gafas para sol": [
+		"sunglasses"
+	],
+	"gafas": [
+		"glasses"
+	],
+	"glasses": [
+		"gafas"
+	],
+	"crema solar": [
+		"sunscreen"
+	],
+	"sunscreen": [
+		"crema solar",
+		"locion solar",
+		"locion",
+		"bronceadora"
+	],
+	"suntan lotion": [
+		"crema solar",
+		"locion solar",
+		"locion",
+		"bronceadora"
+	],
+	"sunblock": [
+		"crema solar",
+		"locion solar",
+		"locion",
+		"bronceadora"
+	],
+	"locion solar": [
+		"sunscreen"
+	],
+	"locion": [
+		"sunscreen"
+	],
+	"bronceadora": [
+		"sunscreen"
+	],
+	"broncear": [
+		"to tan"
+	],
+	"to tan": [
+		"broncear"
+	],
+	"to get a tan": [
+		"broncear"
+	],
+	"camara": [
+		"camera"
+	],
+	"camera": [
+		"camara"
+	],
+	"camara digital": [
+		"digital camera"
+	],
+	"digital camera": [
+		"camara digital"
+	],
+	"estacion de esqui": [
+		"ski resort"
+	],
+	"ski resort": [
+		"estacion de esqui"
+	],
+	"montana": [
+		"mountain"
+	],
+	"mountain": [
+		"montana"
+	],
+	"pico": [
+		"mountain top"
+	],
+	"mountain top": [
+		"pico"
+	],
+	"mountain peak": [
+		"pico"
+	],
+	"pista": [
+		"ski slope"
+	],
+	"ski slope": [
+		"pista"
+	],
+	"telesqui": [
+		"ski lift",
+		"chairlift"
+	],
+	"ski lift": [
+		"telesqui",
+		"telesilla"
+	],
+	"chairlift": [
+		"telesqui",
+		"telesilla"
+	],
+	"telesilla": [
+		"ski lift",
+		"chairlift"
+	],
+	"esquiador": [
+		"skier"
+	],
+	"skier": [
+		"esquiador"
+	],
+	"snowboarder": [
+		"snowboarder"
+	],
+	"ventanilla": [
+		"ticket window"
+	],
+	"ticket window": [
+		"ventanilla",
+		"boleteria"
+	],
+	"boleteria": [
+		"ticket window"
+	],
+	"boleto": [
+		"ticket"
+	],
+	"ticket": [
+		"boleto"
+	],
+	"hielo": [
+		"ice"
+	],
+	"ice": [
+		"hielo"
+	],
+	"patinaje sobre el hielo": [
+		"ice skating"
+	],
+	"ice skating": [
+		"patinaje sobre el hielo",
+		"patinaje sobre hielo"
+	],
+	"pista de patinaje": [
+		"ice-skating rink"
+	],
+	"ice-skating rink": [
+		"pista de patinaje"
+	],
+	"ice skating rink": [
+		"pista de patinaje"
+	],
+	"ice skating ring": [
+		"pista de patinaje"
+	],
+	"ice-skating ring": [
+		"pistas de patinaje"
+	],
+	"patinador": [
+		"ice-skater"
+	],
+	"ice-skater": [
+		"patinador"
+	],
+	"ice skater": [
+		"patinador"
+	],
+	"experto": [
+		"expert"
+	],
+	"expert": [
+		"experto"
+	],
+	"principiante": [
+		"beginner"
+	],
+	"beginner": [
+		"principiante"
+	],
+	"esquiar": [
+		"to ski"
+	],
+	"to ski": [
+		"esquiar"
+	],
+	"subir": [
+		"to go up"
+	],
+	"to go up": [
+		"subir"
+	],
+	"bajar": [
+		"to go down"
+	],
+	"to go down": [
+		"bajar"
+	],
+	"patinar": [
+		"to skate"
+	],
+	"to skate": [
+		"patinar"
+	],
+	"esqui": [
+		"ski",
+		"skiing"
+	],
+	"ski": [
+		"esqui"
+	],
+	"skiing": [
+		"esqui"
+	],
+	"baston": [
+		"ski pole"
+	],
+	"ski pole": [
+		"baston"
+	],
+	"gorro": [
+		"ski hat",
+		"hat",
+		"cap"
+	],
+	"ski hat": [
+		"gorro"
+	],
+	"hat": [
+		"gorro"
+	],
+	"cap": [
+		"gorro"
+	],
+	"botas": [
+		"boots"
+	],
+	"boots": [
+		"botas"
+	],
+	"guantes": [
+		"gloves"
+	],
+	"gloves": [
+		"guantes"
+	],
+	"casco": [
+		"helmet"
+	],
+	"helmet": [
+		"casco"
+	],
+	"chaqueta de esqui": [
+		"ski jacket"
+	],
+	"ski jacket": [
+		"chaqueta de esqui",
+		"anorak"
+	],
+	"anorak": [
+		"snow jacket"
+	],
+	"snow jacket": [
+		"anorak"
+	],
+	"chaqueta": [
+		"jacket"
+	],
+	"jacket": [
+		"chaqueta"
+	],
+	"snowboard": [
+		"snowboard"
+	],
+	"patin": [
+		"ice skate"
+	],
+	"ice skate": [
+		"patin"
+	],
+	"ayer": [
+		"yesterday"
+	],
+	"yesterday": [
+		"ayer"
+	],
+	"esta noche": [
+		"tonight"
+	],
+	"tonight": [
+		"esta noche"
+	],
+	"anoche": [
+		"last night"
+	],
+	"last night": [
+		"anoche"
+	],
+	"esta tarde": [
+		"this afternoon"
+	],
+	"this afternoon": [
+		"esta tarde"
+	],
+	"ayer por la tarde": [
+		"yesterday afternoon"
+	],
+	"yesterday afternoon": [
+		"ayer por la tarde"
+	],
+	"este ano": [
+		"this year"
+	],
+	"this year": [
+		"este ano"
+	],
+	"ano pasado": [
+		"last year"
+	],
+	"last year": [
+		"ano pasado"
+	],
+	"esta semana": [
+		"this week"
+	],
+	"this week": [
+		"esta semana"
+	],
+	"semana pasada": [
+		"last week"
+	],
+	"last week": [
+		"semana pasada"
+	],
+	"this past week": [
+		"semana pasada"
+	],
+	"fin de semana": [
+		"weekend"
+	],
+	"weekend": [
+		"fin de semana"
+	],
+	"fin": [
+		"end"
+	],
+	"end": [
+		"fin"
+	],
+	"tener miedo": [
+		"to be afraid"
+	],
+	"to be afraid": [
+		"tener miedo"
+	],
+	"miedo": [
+		"fear"
+	],
+	"fear": [
+		"miedo"
+	],
+	"to have fear": [
+		"tener miedo"
+	],
+	"no vale": [
+		"it's not worth it"
+	],
+	"it's not worth it": [
+		"no vale"
+	],
+	"its not worth it": [
+		"no vale"
+	],
+	"quizas!": [
+		"maybe!",
+		"perhaps!"
+	],
+	"maybe!": [
+		"quizas!",
+		"tal vez!"
+	],
+	"perhaps!": [
+		"quizas!",
+		"tal vez!"
+	],
+	"tal vez!": [
+		"maybe!",
+		"perhaps!"
+	],
+	"quizas": [
+		"maybe",
+		"perhaps"
+	],
+	"maybe": [
+		"quizas",
+		"tal vez"
+	],
+	"perhaps": [
+		"quizas",
+		"tal vez"
+	],
+	"tal vez": [
+		"maybe",
+		"perhaps"
+	]
 }
