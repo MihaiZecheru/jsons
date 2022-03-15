@@ -1,0 +1,542 @@
+{
+  "sala de clase": [
+    "classroom"
+  ],
+  "classroom": [
+    "sala de clase"
+  ],
+  "pupitre": [
+    "desk"
+  ],
+  "desk": [
+    "pupitre"
+  ],
+  "pregunta": [
+    "question"
+  ],
+  "question": [
+    "pregunta"
+  ],
+  "ensenar": [
+    "to teach"
+  ],
+  "to teach": [
+    "ensenar"
+  ],
+  "hablar": [
+    "to talk"
+  ],
+  "to talk": [
+    "hablar"
+  ],
+  "estudiar": [
+    "to study"
+  ],
+  "to study": [
+    "estudiar"
+  ],
+  "escuchar": [
+    "to listen"
+  ],
+  "to listen": [
+    "escuchar"
+  ],
+  "mirar": [
+    "to look at",
+    "to look"
+  ],
+  "to look at": [
+    "mirar"
+  ],
+  "to look": [
+    "mirar"
+  ],
+  "prestar atencion": [
+    "to pay attention"
+  ],
+  "to pay attention": [
+    "prestar atencion"
+  ],
+  "levantar la mano": [
+    "to raise one's hand"
+  ],
+  "to raise one's hand": [
+    "levantar la mano"
+  ],
+  "to raise ones hand": [
+    "levantar la mano"
+  ],
+  "to raise your hand": [
+    "levantar la mano"
+  ],
+  "raise your hand": [
+    "levantar la mano"
+  ],
+  "raise my hand": [
+    "levantar la mano"
+  ],
+  "contestar": [
+    "to answer"
+  ],
+  "to answer": [
+    "contestar"
+  ],
+  "dar un examen": [
+    "to give a test"
+  ],
+  "to give a test": [
+    "dar un examen",
+    "dar una prueba"
+  ],
+  "dar una prueba": [
+    "to give a test"
+  ],
+  "examen": [
+    "test",
+    "exam"
+  ],
+  "test": [
+    "examen",
+    "prueba"
+  ],
+  "prueba": [
+    "test",
+    "exam"
+  ],
+  "exam": [
+    "examen",
+    "prueba"
+  ],
+  "tomar un examen": [
+    "to take a test"
+  ],
+  "to take a test": [
+    "tomar un examen"
+  ],
+  "sacar una nota": [
+    "to get a grade"
+  ],
+  "to get a grade": [
+    "sacar una nota"
+  ],
+  "sacar una nota buena": [
+    "to get a good grade"
+  ],
+  "to get a good grade": [
+    "sacar una nota buena"
+  ],
+  "sacar una nota mala": [
+    "to get a bad grade"
+  ],
+  "to get a bad grade": [
+    "sacar una nota mala"
+  ],
+  "nota buena": [
+    "good grade"
+  ],
+  "good grade": [
+    "nota buena"
+  ],
+  "nota mala": [
+    "bad grade"
+  ],
+  "bad grade": [
+    "nota mala"
+  ],
+  "ir": [
+    "to go"
+  ],
+  "to go": [
+    "ir"
+  ],
+  "dar": [
+    "to give"
+  ],
+  "to give": [
+    "dar"
+  ],
+  "estar": [
+    "to be"
+  ],
+  "to be": [
+    "estar"
+  ],
+  "una mochila": [
+    "backpack"
+  ],
+  "backpack": [
+    "una mochila"
+  ],
+  "mochila": [
+    "knapsack"
+  ],
+  "knapsack": [
+    "mochila"
+  ],
+  "materiales": [
+    "materials"
+  ],
+  "materials": [
+    "materiales"
+  ],
+  "materiales escolares": [
+    "school supplies"
+  ],
+  "school supplies": [
+    "materiales escolares"
+  ],
+  "libro": [
+    "book"
+  ],
+  "book": [
+    "libro"
+  ],
+  "boligrafo": [
+    "pen"
+  ],
+  "pen": [
+    "boligrafo"
+  ],
+  "hoja de papel": [
+    "sheet of paper"
+  ],
+  "sheet of paper": [
+    "hoja de papel"
+  ],
+  "cuaderno": [
+    "notebook"
+  ],
+  "notebook": [
+    "cuaderno"
+  ],
+  "lapiz": [
+    "pencil"
+  ],
+  "pencil": [
+    "lapiz"
+  ],
+  "lapices": [
+    "pencils"
+  ],
+  "pencils": [
+    "lapices"
+  ],
+  "calculadora": [
+    "calculator"
+  ],
+  "calculator": [
+    "calculadora"
+  ],
+  "carpeta": [
+    "folder"
+  ],
+  "folder": [
+    "carpeta"
+  ],
+  "uniforme": [
+    "uniform"
+  ],
+  "uniform": [
+    "uniforme"
+  ],
+  "pantalon": [
+    "pants"
+  ],
+  "pants": [
+    "pantalon"
+  ],
+  "camisa": [
+    "shirt"
+  ],
+  "shirt": [
+    "camisa",
+    "falda"
+  ],
+  "falda": [
+    "shirt"
+  ],
+  "blusa": [
+    "blouse"
+  ],
+  "blouse": [
+    "blusa"
+  ],
+  "llevar": [
+    "to wear"
+  ],
+  "to wear": [
+    "llevar"
+  ],
+  "movil": [
+    "cell phone"
+  ],
+  "cell phone": [
+    "movil"
+  ],
+  "mp3": [
+    "mp3"
+  ],
+  "musica": [
+    "music"
+  ],
+  "music": [
+    "musica"
+  ],
+  "dvd": [
+    "dvd"
+  ],
+  "computadora": [
+    "computer"
+  ],
+  "computer": [
+    "computadora",
+    "ordenador"
+  ],
+  "ordenador": [
+    "computer"
+  ],
+  "regresar": [
+    "to go back",
+    "to return"
+  ],
+  "to go back": [
+    "regresar"
+  ],
+  "to return": [
+    "regresar"
+  ],
+  "ir a pie": [
+    "to go on foot"
+  ],
+  "to go on foot": [
+    "ir a pie"
+  ],
+  "ir en el bus escolar": [
+    "to go by school bus"
+  ],
+  "to go by school bus": [
+    "ir en el bus escolar"
+  ],
+  "bus": [
+    "bus"
+  ],
+  "bus escolar": [
+    "school bus"
+  ],
+  "school bus": [
+    "bus escolar"
+  ],
+  "navegar": [
+    "to navigate"
+  ],
+  "to navigate": [
+    "navegar"
+  ],
+  "navegar la red": [
+    "to surf the net"
+  ],
+  "to surf the net": [
+    "navegar la red"
+  ],
+  "to surf the internet": [
+    "navegar la red"
+  ],
+  "to surf the web": [
+    "navegar la red"
+  ],
+  "enviar un correo": [
+    "to send an e-mail"
+  ],
+  "to send an e-mail": [
+    "enviar un correo",
+    "envair un electronico"
+  ],
+  "to send an email": [
+    "enviar un correo",
+    "enviar un electronico"
+  ],
+  "enviar": [
+    "to send"
+  ],
+  "to send": [
+    "enviar"
+  ],
+  "envair un electronico": [
+    "to send an e-mail"
+  ],
+  "enviar un electronico": [
+    "to send an email"
+  ],
+  "tienda": [
+    "store"
+  ],
+  "store": [
+    "tienda"
+  ],
+  "empleado": [
+    "employee",
+    "salesperson"
+  ],
+  "employee": [
+    "empleado"
+  ],
+  "salesperson": [
+    "empleado"
+  ],
+  "dinero": [
+    "money"
+  ],
+  "money": [
+    "dinero"
+  ],
+  "caja": [
+    "cash register"
+  ],
+  "cash register": [
+    "caja"
+  ],
+  "trabajar": [
+    "to work"
+  ],
+  "to work": [
+    "trabajar"
+  ],
+  "necesitar": [
+    "to need"
+  ],
+  "to need": [
+    "necesitar"
+  ],
+  "necesito": [
+    "neccesary"
+  ],
+  "neccesary": [
+    "necesito"
+  ],
+  "buscar": [
+    "to look for"
+  ],
+  "to look for": [
+    "buscar"
+  ],
+  "comprar": [
+    "to buy"
+  ],
+  "to buy": [
+    "comprar"
+  ],
+  "pagar": [
+    "to pay"
+  ],
+  "to pay": [
+    "pagar"
+  ],
+  "antes de": [
+    "before"
+  ],
+  "before": [
+    "antes de"
+  ],
+  "durante": [
+    "during"
+  ],
+  "during": [
+    "durante"
+  ],
+  "despues de": [
+    "after"
+  ],
+  "after": [
+    "despues de"
+  ],
+  "cerca de": [
+    "near"
+  ],
+  "near": [
+    "cerca de"
+  ],
+  "lejos de": [
+    "far"
+  ],
+  "far": [
+    "lejos de"
+  ],
+  "far from": [
+    "lejos de"
+  ],
+  "adonde": [
+    "to where",
+    "where"
+  ],
+  "to where": [
+    "adonde"
+  ],
+  "where": [
+    "adonde"
+  ],
+  "cuando": [
+    "when"
+  ],
+  "when": [
+    "cuando"
+  ],
+  "por que": [
+    "why"
+  ],
+  "why": [
+    "por que"
+  ],
+  "porque": [
+    "because"
+  ],
+  "because": [
+    "porque"
+  ],
+  "mira!": [
+    "look!"
+  ],
+  "look!": [
+    "mira!"
+  ],
+  "mira": [
+    "look!"
+  ],
+  "cuanto cuesta?": [
+    "how much does it cost?"
+  ],
+  "how much does it cost?": [
+    "cuanto cuesta?"
+  ],
+  "how much does it cost": [
+    "cuanto cuesta?"
+  ],
+  "cuanto cuesta": [
+    "how much does it cost?"
+  ],
+  "que pasa?": [
+    "what's going on?",
+    "what's happening?"
+  ],
+  "what's going on?": [
+    "que pasa?"
+  ],
+  "what's happening?": [
+    "que pasa?"
+  ],
+  "que pasa": [
+    "what's going on?",
+    "what's happening?"
+  ],
+  "whats happening": [
+    "que pasa?"
+  ],
+  "whats going on": [
+    "que pasa?"
+  ],
+  "usar": [
+    "to use"
+  ],
+  "to use": [
+    "usar"
+  ]
+}
