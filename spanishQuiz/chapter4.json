@@ -1,0 +1,636 @@
+{
+  "comida": [
+    "meal"
+  ],
+  "meal": [
+    "comida"
+  ],
+  "desayuna": [
+    "breakfast"
+  ],
+  "breakfast": [
+    "desayuna"
+  ],
+  "almuerzo": [
+    "lunch"
+  ],
+  "lunch": [
+    "almuerzo"
+  ],
+  "cena": [
+    "dinner"
+  ],
+  "dinner": [
+    "cena"
+  ],
+  "vegetariano": [
+    "vegetarian"
+  ],
+  "vegetarian": [
+    "vegetariano"
+  ],
+  "tener hambre": [
+    "to be hungry",
+    "to have hunger"
+  ],
+  "to be hungry": [
+    "tener hambre"
+  ],
+  "to have hunger": [
+    "tener hambre"
+  ],
+  "tener sed": [
+    "to be thirsty"
+  ],
+  "to be thirsty": [
+    "tener sed"
+  ],
+  "to have thirst": [
+    "tener sad"
+  ],
+  "tener sad": [
+    "to have thirst"
+  ],
+  "tomar": [
+    "to have"
+  ],
+  "to have": [
+    "tomar"
+  ],
+  "comer": [
+    "to eat"
+  ],
+  "to eat": [
+    "comer"
+  ],
+  "beber": [
+    "to drink"
+  ],
+  "to drink": [
+    "beber"
+  ],
+  "cenar": [
+    "to have dinner"
+  ],
+  "to have dinner": [
+    "cenar"
+  ],
+  "tostadas": [
+    "toast"
+  ],
+  "toast": [
+    "tostadas",
+    "pan tostado"
+  ],
+  "pan tostado": [
+    "toast"
+  ],
+  "panecillo": [
+    "roll"
+  ],
+  "roll": [
+    "panecillo"
+  ],
+  "mantequilla": [
+    "butter"
+  ],
+  "butter": [
+    "mantequilla"
+  ],
+  "cereal": [
+    "cereal"
+  ],
+  "huevo": [
+    "egg"
+  ],
+  "egg": [
+    "huevo"
+  ],
+  "hueves": [
+    "eggs"
+  ],
+  "eggs": [
+    "hueves"
+  ],
+  "tocino": [
+    "bacon"
+  ],
+  "bacon": [
+    "tocino",
+    "bacã³n"
+  ],
+  "bacã³n": [
+    "bacon"
+  ],
+  "sancwich": [
+    "sandwich"
+  ],
+  "sandwich": [
+    "sancwich",
+    "bocadillo"
+  ],
+  "bocadillo": [
+    "sandwich"
+  ],
+  "jamon": [
+    "jam"
+  ],
+  "jam": [
+    "jamon"
+  ],
+  "queso": [
+    "cheese"
+  ],
+  "cheese": [
+    "queso"
+  ],
+  "ensalada": [
+    "salad"
+  ],
+  "salad": [
+    "ensalada"
+  ],
+  "pizza": [
+    "pizza"
+  ],
+  "hamburguesa": [
+    "hamburger"
+  ],
+  "hamburger": [
+    "hamburguesa"
+  ],
+  "carne": [
+    "meat"
+  ],
+  "meat": [
+    "carne"
+  ],
+  "pollo": [
+    "chicken"
+  ],
+  "chicken": [
+    "pollo"
+  ],
+  "pescado": [
+    "fish"
+  ],
+  "fish": [
+    "pescado"
+  ],
+  "arroz": [
+    "rice"
+  ],
+  "rice": [
+    "arroz"
+  ],
+  "frijoles": [
+    "beans"
+  ],
+  "beans": [
+    "frijoles"
+  ],
+  "legumbres": [
+    "vegetables"
+  ],
+  "vegetables": [
+    "legumbres",
+    "vegetales",
+    "verduras"
+  ],
+  "vegetales": [
+    "vegetables"
+  ],
+  "verduras": [
+    "vegetables"
+  ],
+  "lechuga": [
+    "lettuce"
+  ],
+  "lettuce": [
+    "lechuga"
+  ],
+  "tomate": [
+    "tomato"
+  ],
+  "tomato": [
+    "tomate"
+  ],
+  "papas": [
+    "potatoes"
+  ],
+  "potatoes": [
+    "papas",
+    "patatas"
+  ],
+  "papas fritas": [
+    "french fries",
+    "fried potatoes"
+  ],
+  "french fries": [
+    "papas fritas",
+    "patatas fritas"
+  ],
+  "fried potatoes": [
+    "papas fritas"
+  ],
+  "patatas": [
+    "potatoes"
+  ],
+  "patatas fritas": [
+    "french fries",
+    "friend potatoes"
+  ],
+  "friend potatoes": [
+    "patatas fritas"
+  ],
+  "frito": [
+    "fried"
+  ],
+  "fried": [
+    "frito"
+  ],
+  "postre": [
+    "dessert"
+  ],
+  "dessert": [
+    "postre"
+  ],
+  "helado": [
+    "ice cream"
+  ],
+  "ice cream": [
+    "helado"
+  ],
+  "flan": [
+    "flan",
+    "custard"
+  ],
+  "custard": [
+    "flan"
+  ],
+  "torta": [
+    "cake"
+  ],
+  "cake": [
+    "torta"
+  ],
+  "refresco": [
+    "soft drink",
+    "soda",
+    "carbonated drink"
+  ],
+  "soft drink": [
+    "refresco",
+    "gaseosa"
+  ],
+  "soda": [
+    "refresco",
+    "gaseosa",
+    "cola"
+  ],
+  "carbonated drink": [
+    "refresco",
+    "gaseosa"
+  ],
+  "bebida": [
+    "beverage",
+    "drink"
+  ],
+  "beverage": [
+    "bebida"
+  ],
+  "drink": [
+    "bebida"
+  ],
+  "jugo de naranja": [
+    "orange juice"
+  ],
+  "orange juice": [
+    "jugo de naranja"
+  ],
+  "leche": [
+    "milk"
+  ],
+  "milk": [
+    "leche"
+  ],
+  "gaseosa": [
+    "soft drink",
+    "carbonated drink",
+    "soda"
+  ],
+  "agua": [
+    "water"
+  ],
+  "water": [
+    "agua"
+  ],
+  "agua mineral": [
+    "mineral water",
+    "sparkling water"
+  ],
+  "mineral water": [
+    "agua mineral",
+    "agua con gas"
+  ],
+  "sparkling water": [
+    "agua mineral",
+    "agua con gas"
+  ],
+  "agua con gas": [
+    "sparkling water",
+    "mineral water"
+  ],
+  "chocolate": [
+    "chocolate"
+  ],
+  "cafe": [
+    "coffe"
+  ],
+  "coffe": [
+    "cafe"
+  ],
+  "batido": [
+    "shake",
+    "smoothie"
+  ],
+  "shake": [
+    "batido"
+  ],
+  "smoothie": [
+    "batido"
+  ],
+  "cola": [
+    "cola",
+    "soda"
+  ],
+  "vaso": [
+    "glass"
+  ],
+  "glass": [
+    "vaso"
+  ],
+  "taza": [
+    "cup"
+  ],
+  "cup": [
+    "taza"
+  ],
+  "caliente": [
+    "hot"
+  ],
+  "hot": [
+    "caliente"
+  ],
+  "frio": [
+    "cold"
+  ],
+  "cold": [
+    "frio"
+  ],
+  "merienda": [
+    "snack"
+  ],
+  "snack": [
+    "merienda"
+  ],
+  "tapas": [
+    "snacks"
+  ],
+  "snacks": [
+    "tapas",
+    "antojitos"
+  ],
+  "antojitos": [
+    "snacks"
+  ],
+  "empanada": [
+    "meat pie"
+  ],
+  "meat pie": [
+    "empanada"
+  ],
+  "tostones": [
+    "slices of fried plantain"
+  ],
+  "slices of fried plantain": [
+    "tostones"
+  ],
+  "pinchitos": [
+    "kebabs"
+  ],
+  "kebabs": [
+    "pinchitos"
+  ],
+  "camarones": [
+    "shrimp"
+  ],
+  "shrimp": [
+    "camarones"
+  ],
+  "aceitunas": [
+    "olives"
+  ],
+  "olives": [
+    "aceitunas"
+  ],
+  "albondigas": [
+    "meatballs"
+  ],
+  "meatballs": [
+    "albondigas"
+  ],
+  "mesa ocupada": [
+    "occupied table",
+    "unavailable table"
+  ],
+  "occupied table": [
+    "mesa ocupada"
+  ],
+  "unavailable table": [
+    "mesa ocupada"
+  ],
+  "mesa libre": [
+    "free table",
+    "unoccupied table"
+  ],
+  "free table": [
+    "mesa libre"
+  ],
+  "unoccupied table": [
+    "mesa libre"
+  ],
+  "mesero": [
+    "server"
+  ],
+  "server": [
+    "mesero"
+  ],
+  "cliente": [
+    "customer"
+  ],
+  "customer": [
+    "cliente"
+  ],
+  "menu": [
+    "menu"
+  ],
+  "orden": [
+    "order"
+  ],
+  "order": [
+    "orden"
+  ],
+  "cuenta": [
+    "check"
+  ],
+  "check": [
+    "cuenta"
+  ],
+  "ver": [
+    "to see"
+  ],
+  "to see": [
+    "ver"
+  ],
+  "leer": [
+    "to read"
+  ],
+  "to read": [
+    "leer"
+  ],
+  "abrir": [
+    "to open"
+  ],
+  "to open": [
+    "abrir"
+  ],
+  "recibir": [
+    "to recieve"
+  ],
+  "to recieve": [
+    "recibir"
+  ],
+  "escribir": [
+    "to write"
+  ],
+  "to write": [
+    "escribir"
+  ],
+  "que desean tomar?": [
+    "what would you like to eat?"
+  ],
+  "what would you like to eat?": [
+    "que desean tomar?"
+  ],
+  "que desean tomar": [
+    "what would you like to eat?"
+  ],
+  "what would you like to eat": [
+    "que desean tomar?"
+  ],
+  "esta incluido el servicio?": [
+    "is the tip included?"
+  ],
+  "is the tip included?": [
+    "esta incluido el servicio?"
+  ],
+  "esta incluido el servicio": [
+    "is the tip included?"
+  ],
+  "is the tip included": [
+    "esta incluido el servicio?"
+  ],
+  "sorpresa": [
+    "surprise"
+  ],
+  "surprise": [
+    "sorpresa"
+  ],
+  "enseguida": [
+    "right away"
+  ],
+  "right away": [
+    "enseguida"
+  ],
+  "llegar": [
+    "to arrive"
+  ],
+  "to arrive": [
+    "llegar"
+  ],
+  "tener que": [
+    "to have to"
+  ],
+  "to have to": [
+    "tener que",
+    "deber"
+  ],
+  "ir a": [
+    "to be going to"
+  ],
+  "to be going to": [
+    "ir a"
+  ],
+  "acabar de": [
+    "just",
+    "to have just done something"
+  ],
+  "just": [
+    "acabar de"
+  ],
+  "to have just done something": [
+    "acabar de"
+  ],
+  "aprender": [
+    "to learn"
+  ],
+  "to learn": [
+    "aprender"
+  ],
+  "comprender": [
+    "to understand"
+  ],
+  "to understand": [
+    "comprender"
+  ],
+  "creer que si": [
+    "to think so"
+  ],
+  "to think so": [
+    "creer que si"
+  ],
+  "creer que no": [
+    "to not think so"
+  ],
+  "to not think so": [
+    "creer que no"
+  ],
+  "creer": [
+    "to believe",
+    "to think"
+  ],
+  "to believe": [
+    "creer"
+  ],
+  "pensar": [
+    "to think"
+  ],
+  "to think": [
+    "pensar",
+    "creer"
+  ],
+  "deber": [
+    "to have to",
+    "must"
+  ],
+  "must": [
+    "deber"
+  ],
+  "vivir": [
+    "to live"
+  ],
+  "to live": [
+    "vivir"
+  ]
+}
