@@ -1,0 +1,502 @@
+{
+  "bienestar": [
+    "wellbeing"
+  ],
+  "wellbeing": [
+    "bienestar"
+  ],
+  "alegre": [
+    "happy"
+  ],
+  "happy": [
+    "alegre",
+    "contento"
+  ],
+  "contento": [
+    "happy"
+  ],
+  "triste": [
+    "sad"
+  ],
+  "sad": [
+    "triste",
+    "deprimido"
+  ],
+  "deprimido": [
+    "sad",
+    "depressed"
+  ],
+  "depressed": [
+    "deprimido"
+  ],
+  "enojado": [
+    "angry",
+    "annoyed"
+  ],
+  "angry": [
+    "enojado",
+    "enfadado"
+  ],
+  "annoyed": [
+    "enojado",
+    "molesto"
+  ],
+  "enfadado": [
+    "angry"
+  ],
+  "energetico": [
+    "energetic"
+  ],
+  "energetic": [
+    "energetico"
+  ],
+  "calmo": [
+    "calm"
+  ],
+  "calm": [
+    "calmo",
+    "tranquilo"
+  ],
+  "tranquilo": [
+    "calm"
+  ],
+  "nervioso": [
+    "nervous"
+  ],
+  "nervous": [
+    "nervioso"
+  ],
+  "cansado": [
+    "tired"
+  ],
+  "tired": [
+    "cansado"
+  ],
+  "de mal humor": [
+    "in a bad mood"
+  ],
+  "in a bad mood": [
+    "de mal humor"
+  ],
+  "de buen humor": [
+    "in a good mood"
+  ],
+  "in a good mood": [
+    "de buen humor"
+  ],
+  "humor": [
+    "mood"
+  ],
+  "mood": [
+    "humor"
+  ],
+  "personalidad": [
+    "personality"
+  ],
+  "personality": [
+    "personalidad"
+  ],
+  "comportamiento": [
+    "behaviour",
+    "conduct"
+  ],
+  "behaviour": [
+    "comportamiento"
+  ],
+  "conduct": [
+    "comportamiento"
+  ],
+  "modales": [
+    "manners"
+  ],
+  "manners": [
+    "modales"
+  ],
+  "energia": [
+    "energy"
+  ],
+  "energy": [
+    "energia"
+  ],
+  "entusiasmo": [
+    "enthusiasm"
+  ],
+  "enthusiasm": [
+    "entusiasmo"
+  ],
+  "paciencia": [
+    "patience"
+  ],
+  "patience": [
+    "paciencia"
+  ],
+  "dinamico": [
+    "dynamic"
+  ],
+  "dynamic": [
+    "dinamico"
+  ],
+  "paciente": [
+    "patient"
+  ],
+  "patient": [
+    "paciente",
+    "peciente"
+  ],
+  "impaciente": [
+    "impatient"
+  ],
+  "impatient": [
+    "impaciente"
+  ],
+  "flexible": [
+    "open-minded",
+    "flexible"
+  ],
+  "open-minded": [
+    "flexible"
+  ],
+  "open minded": [
+    "flexible"
+  ],
+  "terco": [
+    "stubborn",
+    "obstinate"
+  ],
+  "stubborn": [
+    "terco",
+    "obstinado"
+  ],
+  "obstinado": [
+    "stubborn",
+    "obstinate"
+  ],
+  "obstinate": [
+    "terco",
+    "obstinado"
+  ],
+  "agradable": [
+    "pleasant",
+    "friendly"
+  ],
+  "pleasant": [
+    "agradable"
+  ],
+  "friendly": [
+    "agradable"
+  ],
+  "bien educado": [
+    "polite"
+  ],
+  "polite": [
+    "bien educado"
+  ],
+  "mal educado": [
+    "rude"
+  ],
+  "rude": [
+    "mal educado"
+  ],
+  "salud": [
+    "health"
+  ],
+  "health": [
+    "salud"
+  ],
+  "catarro": [
+    "cold"
+  ],
+  "cold": [
+    "catarro"
+  ],
+  "fiebre": [
+    "fever"
+  ],
+  "fever": [
+    "fiebre"
+  ],
+  "tos": [
+    "cough"
+  ],
+  "cough": [
+    "tos"
+  ],
+  "estres": [
+    "stress"
+  ],
+  "stress": [
+    "estres"
+  ],
+  "dolor": [
+    "pain",
+    "ache"
+  ],
+  "pain": [
+    "dolor"
+  ],
+  "ache": [
+    "dolor"
+  ],
+  "garganta": [
+    "throat"
+  ],
+  "throat": [
+    "garganta"
+  ],
+  "estomago": [
+    "stomach ache"
+  ],
+  "stomach ache": [
+    "estomago",
+    "dolor de estomago"
+  ],
+  "cabeza": [
+    "headache"
+  ],
+  "headache": [
+    "cabeza",
+    "dolor de cabeza"
+  ],
+  "dolor de garganta": [
+    "sore throat"
+  ],
+  "sore throat": [
+    "dolor de garganta"
+  ],
+  "dolor de estomago": [
+    "stomach ache"
+  ],
+  "dolor de cabeza": [
+    "headache"
+  ],
+  "examen fisico": [
+    "physical"
+  ],
+  "physical": [
+    "examen fisico"
+  ],
+  "tension arterial": [
+    "blood pressure"
+  ],
+  "blood pressure": [
+    "tension arterial"
+  ],
+  "pulso": [
+    "pulse"
+  ],
+  "pulse": [
+    "pulso"
+  ],
+  "consulta": [
+    "doctor's office"
+  ],
+  "doctor's office": [
+    "consulta"
+  ],
+  "doctors office": [
+    "consulta"
+  ],
+  "medico": [
+    "doctor"
+  ],
+  "doctor": [
+    "medico"
+  ],
+  "enfermero": [
+    "nurse"
+  ],
+  "nurse": [
+    "enfermero"
+  ],
+  "peciente": [
+    "patient"
+  ],
+  "farmacia": [
+    "pharmacy",
+    "drugstore"
+  ],
+  "pharmacy": [
+    "farmacia"
+  ],
+  "drugstore": [
+    "farmacia"
+  ],
+  "farmaceutico": [
+    "pharmacist"
+  ],
+  "pharmacist": [
+    "farmaceutico"
+  ],
+  "receta": [
+    "prescription"
+  ],
+  "prescription": [
+    "receta"
+  ],
+  "medicamento": [
+    "medicine"
+  ],
+  "medicine": [
+    "medicamento",
+    "medicina"
+  ],
+  "medicina": [
+    "medicine"
+  ],
+  "enfermo": [
+    "ill",
+    "sick"
+  ],
+  "ill": [
+    "enfermo"
+  ],
+  "sick": [
+    "enfermo"
+  ],
+  "resfriado": [
+    "stuffed up (cold)",
+    "stuffed up"
+  ],
+  "stuffed up": [
+    "resfriado"
+  ],
+  "examinar": [
+    "to examine"
+  ],
+  "to examine": [
+    "examinar"
+  ],
+  "abrir": [
+    "to open"
+  ],
+  "to open": [
+    "abrir"
+  ],
+  "toser": [
+    "to cough"
+  ],
+  "to cough": [
+    "toser"
+  ],
+  "doler": [
+    "to ache",
+    "to hurt"
+  ],
+  "to ache": [
+    "doler"
+  ],
+  "to hurt": [
+    "doler"
+  ],
+  "recetar": [
+    "to prescribe"
+  ],
+  "to prescribe": [
+    "recetar"
+  ],
+  "vender": [
+    "to sell"
+  ],
+  "to sell": [
+    "vender"
+  ],
+  "sonrisa": [
+    "smile"
+  ],
+  "smile": [
+    "sonrisa"
+  ],
+  "cara": [
+    "face"
+  ],
+  "face": [
+    "cara"
+  ],
+  "boca": [
+    "mouth"
+  ],
+  "mouth": [
+    "boca"
+  ],
+  "nino": [
+    "boy",
+    "child"
+  ],
+  "boy": [
+    "nino"
+  ],
+  "nina": [
+    "girl"
+  ],
+  "girl": [
+    "nina"
+  ],
+  "child": [
+    "nino"
+  ],
+  "tipo": [
+    "guy",
+    "type"
+  ],
+  "guy": [
+    "tipo"
+  ],
+  "type": [
+    "tipo"
+  ],
+  "lleno de": [
+    "full of"
+  ],
+  "full of": [
+    "lleno de"
+  ],
+  "me falta": [
+    "i need"
+  ],
+  "i need": [
+    "me falta"
+  ],
+  "me enfada": [
+    "it angers me"
+  ],
+  "it angers me": [
+    "me enfada"
+  ],
+  "me enoja": [
+    "it annoys me"
+  ],
+  "it annoys me": [
+    "me enoja"
+  ],
+  "me molesta": [
+    "it bothers me"
+  ],
+  "it bothers me": [
+    "me molesta"
+  ],
+  "molesto": [
+    "bothered",
+    "annoyed"
+  ],
+  "bothered": [
+    "molesto"
+  ],
+  "guardar cama": [
+    "to stay in bed"
+  ],
+  "to stay in bed": [
+    "guardar cama"
+  ],
+  "tener exito": [
+    "to be successful"
+  ],
+  "to be successful": [
+    "tener exito"
+  ],
+  "exito": [
+    "success"
+  ],
+  "success": [
+    "exito"
+  ]
+}
