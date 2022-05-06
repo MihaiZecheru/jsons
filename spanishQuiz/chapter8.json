@@ -1,0 +1,403 @@
+{
+  "hello": [
+    "hola"
+  ],
+  "hola": [
+    "hello"
+  ],
+  "concierto": [
+    "concert"
+  ],
+  "concert": [
+    "concierto"
+  ],
+  "musico": [
+    "musician"
+  ],
+  "musician": [
+    "musico"
+  ],
+  "grupo": [
+    "group",
+    "band",
+    "musical group"
+  ],
+  "group": [
+    "grupo"
+  ],
+  "band": [
+    "grupo",
+    "banda"
+  ],
+  "musical group": [
+    "grupo"
+  ],
+  "banda": [
+    "band"
+  ],
+  "cantante": [
+    "singer"
+  ],
+  "singer": [
+    "cantante"
+  ],
+  "dar un concierto": [
+    "to give a concert"
+  ],
+  "to give a concert": [
+    "dar un concierto"
+  ],
+  "tocar un instrumento": [
+    "to play an instrument"
+  ],
+  "to play an instrument": [
+    "tocar un instrumento"
+  ],
+  "cantar": [
+    "to sing"
+  ],
+  "to sing": [
+    "cantar"
+  ],
+  "asistir a un concierto": [
+    "to attend a concert"
+  ],
+  "to attend a concert": [
+    "asistir a un concierto"
+  ],
+  "oir un concierto": [
+    "to hear a concert"
+  ],
+  "to hear a concert": [
+    "oir un concierto"
+  ],
+  "recibir aplausos": [
+    "to be applauded"
+  ],
+  "to be applauded": [
+    "recibir aplausos"
+  ],
+  "to recieve applause": [
+    "recibir aplausos"
+  ],
+  "recibir muchos aplausos": [
+    "to be greatly applauded"
+  ],
+  "to be greatly applauded": [
+    "recibir muchos aplausos"
+  ],
+  "to recieve much applause": [
+    "recibir muchos aplausos"
+  ],
+  "cine": [
+    "movie theater",
+    "movies"
+  ],
+  "movie theater": [
+    "cine"
+  ],
+  "movies": [
+    "cine"
+  ],
+  "pelicula": [
+    "movie",
+    "film"
+  ],
+  "movie": [
+    "pelicula"
+  ],
+  "film": [
+    "pelicula"
+  ],
+  "taquilla": [
+    "box office",
+    "ticket window"
+  ],
+  "box office": [
+    "taquilla"
+  ],
+  "ticket window": [
+    "taquilla"
+  ],
+  "boleto": [
+    "ticket"
+  ],
+  "ticket": [
+    "boleto",
+    "entrada"
+  ],
+  "entrada": [
+    "ticket"
+  ],
+  "museo": [
+    "museum"
+  ],
+  "museum": [
+    "museo"
+  ],
+  "salon": [
+    "gallery"
+  ],
+  "gallery": [
+    "salon"
+  ],
+  "cuadro": [
+    "painting"
+  ],
+  "painting": [
+    "cuadro"
+  ],
+  "estatua": [
+    "statue"
+  ],
+  "statue": [
+    "estatua"
+  ],
+  "estatua de bronce": [
+    "bronze statue"
+  ],
+  "bronze statue": [
+    "estatua de bronce"
+  ],
+  "exposicion de arte": [
+    "art show",
+    "art exhibition"
+  ],
+  "art show": [
+    "exposicion de arte"
+  ],
+  "art exhibition": [
+    "exposicion de arte"
+  ],
+  "exposicion": [
+    "exhibition"
+  ],
+  "exhibition": [
+    "exposicion"
+  ],
+  "pintor": [
+    "painter",
+    "artist"
+  ],
+  "painter": [
+    "pintor"
+  ],
+  "artist": [
+    "pintor"
+  ],
+  "escultor": [
+    "sculptor"
+  ],
+  "sculptor": [
+    "escultor"
+  ],
+  "cumpleanos": [
+    "birthday"
+  ],
+  "birthday": [
+    "cumpleanos"
+  ],
+  "fiesta": [
+    "party"
+  ],
+  "party": [
+    "fiesta"
+  ],
+  "torta": [
+    "cake"
+  ],
+  "cake": [
+    "torta",
+    "tarta",
+    "pastel"
+  ],
+  "tarta": [
+    "cake"
+  ],
+  "pastel": [
+    "cake"
+  ],
+  "velas": [
+    "candles"
+  ],
+  "candles": [
+    "velas"
+  ],
+  "regalo": [
+    "gift",
+    "present"
+  ],
+  "gift": [
+    "regalo"
+  ],
+  "present": [
+    "regalo"
+  ],
+  "galletas": [
+    "crackers"
+  ],
+  "crackers": [
+    "galletas"
+  ],
+  "cacahuates": [
+    "peanuts"
+  ],
+  "peanuts": [
+    "cacahuates"
+  ],
+  "mani": [
+    "peanut"
+  ],
+  "peanut": [
+    "mani"
+  ],
+  "vegetales": [
+    "vegetables"
+  ],
+  "vegetables": [
+    "vegetales"
+  ],
+  "vegetales crudos": [
+    "raw vegetables"
+  ],
+  "raw vegetables": [
+    "vegetales crudos"
+  ],
+  "crudo": [
+    "crude",
+    "raw"
+  ],
+  "crude": [
+    "crudo"
+  ],
+  "raw": [
+    "crudo"
+  ],
+  "picar": [
+    "to nibble on"
+  ],
+  "to nibble on": [
+    "picar"
+  ],
+  "todos": [
+    "everyone"
+  ],
+  "everyone": [
+    "todos"
+  ],
+  "casi": [
+    "almost",
+    "practically"
+  ],
+  "almost": [
+    "casi"
+  ],
+  "practically": [
+    "casi"
+  ],
+  "nada": [
+    "nothing"
+  ],
+  "nothing": [
+    "nada"
+  ],
+  "not anything": [
+    "nada"
+  ],
+  "nadie": [
+    "nobody",
+    "no one"
+  ],
+  "nobody": [
+    "nadie"
+  ],
+  "no one": [
+    "nadie"
+  ],
+  "not one": [
+    "nadie"
+  ],
+  "nunca": [
+    "never"
+  ],
+  "never": [
+    "nunca"
+  ],
+  "not ever": [
+    "nunca"
+  ],
+  "algo": [
+    "something"
+  ],
+  "something": [
+    "algo"
+  ],
+  "alguen": [
+    "someone"
+  ],
+  "someone": [
+    "alguen"
+  ],
+  "alguien": [
+    "somebody"
+  ],
+  "somebody": [
+    "alguien"
+  ],
+  "siempre": [
+    "always"
+  ],
+  "always": [
+    "siempre"
+  ],
+  "visitar": [
+    "to visit"
+  ],
+  "to visit": [
+    "visitar"
+  ],
+  "salir": [
+    "to leave",
+    "to go out"
+  ],
+  "to leave": [
+    "salir"
+  ],
+  "to go out": [
+    "salir"
+  ],
+  "perder": [
+    "to miss",
+    "to lose"
+  ],
+  "to miss": [
+    "perder"
+  ],
+  "to lose": [
+    "perder"
+  ],
+  "perder el autobus": [
+    "to miss the bus"
+  ],
+  "to miss the bus": [
+    "perder el autobus"
+  ],
+  "decidir": [
+    "to decide"
+  ],
+  "to decide": [
+    "decidir"
+  ],
+  "a proposito!": [
+    "by the way!"
+  ],
+  "by the way!": [
+    "a proposito!"
+  ],
+  "a proposito": [
+    "by the way"
+  ],
+  "by the way": [
+    "a proposito"
+  ]
+}
